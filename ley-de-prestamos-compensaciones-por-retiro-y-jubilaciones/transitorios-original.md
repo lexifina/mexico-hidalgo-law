@@ -6,3 +6,4 @@ Al Ejecutivo del Estado para su sanción y cumplimiento.
 Dado en el Salón de Sesiones del H. Congreso del Estado en Pachuca de Soto, a los treinta y un días del mes de diciembre de mil novecientos cincuenta y seis. Diputado Presidente, EULALIO ANGELES MARTINEZ.- Diputado Secretario, TIBURCIO ROLDAN BLANCAS.- Diputado Secretario, EVODIO OLIVARES LOPEZ.- Rúbricas.
 Por tanto mando se imprima, publique y circule para su debido cumplimiento.
 Dado en el Palacio del Poder Ejecutivo en la ciudad de Pachuca de Soto, Hgo., a los treinta y un días del mes de diciembre de mil novecientos cincuenta y seis.- El Gobernador Constitucional del Estado, QUINTIN RUEDA VILLAGRAN.- El Secretario General del Gobierno, LIC. PROSPERO MACOTELA CRAVIOTO.- Rúbricas.
+N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.
