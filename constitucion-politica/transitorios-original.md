@@ -1,5 +1,5 @@
 TRANSITORIOS
-Artículo 1°. Esta Constitución se protestarwá con toda solemnidad en todo el Estado, quedando derogada desde luego la anterior, así como sus adiciones y reformas.
+Artículo 1°. Esta Constitución se protestará con toda solemnidad en todo el Estado, quedando derogada desde luego la anterior, así como sus adiciones y reformas.
 Artículo 2°. En tanto se expiden las leyes orgánicas relativas, continuarán rigiendo en el Estado, las vigentes en la actualidad así como los decretos y reglamentos que no se opongan a la presente Constitución ni a la General de 5 de febrero de 1917.
 Artículo 3°. El período Constitucional de la actual Legislatura, terminará el último día de febrero de 1921; el del Gobernador, el 31 de marzo del mismo año y el de los Magistrados del Superior Tribunal de Justicia, el 4 de mayo de 1923.
 Artículo 4°. Para las próximas elecciones de Gobernador del Estado, no regirá lo dispuesto por las fracciones III y IV del artículo 48 de esta Constitución. Por esta sola vez, podrán ser electos Gobernador del Estado, los militares y funcionarios comprendidos en estas disposiciones, siempre que se hayan separado de sus respectivos puestos, los primeros, y de todo servicio los segundos, a má tardar treinta días después de promulgada esta Constitución.
