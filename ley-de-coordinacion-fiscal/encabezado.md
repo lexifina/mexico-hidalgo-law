@@ -1,0 +1,8 @@
+LEY DE COORDINACION FISCAL PARA EL ESTADO DE HIDALGO
+Ley publicada en el Periódico Oficial del Estado de Hidalgo, el sábado 30 de diciembre de 1989.
+ADOLFO LUGO VERDUZCO, Gobernador Constitucional del Estado de Hidalgo, a sus habitantes sabed:
+Que la Quincuagésima Tercera Legislatura del H. Congreso Constitucional del Estado Libre y Soberano de Hidalgo, ha tenido a bien expedir el siguiente:
+DECRETO No. 161
+QUE CONTIENE LA LEY DE COORDINACION FISCAL DEL ESTADO DE HIDALGO.
+EL HONORABLE CONGRESO CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE HIDALGO, EN USO DE LAS FACULTADES QUE LE CONFIEREN LAS FRACCIONES I Y II DEL ARTICULO 56 DE LA CONSTITUCION POLITICA DE LA ENTIDAD, DECRETA:
+LEY DE COORDINACION FISCAL DEL ESTADO DE HIDALGO.
