@@ -9,3 +9,4 @@ Al Ejecutivo del Estado para su sanción y cumplimiento.
 Dado en el Salón de Sesiones del H. Congreso del Estado, en Pachuca de Soto, a los siete días del mes de diciembre de mil novecientos setenta y uno.- Diputado Presidente, LIC. CONRADO CARPIO ZUÑIGA.- Diputado Secretario, DANIEL CAMPUZANO BARAJAS.- Diputado Secretario, ANATOLIO ROMERO TREJO.- Rúbricas.
 Por tanto mando se imprima, publique y circule para su debido cumplimiento.
 DADO en el Palacio del Poder Ejecutivo de la ciudad de Pachuca de Soto, Hidalgo, a los once días del mes de diciembre de mil novecientos setenta y uno.- El Gobernador Constitucional del Estado, LIC. MANUEL SANCHEZ VITE.- El Secretario General de Gobierno, LIC. GABRIEL ROMERO REYES.- Rúbricas.
+N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY:
