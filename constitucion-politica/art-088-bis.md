@@ -1,0 +1,3 @@
+(ADICIONADO, P.O. 16 DE ENERO DE 1987)
+Artículo 88 Bis. Corresponde al Gobierno del Estado, la rectoría del desarrollo de la Entidad, para garantizar que sea integral, fortalezca su economía, su régimen democrático, la ocupación y una más justa distribución del ingreso, permitiendo el ejercicio de la libertad y la dignidad de los individuos, grupos y clases sociales, dentro de lo que prescribe la Constitución General de la República, la particular del Estado y las leyes que de ellas emanen.
+El Estado programará, planeará, conducirá, coordinará y orientará la actividad económica en la Entidad, y regulará y fomentará las actividades que demanden el interés público sin menoscabo de la libertad.
