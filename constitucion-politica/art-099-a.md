@@ -11,7 +11,8 @@ VIII. Acordar el aumento de juzgados y la plantilla de secretarios y empleados d
 IX. Erigirse en órgano de sentencia en los juicios políticos;
 X. Informar al Gobernador o al Congreso, para determinar los casos de indulto, rehabilitación y demás que las leyes determinen, previos los trámites y con los requisitos que ellas establezcan;
 XI. Conocer de las acusaciones o quejas que se presenten en contra del Presidente del Tribunal Superior de Justicia y demás magistrados, así como de los funcionarios y empleados del Tribunal, haciendo la substanciación correspondiente, de acuerdo con el procedimiento que señale esta Constitución y las leyes respectivas;
-XII. Resolver los conflictos que surjan entre los municipios y el Congreso y
+(REFORMADA, P.O. 26 DE FEBRERO DE 2001)
+XII. Resolver los conflictos de carácter judicial que surjan entre los municipios, entre éstos y el Congreso y entre aquéllos y el Ejecutivo estatal y
 XIII. Las demás que le confieran esta Constitución y las leyes que de ella emanen.
 B. Son facultades del Tribunal Fiscal Administrativo:
 I. Dirimir las controversias que se susciten en materia fiscal y administrativa entre la Administración Pública Estatal o Municipal y los particulares. En ningún caso podrá sustituirse a la autoridad administrativa;
