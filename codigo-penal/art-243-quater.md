@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 14 DE ENERO DE 2002)
+ARTICULO 243 QUATER.- En los casos previstos en los dos Artículos precedentes, el Ministerio Público exhortará al probable responsable para que se abstenga de cualquier conducta que pudiere resultar ofensiva para la víctima y acordará las medidas preventivas necesarias, para salvaguardar la integridad física o psíquica de la misma, la autoridad administrativa vigilará el cumplimiento de estas medidas.
