@@ -1,0 +1,5 @@
+P.O. 30 DE DICIEMBRE DE 1999.
+PRIMERO.- El presente decreto entrará en vigor a (sic) día siguiente de su publicación en el Periódico Oficial del Estado.
+SEGUNDO.- Todos los créditos con garantía hipotecaria contraídos antes del inicio de vigencia de las presentes modificaciones, reformas y adiciones, se regirán por las normas civiles y procesales civiles vigentes al momento de la contratación. Lo dispuesto en el párrafo anterior, también se observará tratándose de las reestructuraciones, renegociaciones o nuevos convenios de deuda o créditos, cualquiera que sea la forma que adopten para tal efecto, que se efectúen con posterioridad al inicio de vigencia de estas reformas, modificaciones y adiciones, y que tengan como causa o antecedente un crédito hipotecario contraído con anterioridad a la vigencia de las mismas, en cuyos casos se aplicará la legislación civil y procesal civil vigentes antes de las reformas.
+TERCERO.- No serán de observancia en el juicio hipotecario las disposiciones que se opongan al presente decreto.
+CUARTO.- Publíquese el presente decreto en el Periódico Oficial del Estado.
