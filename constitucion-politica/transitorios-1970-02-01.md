@@ -1,0 +1,6 @@
+P.O. 1 DE FEBRERO DE 1970.
+1°. Esta Decreto entrará en vigor a partir de su publicación en el Periódico Oficial con las excepciones que se señalan en los artículos siguientes.
+2°. El artículo 18 que se reforma, surtirá efectos para las próximas elecciones de diputados, por lo que en su oportunidad la Comisión Estatal Electoral, con apoyo en el artículo 11 fracción X de la Ley para la Renovación de Poderes Locales y Ayuntamientos, hará la división de los Distritos Electorales Locales.
+3°. Asimismo el artículo 42 que se reforma, entrará en vigor una vez que el H. Congreso del Estado se encuentre formado por 15 diputados por lo menos.
+4°. La reforma al artículo 61 entrará en vigor, al día siguiente de la publicación en el Periódico Oficial de la Ley Orgánica del Poder Judicial.
+5º. El Título VI del Ministerio Público se integra al Título IV del Poder Ejecutivo, para formar el Capítulo III y consecuentemente el Título VII de los municipios, le corresponderá el Título VI; el Título VIII de la Hacienda Pública del Estado, será el Título VII; el Título IX que trata de la responsabilidad de los funcionarios pasará a ser el Título VIII; el Título X de la Reforma e Inviolabilidad de esta Constitución, le corresponde el Título IX; y el Título XI, que trata de las disposiciones Generales le corresponde el Título X.
