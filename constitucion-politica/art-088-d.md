@@ -1,2 +1,1 @@
-(ADICIONADO, P.O. 16 DE ENERO DE 1987)
-Artículo 88d. En el Programa y en el Plan, se considerarán las cuestiones que se presenten en la Entidad con motivo de las necesidades de su población, en materias de alimentos, vivienda, salud, educación, empleo, y otras fundamentales para el bienestar social, dándoseles la solución adecuada, dentro de las posibilidades que permitan los recursos naturales, humanos, técnicos y presupuéstales de que se puede disponer para ello. Se propiciará un desarrollo armónico, distribuyéndose la producción económica, justa, equitativa y convenientemente, en las distintas zonas del Estado, de tal manera, que se evite la concentración demográfica e industrial en algunas de ellas solamente.
+Artículo 88d. (DEROGADO, P.O. 1 DE OCTUBRE DE 1987)

@@ -1,2 +1,1 @@
-(ADICIONADO, P.O. 16 DE ENERO DE 1987)
-Artículo 88c. El Programa General de Gobierno y el Plan Estatal de Desarrollo, tendrán como principios directores, los que contiene el Proyecto Nacional, que se basa en la Constitución Política de los Estados Unidos Mexicanos, que representa la síntesis de las aspiraciones que el pueblo ha planteado, ratificado y desarrollado en su trayectoria hacia la integración y afirmación de su nacionalidad, organización política federal, representativa y democrática.
+Artículo 88c. (DEROGADO, P.O. 1 DE OCTUBRE DE 1987)
