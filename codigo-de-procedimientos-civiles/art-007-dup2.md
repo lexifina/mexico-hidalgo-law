@@ -1,0 +1,1 @@
+Artículo 7.- Los juicios ante Jueces Conciliadores se tramitarán en dos audiencias, la primera o sea la de demanda y contestación, y la segunda, o sea la de pruebas, alegatos y sentencia, mediando entre una y otra audiencia, de diez a quince días hábiles.

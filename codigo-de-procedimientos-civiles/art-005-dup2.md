@@ -1,0 +1,3 @@
+Artículo 5.- Cada Juzgado conocerá de los negocios relativos a predios ubicados dentro de ella cuando se trate de arrendamiento o acciones reales sobre bienes inmuebles.
+Conocerá también de aquéllos en que el demandado sea citado en lugar que se encuentre comprendido también en el Municipio.
+En caso de duda será competente por razón del territorio el Juez Conciliador que haya prevenido y en ningún caso se dará entrada a cuestión relativa a competencia de jurisdicción por aquel concepto; por el hecho de haber conocido indebidamente, será motivo de corrección disciplinaria que impondrá el Presidente del Tribunal Superior mediante queja del agraviado.

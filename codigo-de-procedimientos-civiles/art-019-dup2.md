@@ -1,0 +1,3 @@
+Artículo 19.- Concurriendo al Juzgado las partes en virtud de la citación, se abrirá la audiencia y expondrán sus pretensiones por su orden, el actor su demanda y el reo su contestación.
+Si al ser llamado a contestar la demanda no estuviere presente el demandado y constare que fue debidamente citado con el apercibimiento de darlo por confeso, lo cual comprobará el Juez con especial cuidado, se dará por contestada la demanda en sentido afirmativo y se mandará citar a las partes para la audiencia de pruebas, alegatos y sentencia, en caso de que no se haya hecho esta cita.
+En cualquier momento en que se presente en la audiencia el demandado, continuará con su intervención según el estado en que se halle.

@@ -1,0 +1,1 @@
+Artículo 40.- En los negocios de la competencia de los Juzgados Conciliadores, únicamente se aplicarán las disposiciones de este Código y de la Ley de Organización de Tribunales, en lo que fuere indispensable, para complementar las disposiciones de este título y que no se oponga directa ni indirectamente a éstas.

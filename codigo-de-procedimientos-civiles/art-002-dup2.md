@@ -1,0 +1,3 @@
+Artículo 2.- Conocerán los Jueces Conciliadores de los juicios cuya cuantía no exceda de doscientos pesos a excepción del de Pachuca, que conocerá de los juicios hasta por quinientos pesos.
+Para estimar el interés del negocio se atenderá a lo que el actor demande, como suerte principal e intereses líquidos. Los réditos, daños y perjuicios no serán tenidos en consideración si son posteriores a la presentación de la demanda aún cuando se reclamen en ella.
+Cuando se trate de arrendamiento o se demande el cumplimiento de obligación consistente en prestaciones periódicas se computará el importe de las pensiones en un año a no ser que se tratare de prestaciones vencidas, en cuyo caso, se estará a lo dispuesto en la primera parte de este artículo.

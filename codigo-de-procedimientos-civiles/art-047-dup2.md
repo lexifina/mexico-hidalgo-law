@@ -1,0 +1,1 @@
+Artículo 47.- Los Jueces Conciliadores deben excusarse cuando estén impedidos y en tal caso el negocio pasará al otro Juez de número inmediato nombrado por la Asamblea Municipal. Si los Jueces impedidos no se excusaren, a queja de parte, el Superior impondrá corrección disciplinaria y hará la anotación en el expediente del funcionario.

@@ -1,0 +1,2 @@
+Artículo 34.- Cuando la sentencia condene a entregar cosa determinada para obtener su cumplimiento se podrán emplear los medios de apremio que autoriza el artículo 72 de este Código y si fuere necesario el cateo, se podrá autorizar previa orden especial y escrita que se rompan cerraduras en cuanto fuere posible, para encontrar la cosa.
+Si ni aun así se obtuviere la entrega, el Juez fijará la cantidad que como reparación se deba entregar a la parte que obtuvo, procediéndose a exigir su pago con arreglo a los artículos 25 a 32.

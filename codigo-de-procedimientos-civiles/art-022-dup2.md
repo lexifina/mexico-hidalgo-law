@@ -1,0 +1,1 @@
+Artículo 22.- En los negocios menores de cincuenta pesos, los Jueces Conciliadores sentenciarán a verdad sabida sin necesidad de sujetarse a las reglas sobre estimación de las pruebas sino apreciando los hechos según los Jueces lo creyeren debido en conciencia.

@@ -1,0 +1,1 @@
+Artículo 4.- Cuando el Juez, en cualquier estado del negocio, encuentre que éste no es de su competencia por exceder de los límites que se fija en el artículo 2o. o en razón de corresponder a Juez de diversa jurisdicción o de otro fuero, suspenderá de plano el procedimiento y remitirá lo actuado al Juez correspondiente.
