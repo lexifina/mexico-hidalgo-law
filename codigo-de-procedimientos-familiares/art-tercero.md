@@ -1,0 +1,1 @@
+ARTICULO TERCERO.- La substanciación de los negocios que estén pendientes en primera o segunda instancia al entrar en vigor este Código, se sujetarán a las disposiciones del anterior hasta pronunciarse sentencia ejecutoriada.

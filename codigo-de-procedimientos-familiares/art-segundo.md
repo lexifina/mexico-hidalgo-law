@@ -1,0 +1,1 @@
+ARTICULO SEGUNDO.- Se abroga el Código de Procedimientos Familiares reformado para el Estado de Hidalgo contenido en Decreto Número 158 de fecha 21 de noviembre de 1986, Publicado en fecha 8 de diciembre del mismo año en Alcance al Periódico Oficial del Gobierno de Estado.
