@@ -1,0 +1,16 @@
+TRANSITORIOS
+ARTÍCULO PRIMERO.- La presente Ley entrará en vigor al día siguiente de su Publicación en el Periódico Oficial del Gobierno del Estado.
+ARTÍCULO SEGUNDO.- El Sistema a que se refiere esta Ley, se integrará dentro de los sesenta días naturales siguientes a la entrada en vigor de la presente Ley.
+ARTÍCULO TERCERO.- El Reglamento de esta Ley se expedirá dentro de los noventa días naturales siguientes a la entrada en vigor de la presente Ley.
+ARTÍCULO CUARTO.- Dentro de los ciento veinte días naturales posteriores a la integración del Sistema, deberá aprobarse el Programa Estatal para Prevenir, Atender, Sancionar y Erradicar la Violencia de Género contra las Mujeres.
+AL EJECUTIVO DE LA ENTIDAD PARA LOS EFECTOS DEL ARTICULO 51 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE HIDALGO.- DADO EN LA SALA DE SESIONES DEL CONGRESO DEL ESTADO, EN LA CIUDAD DE PACHUCA DE SOTO, HGO., A LOS TREINTA DÍAS DEL MES DE DICIEMBRE DEL AÑO DOS MIL SIETE.
+PRESIDENTE
+DIP. JOSÉ ALBERTO NARVÁEZ GÓMEZ.
+SECRETARIA
+DIP. JERUSALEM KURI DEL CAMPO
+SECRETARIA
+DIP. TATIANA TONANTZIN P. ANGELES MORENO
+EN USO DE LAS FACULTADES QUE ME CONFIERE EL ARTICULO 71 FRACCIÓN I DE LA CONSTITUCIÓN POLITICA DEL ESTADO, TENGO A BIEN PROMULGAR EL PRESENTE DECRETO, POR LO TANTO, MANDO SE IMPRIMA, PUBLIQUE Y CIRCULE PARA SU EXACTA OBSERVANCIA Y DEBIDO CUMPLIMIENTO.
+DADO EN LA RESIDENCIA DEL PODER EJECUTIVO DEL ESTADO LIBRE Y SOBERANO DE HIDALGO, A LOS TREINTA Y UN DÍAS DEL MES DE DICIEMBRE DEL AÑO DOS MIL SIETE.
+EL GOBERNADOR CONSTITUCIONAL DEL ESTADO DE HIDALGO
+LIC. MIGUEL ÁNGEL OSORIO CHONG
