@@ -1,0 +1,11 @@
+(ADICIONADO, P.O. 21 DE ABRIL DE 2008)
+ARTICULO 265 BIS.- Se impondrán de tres a nueve años de prisión y de ciento cincuenta a cuatrocientos cincuenta días de salario mínimo de multa al que, sin consentimiento de quien esté facultado para ello:
+I.- Produzca, imprima, enajene, distribuya, altere o falsifique, aún gratuitamente, tarjetas, títulos o documentos utilizados para el pago de bienes y servicios o para disposición de efectivo;
+II.- Adquiera, utilice, posea o detente, indebidamente, tarjetas, títulos o documentos para el pago de bienes y servicios, a sabiendas de que son alterados o falsificados;
+III.- Adquiera, utilice, posea o detente, indebidamente, tarjetas, títulos, o documentos auténticos para el pago de bienes y servicios o para disposición de efectivo;
+IV.- Altere, copie o reproduzca, indebidamente, los medios de identificación electrónica de tarjetas, títulos o documentos para el pago de bienes y servicios o para disposición de efectivo;
+V.- Acceda indebidamente a los equipos electromagnéticos o sistemas de cómputo de las instituciones emisoras de tarjetas, títulos o documentos para el pago de bienes y servicios o para disposición de efectivo; o
+VI.- Adquiera, utilice, posea o detente equipos electromagnéticos o electrónicos para sustraer en forma indebida la información contenida en la cinta magnética de tarjetas, títulos o documentos para el pago de bienes y servicios o para disposición de efectivo.
+Las mismas penas se impondrán a quien utilice o revele indebidamente información confidencial o reservada de la institución o persona que legalmente esté facultada para emitir tarjetas, títulos o documentos utilizados para el pago de bienes y servicios. Asimismo, se impondrán similares penas a quien posea o detente en forma indebida a través de cualquier medio o equipos electromagnéticos o electrónicos información confidencial o reservada de la institución que legalmente esté facultada para emitir tarjetas, títulos o documentos utilizados para el pago de bienes y servicios.
+Si el sujeto activo es empleado o dependiente del ofendido, las penas aumentarán en una mitad.
+En el caso de que se actualicen otros delitos con motivo de las conductas a que se refiere este Artículo, se aplicarán las reglas del concurso.
