@@ -1,0 +1,1 @@
+ARTÍCULO SEGUNDO.- El Instituto Hidalguense del Deporte, procederá a la expedición del Reglamento de esta Ley, en un plazo no mayor de ciento ochenta días siguientes a la fecha de entrada en vigor de la presente Ley.
