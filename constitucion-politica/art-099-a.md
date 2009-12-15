@@ -1,7 +1,8 @@
 (REFORMADO, P.O. 9 DE MAYO DE 1998)
 Artículo 99. A. Son facultades del Tribunal Superior de Justicia:
 I. Conocer de las controversias en que el Estado fuere parte, salvo lo dispuesto por la Constitución Política de los Estados Unidos Mexicanos;
-II. Resolver las controversias que se susciten en materia civil, familiar y penal;
+(REFORMADA, P.O. 14 DE DICIEMBRE DE 2009)
+II. Resolver las controversias que se susciten en materia civil, familiar, penal, mercantil y especializada en justicia para adolescentes;
 III. Conocer de las controversias que resulten por la aplicación de leyes federales, en los casos que establezca la Constitución Política de los Estados Unidos Mexicanos;
 IV. Conocer de los recursos de apelación, queja y cualesquiera otros señalados en las leyes locales;
 V. Conocer de los conflictos de competencia que se susciten entre los jueces;
