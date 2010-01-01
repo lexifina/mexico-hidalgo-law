@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2009)
+Art. 1530 Ter.- El precio del inmueble o su valor de avalúo no debe exceder del equivalente a 25 veces el salario mínimo general vigente en el Estado de Hidalgo elevado al año, al momento de la adquisición. En los casos de regularización de inmuebles que lleven a cabo las dependencias y entidades a que se refiere el Artículo anterior, no importará su monto.

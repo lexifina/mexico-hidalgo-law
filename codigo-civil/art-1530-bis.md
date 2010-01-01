@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2009)
+Art. 1530 Bis.- Testamento público simplificado es aquél que se otorga ante notario público respecto de un inmueble destinado o que vaya a destinarse a vivienda por el adquirente en la misma escritura que consigne su adquisición o en la que se consigne la regularización del inmueble que lleven a cabo las autoridades del Gobierno Federal, del Estado o Municipios o cualquiera de sus dependencias o entidades, o en acto posterior.
