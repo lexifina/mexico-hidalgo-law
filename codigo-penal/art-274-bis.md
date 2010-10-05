@@ -1,0 +1,7 @@
+(ADICIONADO, P.O. 4 DE OCTUBRE DE 2010)
+ARTÍCULO 274 Bis.- Las penas que resulten de las fracciones I y II del Artículo anterior, se incrementarán hasta en una mitad:
+a).- Si el agente se valiese de la función pública que tuviere o hubiere ostentado sin tenerla. Se impondrá además, al servidor público la destitución del empleo, cargo o comisión públicos e inhabilitación para desempeñar otro cargo, hasta por un tiempo igual al de la pena de prisión impuesta;
+b).- Cuando el sujeto activo del delito se aproveche de la condición de vulnerabilidad derivada de la suma ignorancia, notoria inexperiencia, extrema miseria o extrema necesidad de la víctima, o cuando ésta sea persona mayor de setenta años de edad, cuando se trate de persona indígena o migrante; y
+c).- Cuando el sujeto activo del delito tenga parentesco civil, por afinidad o consanguinidad con la víctima, hasta el cuarto grado; habite el mismo domicilio, que la víctima; sea tutor o curador de la víctima; sea ministro de culto religioso o se aproveche de una posición de autoridad por virtud de una relación laboral, docente, doméstica, médica o cualquier otra que implique subordinación.
+En los casos señalados en este inciso el juez podrá, atendiendo a las circunstancias del hecho, decretar además, la pérdida del derecho a alimentos que le correspondiera por su relación con la víctima, así como la pérdida de la patria potestad.
+Cuando en la comisión del delito de trata de personas concurra otro delito, se aplicarán las reglas del concurso establecidas en el Código Penal del Estado.
