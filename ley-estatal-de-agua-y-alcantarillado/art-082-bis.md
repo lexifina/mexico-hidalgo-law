@@ -1,0 +1,3 @@
+(ADICIONADO, P.O. 13 DE DICIEMBRE DE 2010)
+Artículo 82 Bis.- Corresponde a la Procuraduría la investigación, supervisión, vigilancia y verificación de la observancia y cumplimiento de las Normas Oficiales Mexicanas correspondientes, de conformidad con los acuerdos de coordinación que celebren con la Federación, así como requerir y, en su caso, sancionar, a quienes generen descargas de aguas residuales que no cumplan con la normatividad aplicable.
+Los procedimientos respectivos se realizaran en términos de lo previsto al efecto en el Libro Segundo de la Ley para la Protección al Ambiente del Estado de Hidalgo.
