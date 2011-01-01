@@ -1,0 +1,3 @@
+(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2010)
+ARTICULO 349 NONIES.- La reducción de las penas por los delitos previstos en este Título, podrá decretarla el Juez, de oficio o a petición de parte; hasta en tres cuartas partes, cuando el agente, en forma voluntaria, haya restablecido las condiciones de los elementos naturales afectados al estado en que se encontraban antes de realizarse la conducta y, cuando esto no sea posible, será mediante la ejecución de acciones u obras que compensen los daños ambientales que se hubieren generado.
+A efecto de que pueda acreditarse el supuesto de procedencia de la mencionada atenuante, deberá constar en el expediente respectivo el dictamen técnico favorable emitido por la autoridad ambiental competente.
