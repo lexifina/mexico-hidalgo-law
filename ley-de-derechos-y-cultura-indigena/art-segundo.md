@@ -1,0 +1,1 @@
+Artículo Segundo.- El titular del Poder Ejecutivo del Estado de Hidalgo dispondrá, que la presente Ley, se traduzca a las lenguas que hablan los diferentes pueblos y comunidades indígenas existentes en el Territorio Estatal, así como, la difusión entre las diferentes Dependencias Educativas y de Gobierno en sus respectivos niveles.
