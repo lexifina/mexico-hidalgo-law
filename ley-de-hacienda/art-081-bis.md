@@ -1,7 +1,6 @@
 (ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 31 DE DICIEMBRE DE 2010)
 CAPITULO SEGUNDO BIS
 DE LAS DEPENDENCIAS DE LA SECRETARIA DE ADMINISTRACION
-N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTICULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 18 DE ABRIL DE 2011 EN EL P.O. DEL ESTADO DE HIDALGO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.
 (ADICIONADO, P.O. 31 DE DICIEMBRE DE 2010)
 ARTICULO 81 BIS.- Los derechos por la prestación de servicios del Estado, a través de la Secretaría de Administración, se causarán y pagarán de la siguiente forma:
 Por la expedición en copia simple o certificada, o reproducción de la información en dispositivo de almacenamiento, derivado del ejercicio del derecho de acceso a la información de conformidad con la Ley de Transparencia y Acceso a la Información Pública del Estado de Hidalgo, se causarán y pagarán los derechos de la siguiente forma:
