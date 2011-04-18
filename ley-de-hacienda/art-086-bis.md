@@ -2,8 +2,8 @@ N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO, VEASE TRANSI
 (ADICIONADO [N. DE E. REFORMADA SU DENOMINACION], P.O. 31 DE DICIEMBRE DE 2009)
 CAPITULO SEPTIMO
 DE LA UNIDAD DE INFORMACION PUBLICA GUBERNAMENTAL DEL PODER EJECUTIVO
-(REFORMADO, P.O. 31 DE DICIEMBRE DE 2010)
-ARTICULO 86 BIS.- Los derechos por la prestación de servicios, a través de los organismos descentralizados, serán los siguientes:
+(REFORMADO, P.O. 31 DE DICIEMBRE DE 2010) (F. DE E., P.O. 18 DE ABRIL DE 2011)
+ARTICULO 86 BIS.- Los derechos por la prestación de servicios, a través de los Organismos Descentralizados, serán los siguientes:
 I.- Servicios en Materia Educativa:
 1.- Inscripciones;
 2.- Inscripción nivel licenciatura;
@@ -120,7 +120,8 @@ I.- Servicios en Materia Educativa:
 113.- Dictámenes de programas de estudios;
 114.- Seminario de titulación;
 115.- Impartición de diplomados;
-II.- Servicios en Materia de Salud:
+(F. DE E., P.O. 18 DE ABRIL DE 2011)
+I (sic).- Servicios en Materia de Salud:
 DESCRIPCION
 CONSULTA EXTERNA
 1.- Consulta general;
@@ -1639,13 +1640,15 @@ CARNICOS
 1379.- Nitritos (no3);
 1380.- Otros;
 1381.- Determinación de clembuterol (orina, suero e hígado);
-ANALISIS MICROBIOLOGICO DE AGUA Y ALIMENTOS
+(F. DE E., P.O. 18 DE ABRIL DE 2011)
+ANÁLISIS MICROBIOLÓGICO DE AGUA Y ALIMENTOS
 1382.- Método para la cuenta de bacterias aerobias en placa;
 1383.- Método para la determinación de bacterias coliformes;
 1384.- Por la técnica del nmp;
 1385.- Investigación de staphylococcus aureus;
 1386.- Investigación de salmonella en alimentos;
-1387.- Métodos para la determinación de cuentas de mohos;
+(F. DE E., P.O. 18 DE ABRIL DE 2011)
+1387.- Métodos para la determinación de cuentas de mohos y levaduras en alimentos;
 1388.- Y levaduras en alimentos;
 1389.- Investigación de vibrio cholerae en pescados;
 1390.- Investigación de vibrio cholerea en mariscos;
@@ -1986,7 +1989,8 @@ Servicios de Desarrollo Urbano:
 8.- Cesión de derechos lote habitacional;
 9.- Cesión de derechos lote comercial;
 10.- Cesión de derechos lote casa-habitación;
-11.- Expedición de copias de documentos en archivo;
+(F. DE E., P.O. 18 DE ABRIL DE 2011)
+11.- Expedición de copias de documentos en archivo: primera hoja; por las siguientes.
 12.- Primera hoja;
 13.- Por las siguientes;
 14.- Expedición de Constancias de Propiedad;
@@ -2090,7 +2094,8 @@ V.- Servicios en Materia Ambiental;
 38.- Pérdida o extravío del folio de multa;
 39.- Por día de retraso en la entrega de discos sps, bitácora o curvas de calibración, entrega de informe mensual o papelería y multas;
 40.- Por día de retraso (días naturales) en la entrega de curvas de calibración y/o fianza;
-41.- Recepción de solicitudes y evaluación de campo - gabinete para la apertura de nuevos centros de (sic);
+(F. DE E., P.O. 18 DE ABRIL DE 2011)
+41.- Recepción de solicitudes y evaluación de campo - gabinete para la apertura de nuevos centros de verificación;
 42.- Recepción de solicitudes y evaluación de campo gabinete para la apertura de talleres PIREC;
 43.- Recepción, evaluación y dictaminación de informes preventivos;
 44.- Recepción, evaluación y dictaminación de manifiestos, con superficies de una a cinco hectáreas;
