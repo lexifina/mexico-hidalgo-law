@@ -1,0 +1,10 @@
+N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.
+(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 31 DE MARZO DE 2011)
+SECCIÓN VIII
+N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.
+(ADICIONADO, P.O. 31 DE MARZO DE 2011)
+Artículo 208 Bis.- Para que la fama pública sea admitida como prueba, debe tener las condiciones siguientes:
+I.- Que se refiera a época anterior al principio del pleito;
+II.- Que tenga origen de personas determinadas, que sean o hayan sido conocidas, honradas, fidedignas y que no hayan tenido ningún interés alguno en el negocio de que se trate;
+III.- Que sea uniforme, constante y aceptada por la generalidad de la población donde se supone acontecido el suceso de que se trata;
+IV.- Que no tenga por fundamento las preocupaciones religiosas o populares ni las exageraciones de los partidos políticos, sino una tradición racional, o algunos hechos que, aunque indirectamente, la comprueben.
