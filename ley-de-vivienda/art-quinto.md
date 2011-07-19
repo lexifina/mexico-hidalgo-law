@@ -1,0 +1,1 @@
+ARTÍCULO QUINTO.- De igual manera no afectará el cambio de denominación de la Promotora de Vivienda Hidalgo a los asuntos que se encuentren en trámite, es decir que estos se continuarán desahogando de acuerdo al área que les corresponda dentro de la estructura orgánica de la Comisión Estatal de Vivienda.

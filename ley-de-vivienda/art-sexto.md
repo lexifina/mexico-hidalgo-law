@@ -1,0 +1,1 @@
+ARTÍCULO SEXTO.- Para proveer al exacto cumplimiento de esta Ley, el Ejecutivo del Estado expedirá su correspondiente Reglamento en un término de ciento veinte días naturales contados a partir de la entrada en vigor de la presente Ley.
