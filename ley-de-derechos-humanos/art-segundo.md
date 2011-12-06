@@ -1,0 +1,1 @@
+Artículo Segundo.- El Presidente y los integrantes del Consejo que están actualmente en funciones cumplirán su encargo durante todo el plazo para el que fueron nombrados, en los términos dispuestos por la anterior Ley Orgánica de la Comisión de Derechos Humanos del Estado de Hidalgo.
