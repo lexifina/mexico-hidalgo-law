@@ -1,0 +1,1 @@
+Artículo Segundo. El Congreso del Estado, a través de las áreas correspondientes, procederá a tomar las providencias necesarias para dotar de lo necesario al Instituto, a fin de que cuente con el personal, mobiliario y suministros necesarios para su operación.
