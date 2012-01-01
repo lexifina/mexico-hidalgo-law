@@ -12,7 +12,7 @@ VIII. (DEROGADA, P.O. 17 DE JULIO DE 2006)
 IX. Erigirse en órgano de sentencia en los juicios políticos;
 X. Informar al Gobernador o al Congreso, para determinar los casos de indulto, rehabilitación y demás que las leyes determinen, previos los trámites y con los requisitos que ellas establezcan;
 (REFORMADA, P.O. 17 DE JULIO DE 2006)
-XI. Conocer de las acusaciones o quejas que se presenten en contra del Presidente del Tribunal Superior de Justicia y demás Magistrados, haciendo la substanciación correspondiente, de acuerdo con el procedimiento que señale esta Constitución y las Leyes respectivas;
+XI. Conocer de las acusaciones o quejas que se presenten en contra del Presidente del Tribunal Superior de Justicia y demás Magistrados, haciendo la substanciación correspondiente, de acuerdo con el procedimiento que señale esta Constitución y las Leyes respectivas
 (REFORMADA, P.O. 26 DE FEBRERO DE 2001)
 XII. Resolver los conflictos de carácter judicial que surjan entre los municipios, entre éstos y el Congreso y entre aquéllos y el Ejecutivo estatal y
 XIII. Las demás que le confieran esta Constitución y las leyes que de ella emanen.

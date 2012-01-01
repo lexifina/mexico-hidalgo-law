@@ -1,4 +1,4 @@
-CONSTITUCION POLITICA DEL ESTADO DE HIDALGO
+CONSTITUCIÓN POLÍTICA DEL ESTADO DE HIDALGO
 Constitución publicada en el Periódico Oficial del Estado de Hidalgo, el 1 de octubre de 1920.
 NICOLAS FLORES, GOBERNADOR CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE HIDALGO, A SUS HABITANTES, SABED:
 Que el H. Congreso del Estado, ha tenido a bien expedir el siguiente
