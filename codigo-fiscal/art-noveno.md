@@ -1,0 +1,1 @@
+Artículo Noveno.- El Director del Archivo General de Notarías y del Registro Público no podrá actuar durante este ejercicio como Notario y su protocolo, apéndices, minutas y demás documentos anexos deberá concentrarlos a la Dirección del mencionado Archivo.
