@@ -1,0 +1,7 @@
+(ADICIONADO, P.O. 27 DE AGOSTO DE 2012)
+ARTICULO 70 TER.- Para instalar Estaciones de Servicio, se deberán ajustar a los siguientes lineamientos, independientemente de sujetarse a las normas y especificaciones generales para proyectos y de construcción expedidas por PEMEX:
+Se instalarán entre una y otra, con una distancia mínima lineal de mil metros en el mismo sentido de circulación en áreas urbanas y de diez mil metros en áreas rurales y carreteras, excepto cuando en la misma exista una división entre las circulaciones.
+El predio debe ubicarse a una distancia mínima de resguardo de 100 metros radiales de centros de concentración masiva, tales como escuelas, hospitales, mercados, cines, teatros, estadios, auditorios y templos. Esta distancia se medirá de los muros de los edificios indicados a los dispensarios o tanques de almacenamiento de combustible.
+El predio deberá estar a una distancia mínima de resguardo de 100 metros radiales con respecto a una planta de almacenamiento de gas LP y centros de despacho a sistemas de carburación automotor.
+Los tanques de almacenamiento deben ubicarse a una distancia mínima de resguardo de 30 metros con respecto a líneas de alta tensión, vías férreas y ductos que transporten productos derivados del petróleo.
+En áreas habitacionales la distancia mínima de separación a las viviendas será de 15 metros a los tanques de almacenamiento, debiendo construir una barda como resguardo a doble altura.

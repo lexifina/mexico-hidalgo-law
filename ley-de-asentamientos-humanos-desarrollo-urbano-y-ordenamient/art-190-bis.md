@@ -1,0 +1,3 @@
+(ADICIONADO, P.O. 27 DE AGOSTO DE 2012)
+ARTICULO 190 BIS.- La Secretaría o los municipios, para dar trámite a las denuncias ciudadanas o a las iniciadas de oficio y para comprobar el cumplimiento de las disposiciones y condicionantes contenidas en la presente Ley, Reglamentos, Decretos, acuerdos, licencias y autorizaciones, deberán seguir lo previsto en referencia a la verificación o supervisión de conformidad a lo establecido en la Ley Estatal del Procedimiento Administrativo del estado de Hidalgo.
+Los visitados a quienes se haya practicado el acto de inspección, podrán formular observaciones a lo que su derecho convenga o reservarse el mismo en el apartado del acta circunstanciada o de verificación.

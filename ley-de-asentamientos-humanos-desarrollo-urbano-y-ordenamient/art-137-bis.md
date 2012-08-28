@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 27 DE AGOSTO DE 2012)
+ARTICULO 137 BIS.- Previa a la aprobación de los programas municipales de desarrollo urbano, los municipios deberán obtener de la Secretaria el Dictamen de congruencia, mismo que se emitirá considerando los principios aplicables en esta Ley, así como las políticas y estrategias del Programa Estatal de Desarrollo Urbano y Ordenamiento Territorial y en su caso, las del Programa Regional o Programa Parcial de Desarrollo Urbano aplicable.
