@@ -1,0 +1,4 @@
+P.O. 10 DE SEPTIEMBRE DE 2012.
+DECRETO No. 285 POR EL QUE SE REFORMAN EL ARTÍCULO 2, LA DENOMINACIÓN DEL TÍTULO SEGUNDO, DE LOS DERECHOS HUMANOS Y SUS GARANTÍAS, EL ARTÍCULO 4, EL PRIMER PÁRRAFO DEL ARTÍCULO 5, EL PRIMER PÁRRAFO DEL ARTÍCULO 8 BIS, EL PÁRRAFO SÉPTIMO DEL ARTÍCULO 9, EL ARTÍCULO 9 BIS, LA FRACCIÓN I DEL ARTÍCULO 12, LA FRACCIÓN IV DEL ARTÍCULO 59, LA FRACCIÓN IX DEL ARTÍCULO 71, EL PRIMER PÁRRAFO DEL ARTÍCULO 82, LA FRACCIÓN SEGUNDA DEL ARTÍCULO 141 Y EL PRIMER PÁRRAFO DEL ARTÍCULO 150, SE ADICIONA LA FRACCIÓN XX BIS AL ARTÍCULO 56.
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su Publicación en el Periódico Oficial del Estado de Hidalgo.
+SEGUNDO.- El Presidente y los actuales Consejeros del Consejo Consultivo de la Comisión de Derechos Humanos del Estado de Hidalgo, continuarán en su encargo hasta concluir el periodo para el cual fueron designados.
