@@ -1,4 +1,4 @@
-N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.
+N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.
 (ADICIONADO, P.O. 9 DE AGOSTO DE 2010)
 Artículo 142 Bis 6.- La Secretaría de Salud elaborará un Programa Estatal contra la fármacodependencia, y lo ejecutará en coordinación con Dependencias y Entidades del Sector Salud y con los Gobiernos Municipales.
 Este programa establecerá los procedimientos y criterios para la prevención, tratamiento y control de las adicciones y será de observancia obligatoria para los prestadores de servicios de salud del Sistema Estatal de Salud en todo el territorio y en los establecimientos de los sectores público, privado y social que realicen actividades preventivas, de tratamiento y de control de las adicciones y la farmacodependencia.
