@@ -18,4 +18,4 @@ Diputado Presidente.- LIC. POMPEYO ANGELES MEJIA.- Diputado Secretario.- LIC. JO
 Por lo tanto mando se imprima, publique y circule para su debido cumplimiento el Decreto No. 45 expedido por la LII Legislatura del H. Congreso Constitucional del Estado, que contiene la Ley de los Trabajadores al Servicio de los Gobiernos Estatal y Municipales, así como de los Organismo Descentralizados del Estado de Hidalgo.
 Dado en el Palacio del Poder Ejecutivo de la ciudad de Pachuca de Soto, Estado de Hidalgo a los treinta y un días del mes de Diciembre de mil novecientos ochenta y siete.
 El Gobernador Constitucional del Estado.- LIC. ADOLFO LUGO VERDUZCO.- El Secretario de Gobernación.- LIC. ERNESTO GIL ELORDUY.- Rúbricas.
-N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.
+N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.
