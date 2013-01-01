@@ -1,7 +1,7 @@
-(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 14 DE ENERO DE 2002)
+(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 14 DE ENERO DE 2002)
 CAPITULO IX
 VIOLENCIA FAMILIAR
-(REFORMADO PRIMER PARRAFO, P.O. 31 DE MARZO DE 2011)
+(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE MARZO DE 2011)
 ARTICULO 243 BIS.- Por violencia familiar, se entiende el uso de la fuerza física o moral, así como la omisión que se ejerza en contra de un miembro de la familia por otro integrante de la misma, contra su integridad física, psíquica o ambas, independientemente de que pueda producir o no otro delito.
 (ADICIONADO, P.O. 14 DE ENERO DE 2002)
 Comete el delito de violencia familiar, el cónyuge, concubina o concubino, pariente consanguíneo en línea recta ascendente o descendente sin limitación de grado, pariente colateral consanguíneo o afín hasta el cuarto grado, adoptante o adoptado, que habite en la misma casa de la víctima.

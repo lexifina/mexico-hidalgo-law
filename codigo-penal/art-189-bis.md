@@ -1,4 +1,7 @@
-(ADICIONADO, P.O. 14 DE ENERO DE 2002)
-ARTICULO 189 BIS.- Al que con fines lascivos, asedie reiteradamente a persona de cualquier sexo, valiéndose de su posición jerárquica derivada de sus relaciones laborales, docentes, domésticas o cualquier otra que implique subordinación, se le impondrá multa de 20 a 40 días, si el hostigador fuese servidor público y utiliza los medios y las circunstancias que el cargo le proporcione, se le suspenderá o privará del mismo.
-El hostigamiento sexual, solamente será punible cuando se cauce (sic) un perjuicio o daño.
-Sólo se procederá contra el hostigador a petición de parte ofendida.
+(REFORMADO, P.O. 31 DE DICIEMBRE DE 2012)
+ARTICULO 189 BIS.- Al que con fines lascivos, asedie a una persona, se le impondrá prisión de tres meses a dos años y multa de 40 a 80 días.
+Se duplicará la punibilidad prevista en el párrafo anterior:
+I.- Cuando el hostigador se valga de su relación laboral, docente, doméstica o cualquier otra que implique subordinación de la víctima.
+II.- Cuando la víctima sea menor de edad o persona que no tenga capacidad de comprender el significado del hecho o posibilidad para resistirlo; o
+III.- Cuando el hostigador sea servidor público y utilice los medios y las circunstancias que el cargo le proporcione, caso en el cual también se le privará del cargo que desempeñe y se le inhabilitará para desempeñar cualquier otro, por el mismo tiempo que dure la pena de prisión impuesta.
+Este delito se perseguirá por querella, cuando la víctima fuere mayor de edad con capacidad para comprender el significado del hecho y posibilidad para resistirlo.

@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2012)
+ARTICULO 59 BIS.- Si la Secretaría de Contraloría y Transparencia Gubernamental o el Contralor Interno tuvieran conocimiento de hechos que impliquen responsabilidad penal, deberán denunciarlos ante el Ministerio Público e instar al área jurídica de la dependencia o entidad respectiva a que formule las querellas a que hubiere lugar, cuando así se requiera.
