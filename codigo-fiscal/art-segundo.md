@@ -1,1 +1,0 @@
-Artículo Segundo.- El Archivo General de Notarías y del Registro Público de la Propiedad a que se refiere el artículo anterior, se abrirá al servicio público a partir del día primero de marzo del próximo año de 1934, y dependerá de la Secretaría General del Gobierno de esta Entidad.

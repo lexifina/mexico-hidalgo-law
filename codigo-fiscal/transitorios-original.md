@@ -1,11 +1,16 @@
-TRANSITORIOS:
-Primero.- El Ejecutivo del Estado reglamentará esta Ley oportunamente para los efectos del artículo primero de la misma.
-Segundo.- Se faculta al mismo Ejecutivo para subsanar cualquiera dificultad que se presente para recuperar o consolidar la propiedad de los protocolos que hubieren sido legalmente dados en usufructo a Notarios particulares, donde quiera que estén sus tenedores si vivieren, pues en caso contrario, se recogerán sin atender las observaciones que pretendieren oponer los detentadores, supuesto que el usufructo es derecho personalísimo.
-Tercero.- Asimismo el Ejecutivo dictará las providencias necesarias para que de la manera más rápida y económica se verifique la traslación al Archivo General que se establece, de los protocolos, libros del Registro Público y cuantos documentos pertenezcan a ellos, tanto de la Capital como de los distritos foráneos, cumpliéndose sin excusa lo preceptuado por el artículo primero de la presente ley.
-Lo teudrá (sic) entendido el C. Gobernador del Estado y hará que se publique y se cumpla.
-Dado en el Salón de Sesiones del H. Congreso del Estado.- Oaxaca de Juárez, a dieciséis de diciembre de mil novecientos treinta y tres.- Belisario Robles, Diputado Presidente.- David Martínez Dolz, Diputado Secretario.- Rubén Rosas Espejo, Diputado Secretario.- Rúbricas".
-Por tanto, mando que se imprima, publique, circule y se le dé el debido cumplimiento.
-Oaxaca de Juárez, a dieciséis de diciembre de mil novecientos treinta y tres.- A. García Toledo.- El Subsecretario Enc. del Despacho, Aristeo V. Guzmán.- Rúbricas.
-Y lo comunico a usted para su conocimiento y fines consiguientes.
-Sufragio Efectivo. No Reelección.- Carreteras y Escuelas.- Oaxaca de Juárez, a diez y seis de diciembre de mil novecientos treinta y tres.- El Subsecretario Enc. del Despacho. Aristeo V. Guzmán.- Rúbrica.
-Al C.....
+TRANSITORIOS
+PRIMERO.- EL PRESENTE DECRETO ENTRARÁ EN VIGOR EL DÍA 1° DE ENERO DE 2001, PREVIA PUBLICACIÓN EN EL PERIÓDICO OFICIAL DEL ESTADO.
+SEGUNDO.- AL ENTRAR EN VIGOR EL CÓDIGO FISCAL DEL ESTADO QUE SE CONTIENE EN EL PRESENTE DECRETO, QUEDA ABROGADO EL CÓDIGO FISCAL DEL ESTADO DE HIDALGO PUBLICADO EL 31 DICIEMBRE DE 1981 EN EL PERIÓDICO OFICIAL DE LA ENTIDAD.
+TERCERO.- SE DEROGAN TODAS LAS DISPOSICIONES QUE SE OPONGAN AL CONTENIDO DEL PRESENTE DECRETO.
+AL EJECUTIVO DE LA ENTIDAD PARA SU SANCIÓN Y PUBLICACIÓN.- DADO EN LA SALA DE SESIONES DEL HONORABLE CONGRESO DEL ESTADO, EN LA CIUDAD DE PACHUCA DE SOTO, HGO., A LOS VEINTINUEVE DÍAS DEL MES DE DICIEMBRE DEL AÑO DOS MIL.
+PRESIDENTE
+DIP. AMELIA MOTA ÁNGELES.
+SECRETARIO:
+DIP. OSCAR DAMIÁN SOSA CATELÁN
+SECRETARIO:
+DIP. AMALIA PADILLA URIBE.
+EN USO DE LAS FACULTADES QUE ME CONFIEREN LOS ARTÍCULOS 51 Y 71 FRACCIÓN I DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO, TENGO A BIEN SANCIONAR EL PRESENTE DECRETO, POR LO TANTO, MANDO SE IMPRIMA, PUBLIQUE Y CIRCULE PARA SU EXACTA OBSERVANCIA Y DEBIDO CUMPLIMIENTO.
+DADO EN LA RESIDENCIA DEL PODER DEL PODER EJECUTIVO DEL ESTADO LIBRE Y SOBERANO DE HIDALGO, A LOS TREINTA DÍAS DEL MES DE DICIEMBRE DEL AÑO DOS MIL.
+EL GOBERNADOR CONSTITUCIONAL DEL ESTADO DE HIDALGO
+LIC. MANUEL ANGEL NUÑEZ SOTO.
+N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CÓDIGO.
