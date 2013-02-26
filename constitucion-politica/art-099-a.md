@@ -15,6 +15,8 @@ X. Informar al Gobernador o al Congreso, para determinar los casos de indulto, r
 XI. Conocer de las acusaciones o quejas que se presenten en contra del Presidente del Tribunal Superior de Justicia y demás Magistrados, haciendo la substanciación correspondiente, de acuerdo con el procedimiento que señale esta Constitución y las Leyes respectivas
 (REFORMADA, P.O. 26 DE FEBRERO DE 2001)
 XII. Resolver los conflictos de carácter judicial que surjan entre los municipios, entre éstos y el Congreso y entre aquéllos y el Ejecutivo estatal y
+(ADICIONADA, P.O. 25 DE FEBRERO DE 2013)
+XII Bis.- Resolver los conflictos sobre límites territoriales que se susciten entre dos o más Municipios del Estado, así como entre los Ayuntamientos y el Ejecutivo del Estado.
 XIII. Las demás que le confieran esta Constitución y las leyes que de ella emanen.
 B. Son facultades del Tribunal Fiscal Administrativo:
 I. Dirimir las controversias que se susciten en materia fiscal y administrativa entre la Administración Pública Estatal o Municipal y los particulares. En ningún caso podrá sustituirse a la autoridad administrativa;
