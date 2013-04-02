@@ -1,3 +1,10 @@
-(ADICIONADO, P.O. 14 DE ENERO DE 2002)
-ARTICULO 243 TER.- Se equipara a la violencia familiar y se sancionará con seis meses a cuatro años de prisión, multa de 25 a 100 días y pérdida del derecho de pensión alimenticia, al que realice cualquiera de los actos señalados en el Artículo anterior, en contra de la persona con la que se encuentra unida fuera de matrimonio, de los parientes por consanguinidad o afinidad hasta el cuarto grado de esa persona o de cualquier otra persona que esté sujeta a la custodia, guarda, protección, educación, instrucción o cuidado de dicha persona, siempre y cuando el agresor o el agredido habiten en la misma casa. Asimismo, se le sujetará al tratamiento psicológico especializado.
-Este delito, se perseguirá por querella de la parte ofendida, salvo que la víctima sea menor de edad o incapaz casos en que se perseguirá de oficio.
+(REFORMADO, P.O. 1 DE ABRIL DE 2013)
+ARTICULO 243 TER.- Se equipara a la violencia familiar y se sancionará con las mismas
+penas, al que realice cualquiera de los actos señalados en el artículo 243 Bis, en contra de la persona que esté sujeta a su custodia, guarda, protección, educación, instrucción o cuidado o con quien tenga una relación de hecho o la haya tenido en un período hasta de dos años antes de la comisión del acto u omisión.
+Se entenderá por relación de hecho, la que exista entre quienes:
+I.- Hagan vida en común, en forma constante y permanente, por un período mínimo de seis meses;
+II.- Mantengan una relación de pareja, aunque no vivan en el mismo domicilio;
+III.- Se encuentren unidos por vínculos de padrinazgo o madrinazgo;
+IV.- Se incorporen a un núcleo familiar aunque no tengan parentesco con ninguno de sus integrantes;
+V.- Tengan convivencia con los hijos de su pareja, siempre que no los hayan procreado en común; o
+VI.- Tengan convivencia con la pareja de alguno de sus progenitores.

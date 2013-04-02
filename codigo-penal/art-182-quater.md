@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 1 DE ABRIL DE 2013)
+ARTICULO 182 QUÁTER.- En los delitos previstos en este Capítulo, además de las penas de prisión y multa previstas, se impondrá al responsable la suspensión del ejercicio profesional por un tiempo igual al de la pena de prisión impuesta; tratándose de servidores públicos además se impondrá la destitución e inhabilitación para el desempeño del empleo, cargo o comisión, por un tiempo igual al de la pena de prisión impuesta, siempre que en virtud de su ejercicio haya cometido dicho conducta típica.

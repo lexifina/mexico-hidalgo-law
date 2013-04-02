@@ -1,0 +1,3 @@
+(ADICIONADO, P.O. 1 DE ABRIL DE 2013)
+ARTICULO 230 BIS.- Al deudor alimentario que con el propósito de evadir la obligación alimentaria que la ley determina para con su o sus acreedores alimentistas, renuncie a su empleo o ejecute actos tenientes a perderlo, reduzca sus ingresos, simule deudas o realice cualquier acto que lo coloque en estado de insolvencia, se le impondrá prisión de tres a cuatro años y multa de treinta a trescientos días.
+La misma pena se impondrá a aquellas personas que obligadas a informar acerca de los ingresos o a realizar el descuento a quienes deban cumplir con las obligaciones señaladas en los artículos anteriores, incumplan con la orden judicial de hacerlo.
