@@ -1,4 +1,4 @@
-CODIGO CIVIL PARA EL ESTADO DE HIDALGO
+CÓDIGO CIVIL PARA EL ESTADO DE HIDALGO
 Código publicado en el Apéndice al Número 38 del Periódico Oficial del Estado de Hidalgo, el 8 de octubre de 1940.
 JAVIER ROJO GOMEZ, GOBERNADOR CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE HIDALGO, A SUS HABITANTES SABED:
 Que el H. Congreso Constitucional del Estado Libre y Soberano de Hidalgo, ha tenido a bien expedir el siguiente:
