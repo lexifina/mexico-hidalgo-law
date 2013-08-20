@@ -9,7 +9,7 @@ A N T E C E D E N T E S
 PRIMERO.- En Sesión Ordinaria de fecha 02 de Diciembre del año 2011, por instrucciones de la Presidencia nos fue turnada la Iniciativa de Decreto que contiene la Ley de Fomento para la Lectura y el Libro del Estado de Hidalgo.
 SEGUNDO.- El asunto de cuenta, se registró en los Libros de Gobierno de las Primeras Comisiones Permanentes Conjuntas de Legislación y Puntos Constitucionales y de Cultura, con el número 74/2011 y 02/2011, respectivamente.
 Por lo que, en mérito de lo expuesto; y
-CONSIDERANDO.
+CONSIDERANDO...
 POR TODO LO EXPUESTO, ESTE CONGRESO, HA TENIDO A BIEN EXPEDIR EL SIGUIENTE:
 DECRETO
 QUE CONTIENE LA LEY DE FOMENTO PARA LA LECTURA Y EL LIBRO DEL ESTADO DE HIDALGO.
