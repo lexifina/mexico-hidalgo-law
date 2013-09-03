@@ -1,0 +1,3 @@
+(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 2013)
+Artículo 16 Ter.- La Secretaría de Salud y los Ayuntamiento, en el ámbito de su competencia, garantizarán y apoyarán el desarrollo del libre ejercicio de la medicina tradicional de los pueblos y comunidades indígenas, que comprende el uso de plantas para fines rituales y curativos, a fin de que se conserven y desarrollen como parte de su cultura y patrimonio.
+La Secretaría de Salud del Estado, establecerá un programa de conocimiento, investigación y registro de plantas medicinales que se utilicen en la medicina tradicional, a fin de contar con elementos que permitan evaluar su viabilidad o inocuidad y en su caso, proscribir el uso de aquéllas que se compruebe de manera científica, que deterioran la salud de los usuarios.

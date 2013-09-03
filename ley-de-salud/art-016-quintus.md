@@ -1,0 +1,3 @@
+(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 2013)
+Artículo 16 Quintus.- El Estado, promoverá acciones conjuntas con las comunidades indígenas, para el desarrollo de los conocimientos tradicionales de medicina y herbolaria, asimismo, fortalecerá los procesos organizativos para preservar y difundir las prácticas de la medicina tradicional indígena y propiciar una interrelación entre ésta y la medicina alópata.
+Las autoridades comunitarias e indígenas, cuando así se establezca, podrán participar como coadyuvantes en las campañas de salud, vacunación y aquéllas referidas a la atención preventiva de la salud y en su caso, en las acciones normativas frente a la aparición de epidemias o pandemias.
