@@ -1,0 +1,16 @@
+LEY DEL SISTEMA DE ADMINISTRACIÓN TRIBUTARIA DEL ESTADO DE HIDALGO
+N. DE E. DE CONFORMIDAD CON EL TRANSITORIO PRIMERO, EL PRESENTE ORDENAMIENTO ENTRA EN VIGOR EL 1 DE ENERO DE 2015.
+Ley publicada en el Periódico Oficial del Estado de Hidalgo, el martes 31 de Diciembre de 2013.
+JOSÉ FRANCISCO OLVERA RUIZ, GOBERNADOR CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE HIDALGO, A SUS HABITANTES SABED:
+QUE LA LXII LEGISLATURA DEL H. CONGRESO CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE HIDALGO, HA TENIDO A BIEN DIRIGIRME EL SIGUIENTE:
+D E C R E T O NÚM. 84
+QUE CONTIENE LA LEY DEL SISTEMA DE ADMINISTRACIÓN TRIBUTARIA DEL ESTADO DE HIDALGO.
+El Congreso del Estado Libre y Soberano de Hidalgo, en uso de las facultades que le confiere el Artículo 56 fracciones I y II de la Constitución Política del Estado de Hidalgo y 86 de la Ley de Hacienda del Estado, D E C R E T A:
+A N T E C E D E N T E S
+PRIMERO. En sesión ordinaria de fecha 28 de noviembre de 2013 y por instrucciones de la Directiva, nos fue turnada la Iniciativa precisada en el Proemio del presente documento.
+SEGUNDO. El asunto de mérito quedó registrado en el libro de gobierno de la Comisión actuante bajo el número 59/2013.
+Por lo anteriormente expuesto; y
+C O N S I D E R A N D O…
+POR TODO LO EXPUESTO, ESTE CONGRESO, HA TENIDO A BIEN EXPEDIR EL SIGUIENTE:
+D E C R E T O
+QUE CONTIENE LA LEY DEL SISTEMA DE ADMINISTRACIÓN TRIBUTARIA DEL ESTADO DE HIDALGO.
