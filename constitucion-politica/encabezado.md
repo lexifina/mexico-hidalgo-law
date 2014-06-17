@@ -1,5 +1,4 @@
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE HIDALGO
-N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DE 28 DE ABRIL DE 2014.
 Constitución publicada en el Periódico Oficial del Estado de Hidalgo, el 1 de octubre de 1920.
 NICOLAS FLORES, GOBERNADOR CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE HIDALGO, A SUS HABITANTES, SABED:
 Que el H. Congreso del Estado, ha tenido a bien expedir el siguiente
