@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 3 DE NOVIEMBRE DE 2014)
+ARTICULO 228 BIS.- La punibilidad que corresponda a los delitos previstos por este título, se aumentara en una mitad, cuando sean cometidos dolosamente por descendientes sin límite de grado, parientes colaterales hasta el cuarto grado, cónyuge, concubino, adoptado, pariente por afinidad hasta el segundo grado y por los terceros que hubieren intervenido en su ejecución con aquéllos y la víctima se (sic) mayor de sesenta años.
