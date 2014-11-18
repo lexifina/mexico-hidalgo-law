@@ -1,0 +1,3 @@
+P.O. 10 DE NOVIEMBRE DE 2014.
+ARTÍCULO PRIMERO Las reformas a la presente Ley entrarán en vigor a partir de las cero horas del día 18 de noviembre de 2014, conforme al Decreto número 208, promulgado por el Titular del Poder Ejecutivo del Estado, de fecha 22 de agosto de 2014.
+SEGUNDO. En la fecha y en los lugares en que entre en vigencia el Nuevo Sistema de Justicia Penal previsto en el Código Nacional de Procedimientos Penales, publicado en el Diario Oficial de la Federación el 05 de marzo de 2014, el Centro de la Procuraduría tendrá competencia para conocer y facilitar los acuerdos reparatorios que deseen realizar los interesados, desde el momento en que tengan conocimiento de la noticia del delito y hasta antes de decretarse el auto de apertura de juicio.
