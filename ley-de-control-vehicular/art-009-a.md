@@ -1,2 +1,0 @@
-(ADICIONADO, P.O. 3 DE JUNIO DE 2011)
-Artículo 9 a.- Los municipios podrán celebrar convenios de coordinación con sociedades y asociaciones protectoras de animales, legalmente constituidas, para apoyar en la captura, resguardo, esterilización, orientación, vacunación, desparasitación, clínica y en su caso, sacrificio humanitario de animales domésticos y ferales encontrados en la vía pública o los entregados por sus dueños, para remitirlos a los Centros de Control Animal o a los refugios autorizados.
