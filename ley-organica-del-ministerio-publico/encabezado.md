@@ -1,6 +1,4 @@
 LEY ORGÁNICA DEL MINISTERIO PÚBLICO DEL ESTADO DE HIDALGO
-N. DE E. DE CONFORMIDAD CON EL ARTÍCULO PRIMERO TRANSITORIO, EL PRESENTE ORDENAMIENTO ENTRA EN VIGOR A PARTIR DE LAS CERO HORAS DEL DÍA 18 DE NOVIEMBRE DE 2014, CONFORME AL DECRETO NÚMERO 208, PROMULGADO POR EL TITULAR DEL PODER EJECUTIVO DEL ESTADO, DE FECHA 22 DE AGOSTO DE 2014.
-N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 29 DE DICIEMBRE DE 2014.
 Ley publicada en el Alcance al Periódico Oficial del Estado de Hidalgo, el lunes 10 de noviembre de 2014.
 JOSÉ FRANCISCO OLVERA RUIZ, GOBERNADOR CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE HIDALGO, A SUS HABITANTES SABED:
 QUE LA LXII LEGISLATURA DEL H. CONGRESO CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE HIDALGO, HA TENIDO A BIEN DIRIGIRME EL SIGUIENTE:
@@ -8,7 +6,7 @@ D E C R E T O NÚM. 229
 QUE EXPIDE LA LEY ORGÁNICA DEL MINISTERIO PÚBLICO DEL ESTADO DE HIDALGO.
 El Congreso del Estado Libre y Soberano de Hidalgo, en uso de las facultades que le confieren los Artículos 56 fracciones I y II de la Constitución Política del Estado de Hidalgo,
 D E C R E T A:
-A N T E C E D E N T E
+A N T E C E D E N T E...
 ÚNICO. En sesión ordinaria del 30 de octubre del presente año y por instrucciones de la Presidenta de la Directiva del Congreso, nos fue turnada a esta Comisión que suscribe, la iniciativa mencionada, misma que fue registrada en el Libro de Gobierno de la Comisión, con el número CSCJ/36/2014;
 Por lo que
 C O N S I D E R A N D O…
