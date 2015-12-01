@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 30 DE NOVIEMBRE DE 2015)
+Artículo 36 Quater. La Secretaría organizará con carácter anual, con la concurrencia de los sectores público, social y privado, de manera permanente, la Feria Gastronómica del Estado de Hidalgo, en la cual participen todas y cada una de las regiones de la entidad, con la finalidad de difundir y promover a nivel nacional e internacional, la cocina tradicional hidalguense, elemento fundamental de nuestra identidad cultural.
