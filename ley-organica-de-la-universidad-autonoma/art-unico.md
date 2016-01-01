@@ -1,0 +1,1 @@
+ARTÍCULO ÚNICO.- Se CREA la Ley Orgánica de la Universidad Autónoma del Estado de Hidalgo, presentada por el Lic. José Francisco Olvera Ruiz, Titular del Poder Ejecutivo del Estado, para quedar como sigue:
