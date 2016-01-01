@@ -1,0 +1,6 @@
+(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2015)
+ARTICULO 36 BIS.- Son solidariamente responsables del pago del impuesto establecido en este Capítulo:
+I.- Quienes por cualquier título adquieran la propiedad, tenencia o uso del vehículo, por el adeudo del impuesto previsto en este Capítulo, que en su caso existiera, aun cuando se trate de personas que no están obligadas al pago de dicha contribución;
+II.- Quienes reciban vehículos en consignación o comisión, para su enajenación, por el adeudo del impuesto previsto en este Capítulo, que en su caso existiera;
+III.- Los servidores públicos competentes que autoricen la incorporación, actualización, refrendo y desincorporación al Registro Vehicular Estatal de vehículos objeto de este impuesto, así como la expedición de permisos provisionales, placas metálicas, tarjetas de circulación y engomados, sin haberse cerciorado que no existan adeudos por el impuesto previsto en este Capítulo, a favor del Estado de Hidalgo o del Impuesto Sobre Tenencia o Uso de Vehículos previsto en la legislación federal, ya sea a favor de la Entidad, de otros Estados o de la Federación, según sea el caso, correspondiente a los últimos cinco años, salvo en los supuestos en que el contribuyente acredite con los medios idóneos que se encuentra liberado de la obligación que corresponda; y
+IV.- Los copropietarios del vehículo.
