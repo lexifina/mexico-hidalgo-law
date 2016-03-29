@@ -1,0 +1,3 @@
+P.O. 28 DE MARZO DE 2016.
+[N. DE E. TRANSITORIO DEL "DECRETO NÚM. 643 QUE ADICIONA EL INCISO A) A LA FRACCIÓN I DEL ARTÍCULO 6; Y LA FRACCIÓN XVI AL ARTÍCULO 44 DE LA LEY DE PREVENCIÓN Y GESTIÓN INTEGRAL DE RESIDUOS DEL ESTADO DE HIDALGO".]
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
