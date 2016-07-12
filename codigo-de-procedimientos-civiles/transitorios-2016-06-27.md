@@ -1,0 +1,3 @@
+P.O. 27 DE JUNIO DE 2016.
+N. DE E. TRANSITORIO DEL "DECRETO NUM. 673 QUE REFORMA DIVERSAS DISPOSICIONES DEL CÓDIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE HIDALGO".
+ÚNICO.- El presente decreto entrará en vigor a los quince días siguientes al de su publicación.
