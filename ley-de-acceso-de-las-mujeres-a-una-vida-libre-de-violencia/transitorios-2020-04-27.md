@@ -1,0 +1,4 @@
+P.O. 27 DE ABRIL DE 2020.
+[N. DE E. TRANSITORIOS DEL "DECRETO LEGISLATIVO NÚMERO 178, MEDIANTE EL CUAL: SE ADICIONAN LA FRACCIÓN XXIV Y SE RECORRE LA ACTUAL FRACCIÓN XXIV PARA QUEDAR COMO FRACCIÓN XXV DEL ARTÍCULO 17; UN SEGUNDO PÁRRAFO AL ARTÍCULO 19; UN SEGUNDO PÁRRAFO AL ARTÍCULO 22; LAS FRACCIONES LII, LIII Y LIV Y SE RECORRE LA ACTUAL FRACCIÓN LII PARA QUEDAR COMO FRACCIÓN LV DEL ARTÍCULO 28; UN SEGUNDO PÁRRAFO AL ARTÍCULO 39; Y UN SEGUNDO PÁRRAFO AL ARTÍCULO 43 DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE GUANAJUATO".]
+Artículo Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
+Artículo Segundo. El Consejo del Poder Judicial deberá emitir los lineamientos para la operación de las sesiones y reuniones a distancia a más tardar ocho días posteriores a la entrada en vigor del presente Decreto.

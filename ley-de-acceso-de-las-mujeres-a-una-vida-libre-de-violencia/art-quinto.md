@@ -1,0 +1,2 @@
+Artículo Quinto. Las cuestiones que se presenten por la aplicación ultractiva del Código de Procedimientos Penales para el Estado de Guanajuato, y por la aplicación retroactiva de la Ley del Proceso Penal para el Estado de Guanajuato, a que se refieren los artículos transitorios tercero y sexto de la Ley del Proceso Penal para el Estado de Guanajuato, serán resueltas por los jueces de partido que estén conociendo de los respectivos asuntos.
+Haber de retiro de magistrados supernumerarios que no provengan de carrera judicial

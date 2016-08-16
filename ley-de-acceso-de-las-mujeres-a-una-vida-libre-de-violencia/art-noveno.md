@@ -1,0 +1,3 @@
+Artículo Noveno. Hasta antes del 1 de octubre de 2015, el Consejo del Poder Judicial podrá convocar a los jueces menores civiles y mixtos, y secretarios de sala civil para participar en los concursos de oposición para designar a los jueces que ejerzan su función en materia civil en el Estado que las necesidades de la impartición de justicia exijan nombrar.
+Los jueces de partido, secretarios de sala y secretarios de juzgado de partido que deseen participar en el sistema de juicios orales civiles y en el de juicios orales mercantiles, deberán someterse a un proceso de selección cuyas reglas y bases se contendrán en la convocatoria respectiva.
+Venta de bienes a disposición de juzgados
