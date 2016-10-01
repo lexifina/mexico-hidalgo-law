@@ -1,7 +1,9 @@
 (ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 5 DE AGOSTO DE 2013)
 CAPITULO IV
 FACILITACION DELICTIVA
+(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE AGOSTO DE 2016)
+ARTICULO 253 BIS. Se impondrá de dos a diez años de prisión y multa de cincuenta a quinientas veces la unidad de medida y actualización, a quien con el objeto de informar a los integrantes de una pandilla, alerte, aceche, vigile o realice actos tendientes a obtener información sobre la ubicación, actividades, operativos o en general las labores realizadas por las instituciones de seguridad pública para la prevención, persecución y sanción del delito o la ejecución penal, con independencia de incurrir en diversa conducta ilícita.
 (ADICIONADO, P.O. 5 DE AGOSTO DE 2013)
-ARTICULO 253 BIS. Se impondrá prisión de dos a diez años y multa de cincuenta a quinientas veces el salario mínimo, a quien con el objeto de informar a los integrantes de una organización delictiva, pandilla o asociación delictuosa, alerte, aceche, vigile o realice actos tendientes a obtener información sobre la ubicación, actividades, operativos o en general las labores realizadas por las instituciones de seguridad pública para la prevención, persecución y sanción del delito o la ejecución penal, con independencia de incurrir en diversa conducta ilícita.
 Las penas anteriores se aumentarán hasta en una mitad más si en la realización de cualquiera de las conductas previstas en el párrafo anterior, se emplean vehículos de servicio público de pasajeros o de transporte o cualquiera otro que preste un servicio similar, así como cuando se emplee a menores de edad o a personas que no tienen capacidad de comprender el significado del hecho.
+(ADICIONADO, P.O. 5 DE AGOSTO DE 2013)
 Las penas previstas en este artículo se duplicarán y se impondrá además destitución del cargo o comisión e inhabilitación de dos a diez años para ocupar otro, cuando cualquiera de las conductas sean cometidas por servidores o ex servidores públicos de las instituciones de seguridad pública, de procuración de justicia o de las fuerzas armadas.
