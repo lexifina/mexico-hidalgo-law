@@ -1,2 +1,4 @@
+(REFORMADO, P.O. 31 DE DICIEMBRE DE 2016)
+(sic) 1530 TER.- El precio del inmueble o su valor de avalúo no debe exceder del equivalente a 25 veces la Unidad de Medida y Actualización, al momento de la adquisición. En los casos de regularización de inmuebles que lleven a cabo las dependencias y entidades a que se refiere el artículo anterior, no importará su monto.
 (ADICIONADO, P.O. 31 DE DICIEMBRE DE 2009)
 Art. 1530 Quater.- El testador instituirá uno o más legatarios con derecho de acrecer, salvo designación de sustitutos. Para el caso de que cuando se llevare a cabo la protocolización notarial de la adquisición en favor de los legatarios, éstos fueren incapaces y no estuvieren sujetos a patria potestad o tutela, el testador también podrá designarles un representante especial que firme el instrumento notarial correspondiente por cuenta de los incapaces.
