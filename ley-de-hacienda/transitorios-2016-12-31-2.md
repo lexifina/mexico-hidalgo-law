@@ -1,6 +1,12 @@
 P.O. 31 DE DICIEMBRE DE 2016.
 [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 81 QUE APRUEBA LA LEY DE INGRESOS DEL ESTADO LIBRE Y SOBERANO DE HIDALGO PARA EL EJERCICIO FISCAL DEL AÑO 2017"].
-PRIMERO. La presente Ley entrará en vigor el día primero de enero del año 2017, previa su publicación en el Periódico Oficial del Estado.
+(F. DE E., P.O. 9 DE ENERO DE 2017)
+PRIMERO. Las reformas y adiciones a la presente Ley entrarán en vigor el día primero de enero del año 2017, previa su publicación en el Periódico Oficial del Estado, salvo lo previsto en el artículo 24, donde, como estímulo fiscal para los contribuyentes, y a efecto de no generar un impacto económico que afecte su economía, se aplicará de manera gradual la tasa, año por año, hasta su estabilización en el año 2021, quedando la entrada en vigor de las respectivas tasas por nivel, de la siguiente manera:
+MONTOSEJERCICIO
+DEHASTA20172018201920202021
+0.01500,000.001.0%1.5%2.0%2.5%3.0%
+500,000.011,000,000.002.0%2.5%2.75%3.0%3.0%
+1,000,000.01 en adelante2.5% 2.7%2.9%3.0%3.0%
 SEGUNDO. Se derogan todas las disposiciones que se opongan a la presente Ley.
 TERCERO. Continúa vigente el Decreto número 120, publicado en el Periódico Oficial del Estado de fecha 4 de Julio de 1983, en virtud de estar en vigor la coordinación que en materia de Derechos, suscribió el Estado de Hidalgo y la Secretaría de Hacienda y Crédito Público, quedando sin efecto el cobro de derechos establecidos en el mismo, salvo aquellos que han sido liberados, de acuerdo a lo establecido en la Ley de Coordinación Fiscal Federal y que se incluirán en las Leyes locales correspondientes.
 CUARTO. En caso de que la Ley Orgánica de la Administración Pública del Estado de Hidalgo sea reformada, o bien, cuando se acuerde la desincorporación de una Entidad de la Administración Pública Paraestatal, el Poder Ejecutivo del Estado estará facultado para llevar a cabo el cobro de las contribuciones establecidas en la presente Ley, a través de la dependencia o entidad paraestatal a la que, en razón de la reforma o desincorporación respectiva, se le otorguen las atribuciones que hubieren estado asignadas a otras y que estuvieran vinculadas expresamente con dichas contribuciones.
