@@ -1,4 +1,3 @@
-N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.
 (ADICIONADO, P.O. 9 DE AGOSTO DE 2010)
 Artículo 142 Bis 5.- La Secretaría de Salud y los Gobiernos Municipales, en el ámbito de sus respectivas competencias, se coordinarán para la ejecución del programa contra la farmacodependencia, a través de las siguientes acciones:
 I.- La prevención y el tratamiento de la farmacodependencia y, en su caso, la rehabilitación de los farmacodependientes;

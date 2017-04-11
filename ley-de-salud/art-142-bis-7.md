@@ -1,4 +1,3 @@
-N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.
 (ADICIONADO, P.O. 9 DE AGOSTO DE 2010)
 Artículo 142 Bis 7.- Para el tratamiento de los farmacodependientes, la Entidad, deberá crear centros especializados en tratamiento, atención, y rehabilitación, con base en sistemas modernos de tratamiento y rehabilitación, fundamentados en el respeto a la integridad y a la libre decisión del farmacodependiente.
 I.- Crear un padrón de instituciones y Organismos Públicos y Privados que realicen actividades de prevención, tratamiento, atención y reinserción social en materia de adicciones que contenga las características de atención, condiciones y requisitos para acceder a los servicios que ofrecen y
