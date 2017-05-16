@@ -1,2 +1,0 @@
-Artículo Sexto. Los magistrados supernumerarios que en su momento fueron designados sin provenir de la carrera judicial, al término de su encargo, se hará la sumatoria correspondiente al tiempo en que se haya desempeñado como magistrado, y recibirá el haber de retiro proporcional en una sola exhibición, de acuerdo a lo establecido en la fracción II del artículo 69 de esta Ley.
-Aplicación de las reglas para la evaluación de jueces
