@@ -20,10 +20,24 @@ XII. Resolver los conflictos de carácter judicial que surjan entre los municipi
 (ADICIONADA, P.O. 25 DE FEBRERO DE 2013)
 XII Bis.- Resolver los conflictos sobre límites territoriales que se susciten entre dos o más Municipios del Estado, así como entre los Ayuntamientos y el Ejecutivo del Estado.
 XIII. Las demás que le confieran esta Constitución y las leyes que de ella emanen.
-B. Son facultades del Tribunal Fiscal Administrativo:
-I. Dirimir las controversias que se susciten en materia fiscal y administrativa entre la Administración Pública Estatal o Municipal y los particulares. En ningún caso podrá sustituirse a la autoridad administrativa;
-II. Conocer de los recursos que establezca la ley de la materia y
-III. Las demás que le confieran esta Constitución y las leyes que de ella emanen.
+(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE MAYO DE 2017)
+B. Son facultades del Tribunal de Justicia Administrativa:
+(REFORMADA, P.O. 22 DE MAYO DE 2017)
+I. Dirimir las controversias que se susciten en materia fiscal y administrativa entre la Administración Pública Estatal o Municipal y los particulares.
+(REFORMADA, P.O. 22 DE MAYO DE 2017)
+II. Conocer de las acciones de responsabilidad administrativa promovidas por la Auditoría Superior del Estado, la Secretaría de Contraloría y los Órganos Internos de Control Estatales y Municipales por faltas administrativas clasificadas como graves;
+(REFORMADA, P.O. 22 DE MAYO DE 2017)
+III. Sustanciar los procesos respectivos, y en su caso, imponer las sanciones que correspondan a los servidores públicos y particulares por actos, hechos u omisiones vinculados con faltas administrativas graves;
+(ADICIONADA, P.O. 22 DE MAYO DE 2017)
+IV. Determinar e imponer las sanciones económicas e indemnizaciones que correspondan cuando se hayan causado daños o perjuicios al Patrimonio o a la Hacienda Pública del Estado o Municipios, en las cuales deberá considerarse el lucro obtenido y la reparación de los daños y perjuicios causados;
+(ADICIONADA, P.O. 22 DE MAYO DE 2017)
+V. Asegurar la recuperación de los activos que hayan sido objeto, instrumento, producto o estén relacionadas con las faltas administrativas graves en los términos de ley de la materia, con independencia de las sanciones administrativas que correspondan;
+(ADICIONADA, P.O. 22 DE MAYO DE 2017)
+VI. Conocer y resolver las controversias que se susciten sobre responsabilidad patrimonial del Estado y de los Municipios;
+(ADICIONADA, P.O. 22 DE MAYO DE 2017)
+VII. Conocer de los recursos que establezca la Ley de la materia; y
+(ADICIONADA, P.O. 22 DE MAYO DE 2017)
+VIII. Las demás que le confieran esta Constitución y las leyes que de ella emanen.
 C. Son facultades del Tribunal Electoral resolver en forma definitiva en los términos de esta Constitución y según lo disponga la ley sobre:
 I. Las impugnaciones que se presenten en las elecciones de Gobernador, diputados y ayuntamientos del Estado;
 II. Las impugnaciones de actos y resoluciones de la autoridad electoral estatal, distintas a las señaladas en las fracciones anteriores, que violen normas que no se ajusten al principio de legalidad;
