@@ -1,2 +1,2 @@
-(ADICIONADO, P.O. 16 DE NOVIEMBRE DE 2015)
-ARTÍCULO 24 TER. Para ingresar y permanecer como Agente de la Policía Investigadora se requiere cumplir con los requisitos establecidos en el artículo 71 de la Ley de Seguridad Pública para el Estado de Hidalgo.
+(REFORMADO, P.O. 10 DE JULIO DE 2017)
+ARTÍCULO 24 TER. Para ingresar y permanecer como Agente de la Policía Investigadora se requiere cumplir con los requisitos establecidos en el artículo 71 de la Ley de Seguridad Pública para el Estado de Hidalgo, además de no haber sido condenado por sentencia irrevocable como responsable de un hecho que la Ley señala como delito doloso, de corrupción o falta administrativa grave.

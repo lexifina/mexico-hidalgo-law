@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 10 DE JULIO DE 2017)
+ARTÍCULO 15 QUATER. Todas las personas que desempeñen el cargo de Agente del Ministerio Público serán auxiliares en la investigación de delitos en la materia, por lo que deberán reportar sin dilación ni intermediación alguna a la Fiscalía Especializada en Delitos Electorales, el inicio de las investigaciones por hechos que la Ley señale como delitos electorales para efectos de asignación de número, coordinación para la práctica de diligencias básicas y su posterior remisión, debiendo observar la normatividad aplicable.
