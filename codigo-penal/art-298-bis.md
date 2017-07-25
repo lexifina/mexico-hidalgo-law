@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 24 DE JULIO DE 2017)
+ARTICULO 298 BIS.- La punibilidad de los delitos previstos en el presente Título, se aumentará en una tercera parte cuando el servidor público sea o haya sido titular de alguna dependencia o entidad de la administración pública Estatal o Municipal, de elección popular, Organismo Autónomo, además de aquellos cuyo nombramiento, aprobación o ratificación sea realizada por el Congreso del Estado.
