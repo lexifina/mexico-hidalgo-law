@@ -1,0 +1,7 @@
+(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 9 DE OCTUBRE DE 2017)
+CAPÍTULO V
+DEL ÓRGANO INTERNO DE CONTROL
+(ADICIONADO, P.O. 9 DE OCTUBRE DE 2017)
+Artículo 45 Bis. El Instituto contará con un Órgano Interno de Control, dotado de autonomía técnica y de gestión para decidir sobre su funcionamiento y resoluciones y vigilará que los recursos públicos sean administrados y ejercidos de acuerdo con las normas establecidas para tal efecto, asimismo, fomentará la rendición de cuentas en el ejercicio de sus funciones y vigilará el cumplimiento de los objetivos institucionales.
+El Órgano Interno de Control tendrá un titular que lo representará y contará con Unidades de Investigación, Substanciación y Resolución, cuyos titulares no recaerán en una sola persona, de igual forma contará con los recursos humanos, materiales y financieros necesarios para el cumplimiento de su objeto.
+En el desempeño de su cargo, el titular del Órgano Interno de Control se sujetará a los principios previstos en la legislación en materia de Responsabilidades Administrativas.

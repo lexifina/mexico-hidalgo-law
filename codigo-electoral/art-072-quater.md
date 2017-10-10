@@ -1,0 +1,3 @@
+(ADICIONADO, P.O. 9 DE OCTUBRE DE 2017)
+Artículo 72 Quáter. El Órgano Interno de Control, inscribirá y mantendrá actualizada la información correspondiente de la evolución patrimonial, de declaración de intereses y constancia de presentación de declaración fiscal, de los servidores públicos del Instituto Estatal Electoral, de conformidad con la Ley en materia de Anticorrupción, la legislación en materia de Responsabilidades Administrativas, así como la Ley en materia de Transparencia.
+El titular del Órgano Interno de Control se abstendrá de desempeñar cualquier otro cargo, empleo, trabajo o comisión públicos o privados, con excepción de los de docencia.

@@ -5,7 +5,8 @@ QUE LA LXII LEGISLATURA DEL H. CONGRESO CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERA
 D E C R E T O NÚM. 314
 QUE CONTIENE EL CÓDIGO ELECTORAL DEL ESTADO DE HIDALGO.
 El Congreso del Estado Libre y Soberano de Hidalgo, en uso de las facultades que le confieren los Artículos 56 fracciones I y II de la Constitución Política del Estado de Hidalgo, D E C R E T A:
-A N T E C E D E N T E S...
+A N T E C E D E N T E S
+[...]
 DÉCIMO SÉPTIMO.- Que en ese tenor y de acuerdo a lo vertido anteriormente, quienes integramos la Comisión que dictamina, a partir del análisis y estudio de la Iniciativa de mérito, consideramos pertinente la aprobación de la misma, a efecto de estar en concordancia con las reformas a la Constitución Política de los Estados Unidos Mexicanos.
 POR TODO LO EXPUESTO, ESTE CONGRESO, HA TENIDO A BIEN EXPEDIR EL SIGUIENTE:
 DECRETO

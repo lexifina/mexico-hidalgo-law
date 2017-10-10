@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 9 DE OCTUBRE DE 2017)
+Artículo 72 Sexies. El Órgano Interno de Control del Instituto, su titular y el personal adscrito a la misma, cualquiera que sea su nivel, están impedidos de intervenir o interferir en forma alguna en el desempeño de las facultades y ejercicio de atribuciones de naturaleza electoral que la Constitución y este Código confieren a los funcionarios del Instituto.

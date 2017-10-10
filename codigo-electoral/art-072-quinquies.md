@@ -1,0 +1,3 @@
+(ADICIONADO, P.O. 9 DE OCTUBRE DE 2017)
+Artículo 72 Quinquies. Los servidores públicos del Instituto coadyuvarán con el titular del Órgano Interno de Control en los procedimientos que éste acuerde para la vigilancia de los recursos y bienes del Instituto y, en su caso, en los procedimientos para la determinación de responsabilidades e imposición de sanciones administrativas.
+Los servidores públicos adscritos al Órgano Interno de Control del Instituto y, en su caso, los profesionales contratados para la práctica de auditorías, guardarán estricta reserva sobre la información y documentos que conozcan con motivo del desempeño de sus facultades, así como de sus actuaciones y observaciones.
