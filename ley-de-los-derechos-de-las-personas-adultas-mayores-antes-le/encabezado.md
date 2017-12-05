@@ -5,9 +5,11 @@ QUE LA LX LEGISLATURA DEL H. CONGRESO CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO
 D E C R E T O NUM. 373
 QUE CONTIENE LA LEY DE LOS DERECHOS DE LOS ADULTOS MAYORES DEL ESTADO DE HIDALGO
 El Congreso del Estado Libre y Soberano de Hidalgo, en uso de la (sic) facultades que le confiere el Artículo 56 fracciones I y II de la Constitución Política del Estado de Hidalgo, D E C R E T A:
-A N T E C E D E N T E S...
+A N T E C E D E N T E S
+[...]
 Por lo que, en mérito de lo expuesto; y
-C O N S I D E R A N D O...
+C O N S I D E R A N D O
+[...]
 POR TODO LO EXPUESTO, ESTE CONGRESO, HA TENIDO A BIEN EXPEDIR EL SIGUIENTE:
 D E C R E T O
 QUE CONTIENE LA LEY DE LOS DERECHOS DE LOS ADULTOS MAYORES DEL ESTADO DE HIDALGO

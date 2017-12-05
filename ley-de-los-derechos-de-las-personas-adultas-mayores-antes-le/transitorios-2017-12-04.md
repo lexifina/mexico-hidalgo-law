@@ -1,0 +1,3 @@
+P.O. 4 DE DICIEMBRE DE 2017.
+[N. DE E. TRANSITORIO DEL "DECRETO. NÚMERO. 238 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES AL ARTÍCULO 21 DE LA LEY DE LOS DERECHOS DE LOS ADULTOS MAYORES DEL ESTADO DE HIDALGO".]
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
