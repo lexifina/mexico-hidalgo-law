@@ -10,4 +10,4 @@ Diputado Presidente.- LIC. JAIME DANIEL BAÑOS PAZ.- Diputado Secretario.- LIC. 
 Por lo tanto mando se imprima, publique y circule para su debido cumplimiento, el DECRETO No. 5, expedido por la Quincuagésima Segunda Legislatura del H. Congreso Constitucional del Estado, que contiene la "Ley de Responsabilidades de los Servidores Públicos".
 Dado en el Palacio del Poder Ejecutivo, en la Ciudad de Pachuca de Soto, Estado de Hidalgo, a los cuatro días del mes de junio de mil novecientos ochenta y cuatro.
 El Gobernador Constitucional del Estado.- GUILLERMO ROSSELL DE LA LAMA.- El Secretario General de Gobierno.- EFRAIN ARISTA RUIZ.- Rúbricas.
-N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.
+[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]

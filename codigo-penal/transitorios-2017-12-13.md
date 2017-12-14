@@ -1,0 +1,5 @@
+P.O. 13 DE DICIEMBRE DE 2017.
+[N. DE E. TRANSITORIOS DEL DECRETO NO. 242 POR EL QUE "SE REFORMAN EL PÁRRAFO TERCERO DEL ARTÍCULO 301 Y EL ARTÍCULO 322 BIS, Y SE DEROGA LA FRACCIÓN IX DEL ARTÍCULO 301 DEL CÓDIGO PENAL DEL ESTADO DE HIDALGO".]
+PRIMERO. La presente ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+SEGUNDO. Los procesos penales iniciados con fundamento en las leyes del Estado de Hidalgo que regulen las conductas tipificadas como delitos de tortura y otros tratos o penas crueles, inhumanos o degradantes, así como las sentencias emitidas con base en la misma, deberán concluirse y ejecutarse respectivamente, conforme las disposiciones vigentes antes de la entrada en vigor de estas últimas, atendiendo a lo estipulado en el artículo transitorio tercero del decreto por el que se reforma la fracción XXI del artículo 73 de la Constitución Política de los Estados Unidos Mexicanos del 10 de julio de 2015.
+TERCERO.- Se derogan todas las disposiciones que se opongan a lo señalado en el presente decreto, sin menoscabo de lo establecido en las leyes generales de las materias respectivas.

@@ -1,3 +1,1 @@
-(REFORMADO, P.O. 1 DE MAYO DE 2015)
-ARTICULO 81 BIS.- Las autoridades competentes para recibir declaraciones de situación patrimonial en términos de esta Ley y demás disposiciones legales vinculadas con la misma, bajo su más estricta responsabilidad, podrán ampliar o modificar los plazos contenidos en el artículo anterior cuando en el territorio del Estado sobrevengan causas de fuerza mayor o de caso fortuito que conlleven a la necesaria implementación de acciones determinantes que afecten el cumplimiento oportuno de esa obligación dentro del lapso que los mismos establecen.
-En el caso de los Municipios del Estado, asumirán la facultad que previene este numeral, quienes en términos de la Ley Orgánica Municipal sean la autoridad competente para recibir las declaraciones de situación patrimonial, en ese orden de gobierno.
+ARTICULO 81 BIS.- (DEROGADO, P.O. 13 DE DICIEMBRE DE 2017)
