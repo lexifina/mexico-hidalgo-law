@@ -1,0 +1,1 @@
+Artículo 2949 Bis.- La hipoteca inversa es aquel contrato que tiene por objeto el pago mensual y vitalicio de una suma de dinero determinada que se concede a un deudor hipotecario, o en su caso, a un beneficiario, dejando como garantía un bien inmueble de su propiedad, en el cual tenga su residencia habitual.

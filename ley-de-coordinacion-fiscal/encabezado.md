@@ -1,6 +1,5 @@
 [N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]
 LEY DE COORDINACIÓN FISCAL PARA EL ESTADO DE HIDALGO
-[N. DE E. LA FE DE ERRATAS PUBLICADA EN EL P.O. EL 9 DE ENERO DE 2017 NO APLICA AL ARTICULADO DEL DECRETO NÚMERO 80 PUBLICADO EN EL P.O. DE 31 DE DICIEMBRE DE 2016.]
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el sábado 30 de diciembre de 1989.
 ADOLFO LUGO VERDUZCO, Gobernador Constitucional del Estado de Hidalgo, a sus habitantes sabed:
 Que la Quincuagésima Tercera Legislatura del H. Congreso Constitucional del Estado Libre y Soberano de Hidalgo, ha tenido a bien expedir el siguiente:

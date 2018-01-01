@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2017)
+Artículo 2949 Sexies.- En el contrato de hipoteca inversa que celebren el deudor y el acreedor hipotecarios, se deberá incluir un incremento del monto del pago mensual de cuando menos igual al índice de inflación vigente y se deberá efectuar a más tardar en los meses de marzo, debiendo cubrir la diferencia de los meses del año corriente que no se hubieren pagado conforme al monto actualizado.

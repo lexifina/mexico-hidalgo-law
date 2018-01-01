@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2017)
+Artículo 2949 Octies.- El contrato de hipoteca inversa terminará anticipadamente sin penalización alguna para el deudor hipotecario o beneficiario, cuando este cubra el monto recibido por el acreedor hipotecario incluyendo los intereses que se generen por el capital. Los intereses serán solamente sobre las cantidades que efectivamente dispusieron el deudor hipotecario o su beneficiario.

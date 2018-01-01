@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2017)
+Artículo 2949 Quinquiés.- Para fijar el monto del crédito, se realizará un avalúo sobre el bien inmueble por perito o institución certificada para ello, en el que se considere el valor comercial de mercado, debiendo considerar el valor futuro del mismo, así como el incremento del valor del inmueble conforme a las condiciones del mercado de la zona de los últimos cinco años.
