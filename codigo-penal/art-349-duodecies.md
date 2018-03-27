@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 26 DE MARZO DE 2018)
+ARTICULO 349 DUODECIES.- Se impondrán de tres meses a dos años de prisión y multa de 50 a 100 veces el valor diario de la Unidad de Medida y Actualización, a quien organice, realice, promueva, anuncie, promocione, difunda, fináncie, patrocine o presencie, cualquier acto cuyo objetivo sea la pelea de perros, así como a quien permita que se realice en inmuebles de su propiedad o bajo su posesión.
