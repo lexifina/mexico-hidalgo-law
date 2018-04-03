@@ -1,0 +1,16 @@
+LEY DE ALIANZAS PRODUCTIVAS DE INVERSIÓN PARA EL ESTADO DE HIDALGO
+Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 2 de abril de 2018.
+OMAR FAYAD MENESES, GOBERNADOR CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE HIDALGO, A SUS HABITANTES SABED:
+QUE LA LXIII LEGISLATURA DEL H. CONGRESO CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE HIDALGO, HA TENIDO A BIEN DIRIGIRME EL SIGUIENTE:
+D E C R E T O NUM. 419
+QUE CONTIENE LA LEY DE ALIANZAS PRODUCTIVAS DE INVERSIÓN PARA EL ESTADO DE HIDALGO.
+El Congreso del Estado Libre y Soberano de Hidalgo, en uso de las facultades que le confieren el artículo 56 fracciones I y II de la Constitución Política del Estado de Hidalgo, D E C R E T A:
+A N T E C E D E N T E S
+PRIMERO. En sesión Ordinaria de fecha 20 de diciembre del 2017, por instrucciones de la Presidencia de la Directiva, nos fue turnada la INICIATIVA DE DECRETO QUE CONTIENE LA LEY DE ALIANZAS PRODUCTIVAS DE INVERSIÓN PARA EL ESTADO DE HIDALGO, PRESENTADA POR EL LIC. OMAR FAYAD MENESES, GOBERNADOR CONSTITUCIONAL DEL ESTADO DE HIDALGO.
+SEGUNDO. El asunto de cuenta, se registró en el Libro de Gobierno de la Primera Comisión Permanente de Legislación y Puntos Constitucionales, con el número 324/2017.
+Por lo que, en mérito de lo expuesto; y
+C O N S I D E R A N D O
+[…]
+POR TODO LO EXPUESTO, ESTE CONGRESO, HA TENIDO A BIEN EXPEDIR EL SIGUIENTE:
+DECRETO
+QUE CONTIENE LA LEY DE ALIANZAS PRODUCTIVAS DE INVERSIÓN PARA EL ESTADO DE HIDALGO.
