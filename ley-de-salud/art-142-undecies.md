@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 7 DE MAYO DE 2018)
+Artículo 142 Undecies.- En casos de urgencia médica y que exista incapacidad de las personas con enfermedades raras no infecto-contagiosas crónicas o crónico-degenerativas y de las personas enfermas en situación terminal, para expresar su consentimiento, y en ausencia de familiares, representante legal, tutor o persona de confianza, la decisión de aplicar un procedimiento médico quirúrgico o tratamiento necesario, será tomada por dos integrantes del personal médico autorizado en términos de las disposiciones aplicables.
