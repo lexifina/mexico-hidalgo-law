@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 14 DE MAYO DE 2018)
+ARTICULO 13 BIS.- Los programas de Desarrollo Urbano y Ordenamiento Territorial, deberán considerar las normas oficiales mexicanas emitidas en la materia, las medidas y criterios en materia de Resiliencia previstos en el programa nacional de ordenamiento territorial y desarrollo urbano y en los atlas de riesgos para la definición de los Usos del suelo, Destinos y Reservas.
