@@ -9,7 +9,8 @@ El Congreso del Estado Libre y Soberano de Hidalgo, en uso de las facultades que
 DECRETA:
 ANTECEDENTE
 ÚNICO.- En sesión ordinaria de fecha 20 de octubre del presente año, nos fue turnada la Iniciativa de referencia, la cual fue registrada en el Libro de Gobierno de la Comisión actuante bajo el número 60/2011, y
-CONSIDERANDO.
+CONSIDERANDO
+[...]
 POR TODO LO EXPUESTO, ESTE CONGRESO, HA TENIDO A BIEN EXPEDIR EL SIGUIENTE:
 DECRETO
 QUE CONTIENE LA LEY DE PROTECCIÓN CIVIL DEL ESTADO DE HIDALGO.
