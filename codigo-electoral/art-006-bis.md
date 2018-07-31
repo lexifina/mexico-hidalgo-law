@@ -1,0 +1,3 @@
+(ADICIONADO, P.O. 30 DE JULIO DE 2018)
+Artículo 6 Bis. El ejercicio de los derechos y el cumplimento de las obligaciones de la ciudadanía en el ámbito político electoral, se regirán por el principio de no violencia.
+El Instituto Estatal Electoral, el Tribunal Electoral del Estado de Hidalgo, los Partidos Políticos y las Agrupaciones Políticas, en términos de los artículos 1º., 2º. y 4º. de la Constitución Política de los Estados Unidos Mexicanos, de los tratados internacionales en la materia de los que el Estado Mexicano sea parte y la Constitución Política del Estado de Hidalgo, y en el ámbito de sus atribuciones, establecerán mecanismos, para prevenir, atender, sancionar y en su caso erradicar la violencia política en razón de género.

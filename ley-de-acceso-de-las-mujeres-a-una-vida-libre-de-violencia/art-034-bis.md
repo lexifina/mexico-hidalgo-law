@@ -1,8 +1,7 @@
 (ADICIONADO, P.O. 18 DE OCTUBRE DE 2010)
 ARTÍCULO 34 BIS.- El Sistema opera con tres subsistemas:
 I.- Subsistema Municipal: Conformado por los Municipios que integran el Estado de Hidalgo, los cuales podrán establecer a su interior los ejes de acción que prevé la Ley, además de realizar actividades regionales en conjunto;
-II.- Subsistema de Acción: Conformado por los titulares de las Dependencias de la
-Administración Pública Estatal, e integrado por tres comisiones de:
+II.- Subsistema de Acción: Conformado por los titulares de las Dependencias de la Administración Pública Estatal, e integrado por tres comisiones de:
 a.- Prevención;
 b.- Atención; y
 c.- Erradicación.

@@ -1,0 +1,4 @@
+P.O. 30 DE JULIO DE 2018.
+[N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 464 QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE HIDALGO Y DEL CÓDIGO ELECTORAL DEL ESTADO DE HIDALGO, DEROGÁNDOSE EL TÍTULO VIGÉSIMO DEL LIBRO SEGUNDO DEL CÓDIGO PENAL PARA EL ESTADO DE HIDALGO".]
+PRIMERO. El presente Decreto entrará en vigor, al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+SEGUNDO. Los procedimientos penales iniciados antes de la entrada en vigor del presente Decreto en materia de delitos electorales previstos en el mismo se seguirán tramitando hasta su conclusión conforme a las disposiciones vigentes al momento de la comisión de los hechos que les dieron origen, salvo que esta Ley resulte más benéfica.
