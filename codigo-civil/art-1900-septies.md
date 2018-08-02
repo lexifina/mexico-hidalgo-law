@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 1 DE AGOSTO DE 2018)
+Art. 1900 Septies.- Cuando el daño moral haya afectado a la víctima, en su decoro, honor, crédito, prestigio, reputación o consideración, el Juez ordenará, a petición de ésta y con cargo al responsable, la publicación de un extracto de la sentencia, que refleje adecuadamente la naturaleza y alcance de la misma, a través de los medios informativos que considere convenientes.
