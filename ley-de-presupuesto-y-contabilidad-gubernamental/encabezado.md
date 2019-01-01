@@ -1,10 +1,10 @@
 LEY DE PRESUPUESTO Y CONTABILIDAD GUBERNAMENTAL DEL ESTADO DE HIDALGO
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 27 de octubre de 2014.
-JOSÉ FRANCISCO OLVERA RUIZ, GOBERNADOR CONSTITUClONAL DEL ESTADO LIBRE Y SOBERANO DE HIDALGO, A SUS HABITANTES SABED:
+JOSÉ FRANCISCO OLVERA RUIZ, GOBERNADOR CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE HIDALGO, A SUS HABITANTES SABED:
 QUE LA LXII LEGISLATURA DEL H. CONGRESO CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE HIDALGO, HA TENIDO A BIEN DIRIGIRME EL SIGUIENTE:
 D E C R E T O NÚM. 210
 QUE CONTIENE LA LEY DE PRESUPUESTO Y CONTABILIDAD GUBERNAMENTAL DEL ESTADO DE HIDALGO.
-El Congreso del Estado Libre y Soberano de Hidalgo, en uso de las facultades que le confieren los Articulos 56 fracciones I y II de la Constitución Política del Estado de Hidalgo, D E C R E T A:
+El Congreso del Estado Libre y Soberano de Hidalgo, en uso de las facultades que le confieren los Artículos 56 fracciones I y II de la Constitución Política del Estado de Hidalgo, D E C R E T A:
 A N T E C E D E N T E S
 PRIMERO. En sesión ordinaria de fecha 09 de octubre de 2014 y por instrucciones de la Directiva, nos fue turnada la Iniciativa precisada en el Proemio del presente documento.
 SEGUNDO. El asunto de mérito quedó registrado en el libro de gobierno de la Comisión actuante bajo el número 118/2014.

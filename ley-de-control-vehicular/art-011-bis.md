@@ -1,0 +1,3 @@
+(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2018)
+Artículo 11 Bis.- Las personas físicas o morales que hayan enajenado un vehículo podrán realizar el trámite de Baja Administrativa del Registro Vehicular Estatal, siempre que el adquirente no haya efectuado el cambio de propietario, para lo cual deberán presentar el documento traslativo de dominio respectivo, así como los requisitos establecidos en el artículo 26, fracciones I y II de la Ley, según corresponda; lo anterior, no será aplicable tratándose de vehículos destinados al Transporte Público y de Demostración.
+La baja administrativa surtirá sus efectos a partir de la fecha en que se efectúe el trámite y no eximirá de las obligaciones generadas con anterioridad.

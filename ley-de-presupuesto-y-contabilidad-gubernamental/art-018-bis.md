@@ -1,0 +1,4 @@
+(DEROGADO CUARTO PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2018)
+(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2018)
+Artículo 18 Bis. Toda propuesta de aumento o creación de gasto del proyecto de Presupuesto de Egresos del Estado o de los Municipios, deberá acompañarse con la correspondiente fuente de ingresos distinta al financiamiento, o compensarse con reducciones en otras previsiones de gasto.
+Sin perjuicio de lo dispuesto en el artículo 56 de esta Ley, los pagos que no estén comprendidos en el Presupuesto de Egresos, determinados por Ley o Decreto posterior del Congreso del Estado o con cargo a ingresos excedentes, no procederán. El Estado y los Municipios deberán revelar en la cuenta pública y en los informes que periódicamente deba entregar al Congreso del Estado, la fuente de ingresos con la que se haya pagado el nuevo gasto, distinguiendo el etiquetado y no etiquetado.
