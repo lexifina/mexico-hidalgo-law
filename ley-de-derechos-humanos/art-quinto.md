@@ -1,4 +1,4 @@
-Artículo Quinto.- La Comisión Estatal de Derechos Humanos, deberá emitir el Reglamento de la Presente Ley a mas tardar en un plazo de 180 días posteriores a (sic) Publicación de la entrada en vigor, del presente Decreto.
+Artículo Quinto.- La Comisión Estatal de Derechos Humanos, deberá emitir el Reglamento de la Presente Ley a más tardar en un plazo de 180 días posteriores a (sic) Publicación de la entrada en vigor, del presente Decreto.
 AL EJECUTIVO DE LA ENTIDAD PARA LOS EFECTOS DEL ARTÍCULO 51 DE LA CONSTITUCION POLÍTICA DEL ESTADO DE HIDALGO.- DADO EN LA SALA DE SESIONES DEL CONGRESO DEL ESTADO, EN LA CIUDAD DE PACHUCA DE SOTO, HGO., A LOS DIECISIETE DÍAS DEL MES DE NOVIEMBRE DEL AÑO DOS MIL ONCE.
 PRESIDENTE
 DIP. ARTURO APARICIO BARRIOS.
