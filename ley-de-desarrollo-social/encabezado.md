@@ -8,7 +8,8 @@ El Congreso del Estado Libre y Soberano de Hidalgo, en uso de las facultades que
 A N T E C E D E N T E S
 1.- En sesión ordinaria de fecha 28 de diciembre del año dos mil cinco, por instrucciones del Presidente de la Directiva del Congreso del Estado, nos fue turnado para su estudio y dictamen, la Iniciativa de Ley de Desarrollo Social del Estado de Hidalgo.
 2.- Las Comisiones Legislativas actuantes registraron el presente asunto en el Libro de Gobierno con el número 056/2005.
-C O N S I D E R A N D O.
+C O N S I D E R A N D O
+[...]
 POR TODO LO EXPUESTO, ESTE HONORABLE CONGRESO, HA TENIDO A BIEN EXPEDIR EL SIGUIENTE:
 D E C R E T O
 QUE CONTIENE LA LEY DE DESARROLLO SOCIAL DEL ESTADO DE HIDALGO
