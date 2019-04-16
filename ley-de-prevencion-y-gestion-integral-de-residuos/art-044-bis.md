@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 15 DE ABRIL DE 2019)
+Artículo 44 Bis.- Los establecimientos y comercios a que se refiere la fracción XVI del artículo anterior, deberán incentivar y brindar facilidades al público para llevar sus propias bolsas reutilizables o bien otros elementos que no sean de un solo uso tales como: bolsas de tela, canastas, redes, u otras hechas de material reutilizable, para fines de envoltura, transportación, carga o traslado de productos o mercancías.
