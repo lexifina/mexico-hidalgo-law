@@ -1,0 +1,3 @@
+P.O. 19 DE SEPTIEMBRE DE 2019.
+[N. DE E. TRANSITORIOS DEL "DECRETO NUM. 206 QUE REFORMA EL PRIMER PÁRRAFO DEL ARTÍCULO 42 Y LA FRACCIÓN XXXVIII DEL ARTÍCULO 71, DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE HIDALGO".]
+ARTÍCULO ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
