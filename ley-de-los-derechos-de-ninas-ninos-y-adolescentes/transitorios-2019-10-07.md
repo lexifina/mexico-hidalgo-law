@@ -1,0 +1,4 @@
+P.O. 7 DE OCTUBRE DE 2019.
+[N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO. 213.- QUE REFORMA LA FRACCIÓN XX DEL ARTÍCULO 13; Y ADICIONA EL CAPÍTULO VIGÉSIMO DERECHO DE ACCESO A LAS TECNOLOGÍAS DE LA INFORMACIÓN Y COMUNICACIÓN; Y LOS ARTÍCULOS 100 BIS, 100 BIS 1, 100 BIS 2 Y 100 BIS 3 A LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES PARA EL ESTADO DE HIDALGO".]
+PRIMERO. El presente Decreto entrará en vigor, al día siguiente de su publicación, en el Periódico Oficial del Estado de Hidalgo.
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.

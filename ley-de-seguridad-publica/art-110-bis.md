@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 7 DE OCTUBRE DE 2019)
+Artículo 110 Bis. La Comisión de Honor tendrá facultades para conocer y resolver respecto a las condecoraciones, estímulos y recompensas a que se hagan merecedores los integrantes de las Instituciones Policiales, por su valor, mérito y perseverancia en el servicio, las cuales se podrán otorgar en vida o post mortem; emitiendo, en su caso, la constancia que avale la propuesta de la Institución Policial.

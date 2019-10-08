@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 7 DE OCTUBRE DE 2019)
+Artículo 100 Bis 1. Las autoridades estatales y municipales, en el ámbito de sus respectivas competencias, garantizarán a las niñas, niños y adolescentes su integración a la sociedad de la información y el conocimiento, acorde a los fines establecidos en el artículo 8 Bis de la Constitución Política del Estado de Hidalgo, mediante una política de inclusión digital universal en condiciones de equidad, asequibilidad, disponibilidad, accesibilidad y calidad.
