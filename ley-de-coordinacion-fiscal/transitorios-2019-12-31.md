@@ -1,0 +1,4 @@
+P.O. 31 DE DICIEMBRE DE 2019.
+[N. DE E. TRANSITORIOS DEL "DECRETO NUM. 303.- QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DEL CÓDIGO FISCAL DEL ESTADO DE HIDALGO, LA LEY DE HACIENDA DEL ESTADO DE HIDALGO, LA LEY ESTATAL DE DERECHOS Y LA LEY DE COORDINACIÓN FISCAL DEL ESTADO DE HIDALGO".]
+PRIMERO. El presente Decreto deberá publicarse en el Periódico Oficial del Estado y entrará en vigor el día 1° de enero de 2020.
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente decreto.
