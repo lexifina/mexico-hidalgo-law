@@ -1,0 +1,3 @@
+P.O. 23 DE MARZO DE 2020.
+[N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 390 QUE REFORMA EL PÁRRAFO PRIMERO DEL ARTÍCULO 6 DE LA LEY DE EDUCACIÓN Y EL PÁRRAFO TERCERO DEL ARTÍCULO 23 DE LA LEY DE DESARROLLO SOCIAL, AMBAS DEL ESTADO DE HIDALGO".]
+ÚNICO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Hidalgo.
