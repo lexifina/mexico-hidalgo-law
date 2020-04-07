@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 6 DE ABRIL DE 2020)
+Artículo 16 Bis. Ante una situación de emergencia o desastre, que ponga en riesgo la vida, la supervivencia, el desarrollo y/o la paz de las niñas, niños y adolescentes, las autoridades deberán implementar las acciones contempladas en los programas, planes y/o protocolos en materia de seguridad pública y de protección civil para salvaguardar sus derechos, observando siempre los principios del interés superior de la niñez y de resiliencia.
