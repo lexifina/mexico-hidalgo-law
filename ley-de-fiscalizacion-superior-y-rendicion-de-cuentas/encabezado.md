@@ -1,5 +1,5 @@
 LEY DE FISCALIZACIÓN SUPERIOR Y RENDICIÓN DE CUENTAS DEL ESTADO DE HIDALGO
-Ley publicada en el Bis del Periódico Oficial del Estado de Hidalgo, el lunes 10 de julio de 2017.
+Ley publicada en el Número Bis del Periódico Oficial del Estado de Hidalgo, el lunes 10 de julio de 2017.
 GOBIERNO DEL ESTADO DE HIDALGO
 PODER EJECUTIVO
 OMAR FAYAD MENESES, GOBERNADOR CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE HIDALGO, A SUS HABITANTES SABED:

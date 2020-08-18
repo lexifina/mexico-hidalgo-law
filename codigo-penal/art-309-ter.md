@@ -13,3 +13,7 @@ II. El servidor público que a sabiendas de la ilicitud del acto, y en perjuicio
 a) Niegue el otorgamiento o celebración de un contrato, existiendo todos los requisitos establecidos en la normatividad aplicable para su otorgamiento; o
 b) Siendo responsable de administrar y verificar directamente el cumplimiento de los términos de una concesión, permiso, asignación o contrato, se haya abstenido de cumplir con dicha obligación.
 III. El servidor público que teniendo a su cargo fondos públicos, les dé una aplicación distinta de aquella a que estuvieren destinados o haga un pago ilegal.
+(ADICIONADA, P.O. 17 DE AGOSTO DE 2020)
+IV. El particular que en su carácter de contratista, permisionario, asignatario o titular de una concesión para la prestación de un servicio público o para el uso de bienes del dominio del Estado o de los Municipios, con la finalidad de obtener un beneficio para sí o para un tercero, oculte o genere información falsa respecto de los rendimientos o beneficios que obtenga.
+(ADICIONADO, P.O. 17 DE AGOSTO DE 2020)
+Las mismas penas se impondrán a cualquier persona que a sabiendas de la ilicitud del acto y en perjuicio del patrimonio o el servicio público o de otra persona participe, solicite o promueva la perpetración de cualquiera de las conductas previstas en este artículo.
