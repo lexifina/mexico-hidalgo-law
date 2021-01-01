@@ -23,3 +23,5 @@ II.- Por la incorporación o actualización al registro estatal de movilidad y t
 III.- Por la expedición de constancias de información, registro o folio del registro estatal de movilidad y transporte, por la primer foja y hasta 3 fojas. 1 u.m.a.;
 IV.- Por la expedición de constancias de información, registro o folio del registro estatal de movilidad y transporte, a que se refiere la fracción III inmediata anterior, por cada foja adicional. 0.26 u.m.a.´s;
 V.- Por la expedición de copias certificadas, por cada foja. 0.2 u.m.a.´s
+(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2020)
+VI.- Por el registro del profesional, persona física o moral, experto o perito en la materia, responsable de elaborar, integrar y suscribir el Estudio de Impacto en la Movilidad. 11.7 u.m.a.´s
