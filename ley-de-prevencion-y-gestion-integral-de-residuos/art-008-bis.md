@@ -1,0 +1,4 @@
+(ADICIONADO, P.O. 20 DE ENERO DE 2021)
+Artículo 8 Bis.- Los Ayuntamientos deberán elaborar y expedir el Programa Municipal de Prevención y Gestión Integral de Residuos Sólidos Urbanos, dentro de los primeros seis meses de iniciado el gobierno municipal, el cual deberá estar alineado al Programa Estatal de Prevención y Gestión Integral de Residuos, atendiendo lo establecido en la fracción I del artículo 8.
+La vigencia del Programa Municipal, estará al tiempo que dure el mandato del Ayuntamiento, pero la autoridad entrante, estará obligada a acatarlo mientras no entre en vigor el Programa correspondiente para su mandato constitucional.
+El Programa municipal a que hace referencia el presente artículo, deberá contener como mínimo lo establecido en la legislación y normatividad en materia de prevención y gestión Integral de Residuos
