@@ -1,0 +1,3 @@
+P.O. 15 DE MARZO DE 2021.
+[N. DE E. TRANSITORIO DEL "DECRETO NÚMERO. 697 QUE REFORMA LA FRACCIÓN V Y VI Y SE ADICIONA LA FRACCIÓN VII DEL ARTÍCULO 8 DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE HIDALGO".]
+UNICO. El presente Decreto entrará en vigor, al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
