@@ -1,5 +1,8 @@
-(ADICIONADO, P.O. 9 DE AGOSTO DE 2010)
-Artículo 142 Bis 5.- La Secretaría de Salud y los Gobiernos Municipales, en el ámbito de sus respectivas competencias, se coordinarán para la ejecución del programa contra la farmacodependencia, a través de las siguientes acciones:
-I.- La prevención y el tratamiento de la farmacodependencia y, en su caso, la rehabilitación de los farmacodependientes;
-II.- La educación sobre los efectos del uso de estupefacientes, substancias psicotrópicas y otras susceptibles de producir dependencia, así como sus consecuencias en las relaciones sociales y;
-III.- La educación e instrucción a la familia y a la comunidad sobre la forma de reconocer los síntomas de la fármacodependencia y adoptar las medidas oportunas para su prevención y tratamiento.
+(REFORMADO, P.O. 15 DE MARZO DE 2021)
+Artículo 142 Bis 5.- Para la ejecución del Programa Contra el uso, abuso y dependencia de Bebidas Alcohólicas, la atención del alcoholismo y la prevención de enfermedades derivadas del mismo, la Secretaría de Salud promoverá que en los establecimientos públicos, privados y sociales en los que se presten servicios de prevención y atención contra el uso nocivo del alcohol, se realicen las siguientes acciones:
+I. La promoción de la salud y de estilos de vida activa y saludable, para prevenir y combatir el uso nocivo del alcohol;
+II. La prevención, detección temprana, diagnóstico oportuno, derivación, tratamiento efectivo y rehabilitación del individuo, a causa del uso nocivo del alcohol y de los padecimientos originados por él, evitando toda forma de estigmatización y discriminación;
+III. El fomento de la creación de redes de apoyo, para miembros de la familia y otros miembros de la comunidad que pudieran resultar afectados directa o indirectamente por dicho uso nocivo;
+IV. El brindar información a la población en general sobre los efectos del uso nocivo del alcohol en la salud y en las relaciones sociales, dirigida especialmente a la familia, niñas, niños, adolescentes, jóvenes, embarazadas, comunidades indígenas y otros grupos vulnerables;
+V. El establecimiento de un sistema de monitoreo interno y un programa de seguimiento y evaluación de metas y logros internos del Programa Contra el uso, abuso y dependencia de Bebidas Alcohólicas y su impacto en la salud; y
+VI. El fomento a la aplicación de intervenciones breves; de servicios de cesación y otras opciones terapéuticas que ayuden a dejar de beber alcohol en forma nociva, combinadas con consejería y grupos de ayuda mutua y apoyo terapéutico a familiares.

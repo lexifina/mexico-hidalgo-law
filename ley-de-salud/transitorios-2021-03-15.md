@@ -1,0 +1,6 @@
+P.O. 15 DE MARZO DE 2021.
+[N. DE E. TRANSITORIOS DEL "DECRETO NUM.695 QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE SALUD PARA EL ESTADO DE HIDALGO".]
+PRIMERO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Hidalgo.
+SEGUNDO. Las erogaciones que se generen con motivo de la entrada en vigor e implementación del presente Decreto, deberán contemplarse a más tardar en el ejercicio fiscal 2022, quedando sujeto a la disponibilidad presupuestaria anual que se apruebe, así como a lo establecido en los convenios, acuerdos, planes, programas y normatividad vigente.
+TERCERO. El Ejecutivo Estatal en un plazo no mayor a ciento ochenta días hábiles siguientes contados a partir de su entrada en vigor deberá emitir las reglas de operación del programa correspondiente a los servicios de salud en domicilio particular, conforme a lo dispuesto al artículo 5 BIS del presente Decreto.
+CUARTO. Las autoridades municipales, atendiendo a lo dispuesto en los artículos 181 Bis y 187 Bis, tendrán un plazo de hasta treinta días naturales, contado a partir de la entrada en vigor del presente Decreto, para adecuar o expedir normas reglamentarias atendiendo a sus facultades constitucionales y legales.

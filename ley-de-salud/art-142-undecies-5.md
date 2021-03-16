@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 15 DE MARZO DE 2021)
+Artículo 142 Undecies 5.- El origen étnico o nacional, sexo, edad, discapacidad, condición social o económica, condiciones de salud, lengua, religión, opiniones, preferencias sexuales, estado civil o cualquier otra, no pueden ser motivo para impedir o anular el ejercicio de los derechos reproductivos de las parejas o personas con infertilidad. Lo anterior, a efecto de garantizar el respeto a los derechos humanos de las personas, así como a los preceptos señalados en la Carta de los Derechos Generales de los Pacientes.
