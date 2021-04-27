@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 26 DE ABRIL DE 2021)
+Artículo 100 Bis 7. El estado reconoce que los padres o en su caso los representantes legales, son los principales responsables de la crianza y desarrollo de las niñas, niños y adolescentes, siempre que ello sea posible y no sea contrario a su interés superior. En los casos en que los padres o representantes legales no puedan asumir su responsabilidad, el Estado deberá intervenir desde el ámbito de sus respectivas competencias.
