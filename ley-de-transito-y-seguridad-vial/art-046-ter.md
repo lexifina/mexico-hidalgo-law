@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 12 DE MAYO DE 2021)
+Artículo 46 Ter.- En todo lo no previsto en la presente Ley respecto a los vehículos de carga, sobre el peso y dimensiones máximas con los que pueden circular los vehículos de autotransporte que transitan en las vías generales de comunicación, son aplicables supletoriamente las disposiciones establecidas en la Norma Oficial Mexicana NOM-012-SCT-2-2017 o cualquier otro ordenamiento que en la materia resulte aplicable.
