@@ -1,6 +1,5 @@
 [N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]
 CÓDIGO PENAL PARA EL ESTADO DE HIDALGO
-[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 5 DE JULIO DE 2021.]
 Código publicado en el Alcance al Periódico Oficial del Estado de Hidalgo, el sábado 9 de junio de 1990.
 ADOLFO LUGO VERDUZCO, Gobernador Constitucional del Estado de Hidalgo, a sus habitantes, sabed:
 Que la Quincuagésima Tercera Legislatura del H. Congreso Constitucional del Estado Libre y Soberano de Hidalgo ha tenido a bien expedir el siguiente:
