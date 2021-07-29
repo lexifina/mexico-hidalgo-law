@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 28 DE JULIO DE 2021)
+Artículo 41 Bis. Por cultura urbana se entienden todas las expresiones y manifestaciones que comparten los individuos en un determinado espacio urbano; entre las que se encuentran la música, la forma de vestir, el arte, toda expresión resultante de la combinación de destrezas físicas o artísticas, ya sea en forma unipersonal o grupal, las maneras de comunicarse y cualquier manifestación de esta índole que se desarrolle en espacios públicos.

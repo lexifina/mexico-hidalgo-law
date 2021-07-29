@@ -1,0 +1,7 @@
+P.O. 28 DE JULIO DE 2021.
+[N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 718 QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA PARA EL ESTADO DE HIDALGO".]
+PRIMERO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Hidalgo.
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+TERCERO. El Consejo General del Instituto de Transparencia y Acceso a la Información Pública del Estado de Hidalgo, a partir de la entrada en vigor del presente decreto, tendrá un plazo no mayor a 180 días naturales para expedir el Reglamento de la Ley y actualizar su normatividad conforme a las disposiciones contenidas en el presente decreto.
+CUARTO. Para los procedimientos iniciados con anterioridad a la vigencia del presente Decreto, serán concluidos conforme a las disposiciones aplicables vigentes a su inicio.
+QUINTO. Se declara la invalidez del OCTAVO TRANSITORIO del Decreto de la LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA PARA EL ESTADO DE HIDALGO publicada en el Periódico Oficial del Estado de fecha 9 de octubre del año 2017; en su porción normativa ´El Ejecutivo del Estado expedirá el Reglamento de esta Ley dentro del año siguiente a su entrada en vigor´, Declarado inválido por el Pleno de la Suprema Corte de Justicia de la Nación, Acción de Inconstitucionalidad 42/2016.
