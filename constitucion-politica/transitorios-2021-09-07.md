@@ -1,0 +1,4 @@
+P.O. 7 DE SEPTIEMBRE DE 2021.
+[N. DE E. TRANSITORIOS DEL "DECRETO NUM. 793 QUE ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 62 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE HIDALGO".]
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+SEGUNDO. Con el objeto de cumplir con lo estipulado en el Artículo 62 de la Constitución Política para el Estado de Hidalgo y de esa forma garantizar la aplicación del principio de paridad de género, sin que ello suponga una violación a otros derechos constitucionales y convencionales, los partidos políticos, para el proceso electoral 2021-2022, observarán sus reglas democráticas internas para la elección del candidato o candidata con una convocatoria abierta a ambos géneros, en el entendido de que para el siguiente periodo electivo deberán alternar el género.
