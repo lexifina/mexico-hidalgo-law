@@ -1,0 +1,9 @@
+(ADICIONADO, P.O. 13 DE SEPTIEMBRE DE 2021)
+Artículo 25 Ter.- Además de lo previsto en el artículo anterior, cuando se trate de establecimientos dedicados a la reproducción, selección, crianza o venta de animales, deberán cumplir las siguientes disposiciones:
+I. Garantizar su protección y asegurarles un trato digno y respetuoso;
+II. Evitar el maltrato y la crueldad hacia los animales tanto por parte de los comerciantes, sus empleados o ayudantes, así como por parte de quien los adquiere;
+III. Asegurar que los animales estén resguardados, previo a su venta, en lugares que cuenten con áreas e infraestructura necesaria para su manejo;
+IV. Prestar, sin costo alguno, por lo menos dos espacios físicos dentro de su establecimiento, para la exhibición de animales en adopción que se encuentren en custodia de alguna asociación protectora de animales legalmente constituida, a fin de fomentar la cultura de la adopción de animales de compañía abandonados, así como publicarlo a través de medios remotos o la utilización de herramientas tecnológicas; y
+V. Quienes lleven a cabo la reproducción, selección, crianza o la comercialización de animales de compañía, deberán acreditar que cuentan con la capacidad técnica y operativa suficiente.
+Además de las medidas anteriormente señaladas, se deberán prever las condiciones suficientes de espacio, seguridad, ventilación, iluminación, alimentación, así como las necesarias para la estancia de los animales en instalaciones de resguardo durante los períodos en los que no se encontrarán en exhibición para su comercialización.
+Las personas o lugares dedicados a la reproducción, selección, crianza o venta de animales que no cuenten con las autorizaciones correspondientes, serán sujetos a las sanciones establecidas en esta ley y los animales serán resguardados hasta su adopción por la autoridad correspondiente con el apoyo de asociaciones protectoras de animales legalmente constituidas.
