@@ -10,5 +10,6 @@ IV.- Diseñar y difundir materiales que promuevan la prevención, atención y er
 V.- Orientar a las mujeres víctimas de violencia laboral, sobre las instituciones que les prestan atención y protección;
 VI.- Tomar medidas y realizar las acciones de su competencia, en coordinación con las demás autoridades, para alcanzar los objetivos previstos en la presente Ley;
 VII.- Celebrar convenios de cooperación, coordinación y concertación en la materia;
-VIII.- Establecer, utilizar, supervisar y mantener todos los instrumentos y acciones encaminados al mejoramiento del Sistema y del Programa; y
+(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2021)
+VIII.- Establecer, utilizar, supervisar y mantener todos los instrumentos y acciones encaminados al mejoramiento del Sistema, del Programa y de la Ruta de atención a mujeres en situación de violencia; y
 IX.- Las demás previstas para el cumplimiento de la presente Ley.

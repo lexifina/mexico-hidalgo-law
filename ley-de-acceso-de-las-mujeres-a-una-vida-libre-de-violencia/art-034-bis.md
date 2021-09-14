@@ -5,5 +5,6 @@ II.- Subsistema de Acción: Conformado por los titulares de las Dependencias de 
 a.- Prevención;
 b.- Atención; y
 c.- Erradicación.
-La finalidad y objetivo del Subsistema de Acción será, aportar los avances en la construcción de modelos, por cada uno de los ejes de acción, que prevé la Ley, proporcionando la información respectiva a la Secretaría Ejecutiva en los instrumentos y mecanismos que para tal efecto, ésta diseñe y establezca.
+(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2021)
+La finalidad y objetivo del Subsistema de Acción será, aportar los avances en la construcción de modelos y de rutas de atención integral a mujeres en situación de violencia, por cada uno de los ejes de acción, que prevé la Ley, proporcionando la información respectiva a la Secretaría Ejecutiva en los instrumentos y mecanismos que, para tal efecto, ésta diseñe y establezca.
 III.- Subsistema de Armonización: Conformado por dos unidades, la legislativa y la judicial, que examinarán semestralmente los avances legislativos en el País, a efecto de instrumentar acciones que permitan estar en concordancia a nivel Federal y con otras Entidades de la República. Estará encabezado por el Instituto Hidalguense de las Mujeres.

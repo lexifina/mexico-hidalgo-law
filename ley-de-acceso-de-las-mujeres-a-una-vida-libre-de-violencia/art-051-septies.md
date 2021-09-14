@@ -1,0 +1,5 @@
+(ADICIONADO, P.O. 13 DE SEPTIEMBRE DE 2021)
+ARTÍCULO 51 SEPTIES.- Las dependencias, entidades y órganos administrativos del nivel estatal o municipal que atienden a mujeres en situación de violencia deberán:
+I.- Canalizar de manera inmediata a las mujeres víctimas de violencia a las Unidades de Atención mediante el uso del sistema de referencia contrarreferencia y el uso de la cédula de registro único; cuando se trate de violencia sexual, serán trasladadas a la agencia del Ministerio Público que corresponda;
+II.- Realizar en coordinación con las otras dependencias, para asegurar la uniformidad y la calidad de la atención de las mujeres víctimas de violencia, protocolos de atención médica, psicológica y jurídica; y
+III.- Las dependencias de gobierno que atiendan a mujeres víctimas de violencia deberán expedir documentos que hagan constar la atención de las mujeres víctimas de violencia, con la finalidad de que los hagan valer en sus centros de trabajo o para los fines que estimen convenientes.

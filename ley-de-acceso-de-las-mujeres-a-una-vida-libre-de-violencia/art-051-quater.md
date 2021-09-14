@@ -1,0 +1,4 @@
+(ADICIONADO, P.O. 13 DE SEPTIEMBRE DE 2021)
+ARTÍCULO 51 QUATER.- La Ruta de atención integral a mujeres en situación de violencia de género operará a través de un sistema informático que generará la Cédula de Registro Único, de tal manera que, con independencia de la institución a la que acudan por primera vez las mujeres en situación de violencia, se garantice el seguimiento del caso hasta su conclusión.
+Al efecto, las dependencias y entidades deberán registrar el ingreso de las mujeres en situación de violencia en el sistema informático con los datos obtenidos de la Cédula de Registro Único. Esta cédula deberá transmitirse a las dependencias y entidades a donde se canalicen las víctimas o se preste el servicio subsecuente, a efecto de que se tenga un registro de la atención que se brinda desde el inicio hasta la conclusión de cada caso.
+El Reglamento de la presente Ley, contemplará las características y el mecanismo para instrumentar la Cédula de Registro Único.
