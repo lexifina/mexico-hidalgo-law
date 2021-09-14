@@ -1,0 +1,3 @@
+P.O. 13 DE SEPTIEMBRE DE 2021.
+[N. DE E. TRANSITORIO DEL "DECRETO NUM. 753 QUE REFORMA LA FRACCIÓN II DEL ARTÍCULO 35 Y LA FRACCIÓN I DEL ARTÍCULO 84; DE LA LEY DE PROPIEDAD EN CONDOMINIO DE INMUEBLES PARA EL ESTADO DE HIDALGO".]
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
