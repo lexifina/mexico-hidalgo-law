@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 13 DE SEPTIEMBRE DE 2021)
+Artículo 6 Bis. El Instituto para su desarrollo y operación, deberá sujetarse a la Ley de Planeación y Prospectiva del Estado de Hidalgo, al Plan Estatal de Desarrollo, así como a las asignaciones de gasto autorizadas. Dentro de estas directrices, el Instituto deberá formular su Programa Institucional de Desarrollo, los programas de acción que de éste deriven y el programa financiero correspondiente, cuando así proceda.
