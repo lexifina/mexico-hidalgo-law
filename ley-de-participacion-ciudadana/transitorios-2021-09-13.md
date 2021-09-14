@@ -1,0 +1,3 @@
+P.O. 13 DE SEPTIEMBRE DE 2021.
+[N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 754 QUE ADICIONA EL SEGUNDO PÁRRAFO RECORRIÉNDOSE EL SUBSECUENTE DEL ARTÍCULO 1 DE LA LEY DE PARTICIPACIÓN CIUDADANA PARA EL ESTADO DE HIDALGO".]
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
