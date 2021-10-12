@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 11 DE OCTUBRE DE 2021)
+ARTÍCULO 50 TER.- La SEMARNATH, SEDAGRO Y COPRISEH, podrán revisar las colmenas previo aviso dado al propietario, cuando se presuma el peligro de plagas y enfermedades que puedan dañar a la apicultura de una región determinada, en caso de oposición por parte del apicultor, las autoridades tomarán las medidas que consideren necesarias a fin de hacer la revisión correspondiente.
