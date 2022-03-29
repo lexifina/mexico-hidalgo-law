@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 28 DE MARZO DE 2022)
+ARTÍCULO 89 Bis. La inmatriculación es la inscripción de la propiedad o posesión de un inmueble en el Registro Público de la Propiedad que carece de antecedentes registrales. Para cualquiera de los procedimientos de inmatriculación administrativa, es requisito previo que el Registro Público emita un certificado que acredite que el bien de que se trate no está inscrito, en los términos que se precisen en las disposiciones administrativas que para el efecto se expidan.
