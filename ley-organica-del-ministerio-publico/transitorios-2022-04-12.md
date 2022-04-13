@@ -1,0 +1,4 @@
+P.O. 12 DE ABRIL DE 2022.
+[N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 186 QUE ADICIONA EL ARTÍCULO 15 BIS 1, A LA SECCIÓN II DEL CAPÍTULO III DE LA LEY ORGÁNICA DEL MINISTERIO PÚBLICO DEL ESTADO DE HIDALGO".]
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+SEGUNDO. El Poder Ejecutivo del Estado de Hidalgo, de conformidad con su disponibilidad presupuestal y la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios, la Ley General de Contabilidad Gubernamental y la Ley del Presupuesto y Contabilidad Gubernamental del Estado de Hidalgo, proveerá administrativamente lo necesario y realizará los ajustes presupuestales procedentes, para la creación y operación de la Fiscalía Especial para la Investigación del Delito de Tortura.
