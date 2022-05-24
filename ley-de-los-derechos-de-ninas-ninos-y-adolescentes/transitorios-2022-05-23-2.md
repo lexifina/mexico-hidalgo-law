@@ -1,0 +1,3 @@
+P.O. 23 DE MAYO DE 2022.
+[N. DE E. TRANSITORIO DEL "DECRETO NÚM. 199 POR EL QUE SE REFORMA LA FRACCIÓN VIII DEL ARTÍCULO 56 Y LA FRACCIÓN II DEL ARTÍCULO 58 DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES PARA EL ESTADO DE HIDALGO".]
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
