@@ -5,3 +5,7 @@ II.- Violencia psicológica: Cualquier acción u omisión que puede consistir en
 III.- Violencia Patrimonial: Cualquier acción u omisión de sustracción, destrucción, retención u ocultamiento, de objetos, valores, documentos personales, bienes, derechos patrimoniales o recursos económicos;
 IV.- Violencia Sexual: Cualquier acción u omisión que atenta contra la libertad, dignidad sexual e integridad psicofísica, ya sea que genere o no daño; y
 V.- Violencia Económica: Toda acción u omisión que afecta la economía de la víctima y se manifiesta a través de limitaciones encaminadas a controlar sus ingresos económicos o en la restricción o condicionamiento de los recursos económicos.
+(ADICIONADA, P.O. 23 DE MAYO DE 2022)
+VI.- Violencia Vicaria: Es el daño provocado a una mujer a través de una acción u omisión que afecte física o psicológicamente a sus hijas, hijos, persona con la que tenga otro parentesco o relación afectiva.
+[N. DE E. ESTE PÁRRAFO PERTENECE A LA FRACCIÓN VI, P.O. 23 DE MAYO DE 2022.]
+La persona generadora de esta violencia será aquella con quien la mujer mantenga o haya mantenido una relación de hecho, matrimonio, concubinato, o de parentesco por consanguinidad o afinidad, con o sin convivencia.

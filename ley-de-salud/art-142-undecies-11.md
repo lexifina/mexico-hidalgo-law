@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 23 DE MAYO DE 2022)
+Artículo 142 Undecies 11.- La Secretaría de Salud impulsará la participación de los sectores social y privado, así como de la sociedad en general, para el fortalecimiento de los servicios de salud en materia de atención materno-infantil. Para tal efecto promoverá la creación de Redes de Apoyo a la Salud Materno Infantil, con la finalidad de facilitar el acceso a las mujeres embarazadas a información en la materia.
