@@ -1,0 +1,4 @@
+P.O. 6 DE JUNIO DE 2022.
+[N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 208 POR EL QUE SE REFORMA LOS ARTÍCULOS 60 Y 95 QUATER DE LA LEY ORGÁNICA MUNICIPAL PARA EL ESTADO DE HIDALGO, EL ARTÍCULO 5 DE LA LEY DE HACIENDA PARA LOS MUNICIPIOS DEL ESTADO DE HIDALGO Y EL ARTÍCULO 29 DEL CÓDIGO FISCAL MUNICIPAL PARA EL ESTADO DE HIDALGO".]
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente decreto.
