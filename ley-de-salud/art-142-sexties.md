@@ -1,2 +1,4 @@
 (ADICIONADO, P.O. 10 DE JULIO DE 2017)
 Artículo 142 Sexties.- La atención y tratamiento de los trastornos mentales deberá brindarse con un enfoque de reinserción psicosocial y con estricto respeto a los derechos humanos de los usuarios de estos servicios, respetando los principios de igualdad, la prohibición de discriminación, el derecho a la privacidad ya (sic) la autonomía Personal y la prohibición de tratos inhumanos y degradantes.
+(ADICIONADO, P.O. 27 DE JUNIO DE 2022)
+Está prohibido promover, impartir, aplicar, obligar o financiar cualquier tipo de tratamiento, terapia, servicio o práctica, con el objetivo de obstaculizar, restringir, impedir, menoscabar, anular o modificar la orientación sexual, identidad o expresión de género de una persona.

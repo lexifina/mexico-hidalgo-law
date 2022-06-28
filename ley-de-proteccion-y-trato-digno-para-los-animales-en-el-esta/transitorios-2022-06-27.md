@@ -1,0 +1,3 @@
+P.O. 27 DE JUNIO DE 2022.
+[N. DE E. TRANSITORIO DEL "DECRETO NÚM. 215 QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE PROTECCIÓN Y TRATO DIGNO A LOS ANIMALES Y DEL CÓDIGO PENAL, AMBOS DEL ESTADO DE HIDALGO".]
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
