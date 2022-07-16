@@ -1,0 +1,3 @@
+P.O. 15 DE JULIO DE 2022.
+[N. DE E. TRANSITORIO DEL "DECRETO NÚM. 222 QUE REFORMA Y ADICIONA DIVERSOS ARTÍCULOS DE LA LEY DE MIGRANTES HIDALGUENSES Y EN CONTEXTO DE MOVILIDAD, Y DE LA LEY DE POBLACIÓN PARA EL ESTADO DE HIDALGO".]
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
