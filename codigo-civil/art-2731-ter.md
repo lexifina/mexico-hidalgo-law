@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 27 DE JULIO DE 2022)
+Art. 2731 TER.- Se entiende por Conflicto Irreconciliable entre asociados o socios la institución que reconoce que con motivo del bloqueo de resoluciones corporativas, no subsiste la voluntad de varios asociados o socios, según sea el caso, de mantenerse en asociación o sociedad y que el elemento de confianza y colaboración no permanece, por lo que tampoco hay voluntad de continuar reunidos para realizar un fin común, ya sea de carácter preponderantemente económico o no y procede la liquidación de la persona moral de que se trate.

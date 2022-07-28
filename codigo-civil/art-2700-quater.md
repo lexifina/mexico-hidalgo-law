@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 27 DE JULIO DE 2022)
+Art. 2700 QUATER.- Cualquiera que sea el número que le corresponda a la convocatoria, para que la sesión de socios administradores funcione legalmente, deberá asistir por lo menos la mitad más uno de sus miembros, y sus resoluciones serán válidas cuando sean tomadas por mayoría de los presentes. En caso de empate el Presidente del Consejo de Socios Administradores decidirá con voto de calidad.

@@ -1,0 +1,3 @@
+P.O. 27 DE JULIO DE 2022.
+[N. DE E. TRANSITORIO DEL "DECRETO NÚM. 227, POR EL QUE SE REFORMAN LAS FRACCIONES IX Y X, Y SE ADICIONA LA FRACCIÓN XI, DEL ARTÍCULO 8, Y SE REFORMA LA FRACCIÓN VII, DEL ARTÍCULO 11, TODOS DE LA LEY DE POBLACIÓN PARA EL ESTADO DE HIDALGO".]
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.

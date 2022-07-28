@@ -1,0 +1,6 @@
+(ADICIONADO, P.O. 27 DE JULIO DE 2022)
+Art. 2731 NONIES.- Si después de cubiertas las deudas sociales existe haber social que distribuir entre los integrantes deben observarse como normas mínimas protectoras, sin que valga pacto en contrario, las siguientes:
+I.- Se deben formar lotes de bienes o derechos que serán aplicados exclusivamente a cada uno de los integrantes cuyo valor equivalga al haber social a que tenga derecho en la distribución;
+II.- La aplicación de los lotes de bienes o derechos en ningún caso producirá estado de indivisión entre los integrantes;
+III.- En el supuesto de que los bienes o derechos que constituyen el patrimonio de la persona moral no admitan cómoda división por su naturaleza o por disposición de ley se procederá a su venta a valor comercial en almoneda pública y se aplicará a cada integrante el producto de la venta en proporción al valor de sus derechos sociales; y
+IV.- Siendo válido que el integrante que tenga posibilidades económicas participe como postor en la almoneda pública, siempre y cuando pague de contado el precio de los bienes o derechos cuya venta se propone y sumando sus derechos sociales pendientes de cubrir consolide la propiedad o titularidad plena del bien o derecho objeto de venta pública.

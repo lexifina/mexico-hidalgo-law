@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 28 DE JULIO DE 2022)
+Artículo 89 Bis.- El Padrón Estatal de Personas Cuidadoras tiene como objetivo contar con información actualizado (sic) que permita a las autoridades obtener datos reales de quienes se encuentren al cuidado de personas con discapacidad en el Estado de Hidalgo. Así mismo, los datos que éste genere contribuirán a la planificación, ejecución y control de las políticas públicas.

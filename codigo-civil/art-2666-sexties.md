@@ -1,0 +1,3 @@
+(ADICIONADO, P.O. 27 DE JULIO DE 2022)
+Art. 2666 SEXTIES.- Si la asamblea no pudiere celebrarse el día y hora señalado para su desahogo, podrá convocarse nuevamente hasta por dos ocasiones consecutivas bajo el mismo orden del día, expresando la causa que generó la imposibilidad para desahogarla y, para que se lleve a cabo se requerirá el número mínimo de asociados previsto en el artículo anterior.
+Cuando la causa de la imposibilidad para desahogar una asamblea el día y hora señalados en primera convocatoria sea la ausencia del número mínimo de asociados requeridos, podrá convocarse por una segunda ocasión bajo el mismo orden del día, expresando esta circunstancia y, para que se lleve a cabo la asamblea no se requerirá un número mínimo de asociados.

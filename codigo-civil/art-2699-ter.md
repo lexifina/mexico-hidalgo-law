@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 27 DE JULIO DE 2022)
+Art. 2699 TER.- La asamblea general de socios sólo se ocupará de los asuntos contenidos en la respectiva orden del día. Sus decisiones serán tomadas por mayoría de votos de los miembros presentes, incluyendo los de aquellos que hayan atendido la asamblea por videoconferencia y participado en la misma, en proporción a su participación en el capital social, salvo los casos previstos en los artículos 2689, 2696, 2698 y 2702 del presente Código.

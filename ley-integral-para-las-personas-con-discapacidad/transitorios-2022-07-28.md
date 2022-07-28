@@ -1,0 +1,3 @@
+P.O. 28 DE JULIO DE 2022.
+[N. DE E. TRANSITORIO DEL "DECRETO NÚM. 225 POR EL QUE SE ADICIONAN Y REFORMAN DIVERSAS DISPOSICIONES A LA LEY INTEGRAL PARA LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE HIDALGO".]
+ÚNICO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Hidalgo.
