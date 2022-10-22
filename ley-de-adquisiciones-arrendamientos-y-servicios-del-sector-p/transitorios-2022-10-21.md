@@ -1,0 +1,3 @@
+P.O. 21 DE OCTUBRE DE 2022.
+[N. DE E. TRANSITORIO DEL "DECRETO NUM. 246 POR EL QUE SE ADICIONAN DOS PÁRRAFOS AL ARTÍCULO 49 DE LA LEY DE ADQUISICIONES, ARRENDAMIENTOS Y SERVICIOS DEL SECTOR PÚBLICO DEL ESTADO DE HIDALGO".]
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.

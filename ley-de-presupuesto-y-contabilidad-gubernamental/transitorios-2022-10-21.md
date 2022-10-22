@@ -1,0 +1,5 @@
+P.O. 21 DE OCTUBRE DE 2022.
+[N. DE E. TRANSITORIOS DEL "DECRETO NUM. 269 POR EL QUE SE REFORMAN LOS INCISOS L) Y M) DEL ARTÍCULO 42 Y EL ARTÍCULO 96; Y SE ADICIONAN LA FRACCIÓN III BIS AL ARTÍCULO 2, EL PÁRRAFO SEXTO RECORRIÉNDOSE LOS PÁRRAFOS SUBSECUENTES AL ARTÍCULO 23; Y LOS INCISOS N), Ñ), O), P), Q), R) Y S) AL ARTÍCULO 42, A LA LEY DE PRESUPUESTO Y CONTABILIDAD GUBERNAMENTAL DEL ESTADO DE HIDALGO".]
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+SEGUNDO. La Secretaría de Finanzas Públicas del Estado de Hidalgo, en el presupuesto de egresos inmediato a la entrada en vigor del presente Decreto, enviará al Congreso del Estado la metodología, factores, variables y fórmulas utilizados para la elaboración de cada uno de los Anexos Transversales, informando sobre los porcentajes o cuotas de los Programas Presupuestarios y de las Unidades Responsables que son consideradas para la integración de dichos Anexos.
+TERCERO. Se derogan todas las disposiciones que se opongan al presente decreto.

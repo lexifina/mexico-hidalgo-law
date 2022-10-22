@@ -1,0 +1,3 @@
+(ADICIONADO, P.O. 21 DE OCTUBRE DE 2022)
+ARTICULO 28 BIS.- La sustentabilidad será criterio rector en el fomento a las actividades productivas, a fin de lograr el uso racional de los recursos naturales, su preservación y mejoramiento, al igual que la viabilidad económica de la producción mediante procesos productivos socialmente aceptables.
+Los programas de fomento a la producción atenderán prioritariamente el criterio de sustentabilidad en relación con el aprovechamiento de los recursos, ajustando las oportunidades de mercado, tomando en cuenta los planteamientos de los productores en cuanto a la aceptación de las prácticas y tecnologías para la producción.
