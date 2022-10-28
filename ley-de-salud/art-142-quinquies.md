@@ -1,6 +1,7 @@
 (ADICIONADO, P.O. 10 DE JULIO DE 2017)
 Artículo 142 Quinquies.- La prevención, atención y tratamiento de la salud mental, así como los trastornos mentales tienen el carácter de prioritarios, contando con las siguientes acciones:
-I.- Atención de la salud mental;
+(REFORMADA, P.O. 27 DE OCTUBRE DE 2022)
+I.- Atención de la salud mental, privilegiando la atención de depresión y ansiedad en niños, niñas, adolescentes y jóvenes, así como otros grupos de riesgo para la prevención de suicidio.
 II.- Elaboración de estudios que determinen los factores que afectan la salud mental;
 III.- Elaboración de métodos de prevención y control de enfermedades que afectan la salud mental;
 IV.- Desarrollo de estrategias y planes de servicios de salud mental;

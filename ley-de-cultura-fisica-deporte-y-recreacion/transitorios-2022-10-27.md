@@ -1,0 +1,3 @@
+P.O. 27 DE OCTUBRE DE 2022.
+[N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 288 QUE REFORMA LOS ARTÍCULOS 2, 10, 17, 38, 65, 93 Y ADICIONA LA FRACCIÓN VII BIS AL ARTÍCULO 6 DE LA LEY DE CULTURA FÍSICA, DEPORTE Y RECREACIÓN PARA EL ESTADO DE HIDALGO".]
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
