@@ -12,8 +12,8 @@ IV. Proponer al Ejecutivo del Estado, de acuerdo a lo establecido del artículo 
 V. Coordinar y asesorar a las Coordinaciones de Protección Civil Municipales, así como a las dependencias, instituciones y grupos sociales;
 (REFORMADA, P.O. 12 DE ABRIL DE 2022)
 VI. Coordinar, supervisar y evaluar todas las acciones que se realicen en el ejercicio de las funciones de la Coordinación Estatal;
-(ADICIONADA, P.O. 17 DE AGOSTO DE 2020)
-VII. Apoyar y asesorar al Ministerio Público en materia de protección civil y querellarse ante éste cuando proceda, así como fungir como perito en la materia ante autoridades competentes;
+(REFORMADA, P.O. 24 DE NOVIEMBRE DE 2022)
+VII. Apoyar y asesorar al Ministerio Público en materia de protección civil y denunciar ante éste las conductas presumiblemente constitutivas de delito, así como fungir como perito en la materia ante autoridades competentes.
 (ADICIONADA, P.O. 12 DE ABRIL DE 2022)
 VII Bis. Supervisar en la elaboración y actualización de los Atlas Municipales de Riesgos;
 (REFORMADA, P.O. 12 DE ABRIL DE 2022)
