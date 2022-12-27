@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2022)
+Artículo 161 Quinquies. Los deportistas, entrenadores, técnicos, directivos y demás personas, en el ámbito de la disciplina deportiva, deberán actuar conforme a las disposiciones y lineamientos que para prevenir y erradicar la violencia en el deporte emitan el Instituto Hidalguense del Deporte y el Consejo Directivo del Sistema Estatal de Cultura Física, Deporte y Recreación, así como los establecidos en las disposiciones reglamentarias y estatutarias emitidas por las Asociaciones Deportivas Nacionales respectivas.
