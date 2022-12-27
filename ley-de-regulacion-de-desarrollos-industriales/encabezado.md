@@ -1,17 +1,17 @@
-LEY DE REGULACIÓN DE DESARROLLOS INDUSTRIALES DEL ESTADO DE HIDALGO
-Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 14 de julio de 2014.
-JOSÉ FRANCISCO OLVERA RUIZ, GOBERNADOR CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE HIDALGO, A SUS HABITANTES SABED:
-QUE LA LXII LEGISLATURA DEL H. CONGRESO CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE HIDALGO, HA TENIDO A BIEN DIRIGIRME EL SIGUIENTE:
-D E C R E T O NÚM. 203
-QUE CONTIENE LA LEY DE REGULACIÓN DE DESARROLLOS INDUSTRIALES DEL ESTADO DE HIDALGO.
-El Congreso del Estado Libre y Soberano de Hidalgo, en uso de las facultades que le confieren los Artículos 56 fracciones I y II de la Constitución Política del Estado de Hidalgo, DE C R E T A:
-ANTECEDENTES
-PRIMERO.- En sesión ordinaria de fecha 01 de abril del año en curso, por instrucciones de la Presidencia de la Directiva, nos fue turnada la INICIATIVA DE DECRETO QUE CONTIENE LA LEY DE REGULACIÓN DE DESARROLLOS INDUSTRIALES DEL ESTADO DE HIDALGO, presentada por el Lic. José Francisco Olvera Ruiz, Titular del Poder Ejecutivo del Estado.
-SEGUNDO.- El asunto de cuenta, se registró en el Libro de Gobierno de la Primera Comisión Permanente de Legislación y Puntos Constitucionales, con el número 51/2014.
-Por lo que, en mérito de lo expuesto; y
-C O N S I D E R A N D O
-……
-OCTAVO.- Que en ese tenor y de acuerdo a lo vertido anteriormente, quienes integramos la Primera Comisión Permanente de Legislación y Puntos Constitucionales y a partir del análisis y estudio de la Iniciativa de mérito, consideramos pertinente su aprobación.
-POR TODO LO EXPUESTO, ESTE CONGRESO, HA TENIDO A BIEN EXPEDIR EL SIGUIENTE:
-DECRETO
-QUE CONTIENE LA LEY DE REGULACIÓN DE DESARROLLOS INDUSTRIALES DEL ESTADO DE HIDALGO.
+CÓDIGO DE CONDUCTA PARA LAS PERSONAS SERVIDORAS PÚBLICAS DEL INSTITUTO DE VIVIENDA DE TABASCO
+Código publicado en el Suplemento B del Periódico Oficial del Estado de Tabasco, el miércoles 2 de diciembre de 2020.
+LIC. ARTURO ENRIQUE PRIEGO RODRÍGUEZ, ENCARGADO DEL DESPACHO DEL INSTITUTO DE VIVIENDA DE TABASCO, EN EJERCICIO DE LAS ATRIBUCIONES QUE ME CONFIEREN EL ARTICULO 13, FRACCIONES I, II, Y XVI DEL DECRETO 216, PUBLICADO EN EL PERIÓDICO OFICIAL DEL ESTADO DE TABASCO, DE FECHA 14 DE MAYO DE 2003, POR EL QUE SE CREÓ EL INSTITUTO DE VIVIENDA DE TABASCO; CON FUNDAMENTO EN LO DISPUESTO POR EL ARTICULO 16 DE LA LEY GENERAL DE RESPONSABILIDADES ADMINISTRATIVAS, ARTICULO 5 DE LA LEY DEL SISTEMA ANTICORRUPCIÓN DEL ESTADO DE TABASCO, Y
+CONSIDERANDO
+I. El artículo 2 fracción XL de la Constitución Política del Estado Libre y Soberano de Tabasco, establece que el Estado promoverá, mediante leyes y políticas públicas que la práctica social y el desempeño de las personas servidoras públicas se apeguen a códigos de conducta y valores éticos que combatan la corrupción; además de la expedición de leyes que la castiguen severamente, con el fin de que toda persona pueda aspirar a una vida libre de corrupción.
+II. Que el artículo 16 de la Ley General de Responsabilidades Administrativas establece que las personas servidoras públicas deberán observar el Código de Conducta que al efecto sea emitido por las secretarías o los órganos internos de control, conforme a los lineamientos que emita el Sistema Nacional Anticorrupción, para que en su actuación impere una conducta digna que responda a las necesidades de la sociedad y que oriente su desempeño, el Código de Ética a que se refiere deberá hacerse del conocimiento de las personas servidoras públicas de la dependencia o entidad de que se trate, así como darle la máxima publicidad.
+III. Que el artículo 5 de la Ley General del Sistema Nacional Anticorrupción establece que son principios rectores que rigen el servicio público los siguientes: legalidad, objetividad, profesionalismo, honradez, lealtad, imparcialidad, eficiencia, eficacia, equidad, transparencia, economía, integridad y competencia por mérito; los entes públicos están obligados a crear y mantener condiciones estructurales y normativas que permitan el adecuado funcionamiento del estado en su conjunto y la actuación ética y responsable de cada servidor público.
+IV. El Lic. Arturo Enrique Priego Rodríguez, Encargado del Despacho del Instituto de Vivienda de Tabasco, habiéndose cumplido con la aprobación del Comité de Ética y Prevención de Conflicto de intereses del INVITAB, emite el presente Código de Conducta para las Personas Servidoras Púbicas (sic) del Instituto de Vivienda de Tabasco.
+INVITACIÓN
+Los tiempos actuales imponen a las instituciones y a sus empleados un desempeño transparente, responsable y eficiente, basado en principios de legalidad, honradez e imparcialidad, ya que la ciudadanía demanda personas servidoras públicas comprometidos (sic) con el desempeño de sus funciones y que los ejercicios de sus acciones estén enmarcados en las leyes y los valores éticos, conscientes de que sus decisiones impactan en el bienestar, crecimiento y desarrollo de nuestro Estado.
+Este Código de Conducta fue elaborado con el objeto de indicar bajo que lineamientos se deben conducir las personas servidoras públicas que conforman las diferentes unidades administrativas del INVITAB, más no busca suplir las leyes, reglamentos, estatutos y demás ordenamientos jurídicos aplicables, por el contrario, su función será el orientar la conducta en la toma de decisiones, siempre respetando la dignidad de las personas, sin importar, edad, sexo, etnia, religión, nivel de escolaridad o preferencia sexual.
+De igual forma rechazamos las conductas que atentan contra la integridad y la dignidad de las personas en los espacios laborales. Por ello, todas las personas que laboramos en el INVITAB, asumimos el compromiso de actuar bajo el principio de Cero Tolerancia a la discriminación, al hostigamiento sexual y al acoso sexual.
+Por lo anterior se invita a todas las personas servidoras públicas del Instituto de Vivienda de Tabasco a que lo hagan suyo, y asuman el compromiso de adoptar sus principios, valores y reglas de integridad, con el fin de contribuir al fortalecimiento de la conducta ética y la prevención de conflictos de intereses en el quehacer público y así unir esfuerzos por el bien de nuestro Estado.
+Lic. Arturo Enrique Priego Rodríguez
+Encargado del Despacho
+del Instituto de Vivienda de Tabasco
+CÓDIGO DE CONDUCTA PARA LAS PERSONAS SERVIDORAS PÚBLICAS DEL INSTITUTO DE VIVIENDA DE TABASCO
