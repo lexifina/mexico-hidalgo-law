@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 29 DE MARZO DE 2023)
+Artículo 99 Bis.- La Secretaría homologará, con la participación de las instituciones públicas o privadas de capacitación en materia de tránsito, seguridad vial y movilidad, los contenidos, tiempo de duración, exámenes teóricos prácticos, y modalidades de acreditación de los cursos o clases teóricas y prácticas sobre la conducción de vehículos, de acuerdo a cada tipo de licencia que se requiera solicitar.

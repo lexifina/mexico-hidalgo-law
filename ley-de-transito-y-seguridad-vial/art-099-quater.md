@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 29 DE MARZO DE 2023)
+Artículo 99 Quater.- Las licencias de conducir se expedirán en medios impresos o de forma digital, mediante aplicaciones tecnológicas, que garanticen su autenticidad y protección de los datos que estas contienen, misma (sic) que permitirán la acreditación de las habilidades y requisitos correspondientes para la conducción del tipo de vehículo de que se trate y tendrán plena validez en el territorio estatal y nacional.
