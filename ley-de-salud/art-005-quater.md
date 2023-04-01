@@ -1,0 +1,3 @@
+(ADICIONADO, P.O. 31 DE MARZO DE 2023)
+Artículo 5 Quater.- En lo que refiere el artículo 5, apartado A fracción I Ter de esta Ley, la Secretaría de Salud podrá proponer la creación de redes de telemedicina, lo anterior de forma gradual y de conformidad a la disponibilidad presupuestal.
+Para efectos de la presente Ley, se entenderá por redes de Telemedicina a la práctica de la atención médica con la ayuda de comunicaciones interactivas de sonido, imágenes y datos; ello incluye la prestación de asistencia médica, la consulta, el diagnóstico y el tratamiento, así como la enseñanza y la transferencia de datos médicos.
