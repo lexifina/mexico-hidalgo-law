@@ -1,0 +1,3 @@
+P.O. 13 DE ABRIL DE 2023.
+[N. DE E. TRANSITORIO DEL "DECRETO NUM. 499 POR EL QUE SE ADICIONAN LA FRACCIÓN V BIS AL ARTÍCULO 85 Y LA FRACCIÓN VII TER AL ARTÍCULO 119 DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES PARA EL ESTADO DE HIDALGO".]
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
