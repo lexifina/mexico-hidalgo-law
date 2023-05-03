@@ -4,6 +4,11 @@ I. El traslado de las víctimas a donde se requiera, cuantas veces sea necesario
 II. Custodia personal y o domiciliaria a las víctimas, que estará a cargo de los cuerpos policiacos adscritos a la Procuraduría General de Justicia del Estado de Hidalgo. En caso de que no exista disponibilidad podrá apoyarse en las instituciones de seguridad pública de los tres órdenes de gobierno. Esta medida se aplicará bajo la más estricta responsabilidad del Ministerio Público;
 III. Proporcionar a las mujeres, o las niñas, en situación de violencia y en su caso a sus hijas e hijos o personas que dependan de la víctima, alojamiento temporal en espacios seguros tales como casas de emergencia, refugios y albergues que garanticen su seguridad y dignidad, en términos de las disposiciones aplicables de esta ley;
 IV. Proporcionar los recursos económicos para garantizar su seguridad personal, transporte, alimentos, comunicación, mudanza y los trámites oficiales que requiera entre otros;
+(ADICIONADA [N. DE E. CON SUS INCISOS], P.O. 2 DE MAYO DE 2023)
+IV Bis. Canalizar y trasladar sin demora alguna a las mujeres, o las niñas, en situación de violencia sexual a las instituciones que integran el sistema nacional de salud para que provean gratuitamente y de manera inmediata los servicios de:
+a) Aplicación de antirretrovirales de profilaxis post-exposición;
+b) Anticoncepción de emergencia; y
+c) Realización de estudios médicos que corroboren posibles enfermedades de trasmisión sexual, previo consentimiento de la víctima;
 V. Proveer los recursos y herramientas necesarias para garantizar la seguridad y acondicionamiento de vivienda;
 VI. Los demás gastos indispensables, dentro o fuera del país, para la mujer y en su caso sus hijas e hijos mientras se encuentre imposibilitada de obtenerlos por sus propios medios;
 VII. Facilitar a la mujer o la niña, y en su caso a sus hijas e hijos en situación de violencia, la reubicación de domicilio, residencia o del centro educativo. Tratándose de niñas víctimas de violencia, la autoridad en todo momento ponderará su interés superior, siendo la remisión a instituciones públicas de acogida la última opción y por el menor tiempo posible;

@@ -1,0 +1,3 @@
+(ADICIONADO, P.O. 2 DE MAYO DE 2023)
+ARTÍCULO 39 BIS.- Las instalaciones de los poderes del estado y de los municipios serán consideradas puntos violetas, los cuales contarán con una guía de información, protocolos y un distintivo de color violeta con código QR que dirija a sus versiones digitales.
+Los puntos violetas son los lugares seguros en donde se brindará auxilio a cualquier mujer o niña que se encuentre sufriendo algún tipo de violencia, discriminación, o bien que haya escapado de su agresor, pudiendo resguardarse temporalmente ahí, además serán atendidas por servidores públicos capacitados para atención de primer contacto, quienes tienen la obligación de proporcionarles información y de canalizarlas con las autoridades competentes.
