@@ -1,0 +1,5 @@
+(ADICIONADO, P.O. 30 DE MAYO DE 2023)
+ARTÍCULO 30-Bis.- Para los efectos del artículo anterior la inconformidad podrá fundarse en las siguientes hipótesis:
+I. Aclaración para Fe de Erratas.- Cuando el origen del cambio o alteración en algún punto consistió en un error u omisión durante el proceso de revisión, aprobación o posterior publicación en el Periódico Oficial del Estado.
+II. Modificación por discrepancia de criterios normativos.- Cuando a juicio del inconforme, el cambio o alteración en algún punto específico obedece a una inexacta aplicación de las leyes fiscales que el inconforme estime diversas a las que deben aplicarse.
+III. Modificación por causa superveniente.- Cuando por causas de fuerza mayor y sin que haya sido posible prever el cambio de situación jurídica o económica que tenga relación directa con algún punto de la Ley de Ingresos Municipal previamente aprobada y publicada, se hace necesario realizar los ajustes, siempre que estén plenamente fundados, motivados y justificados.
