@@ -1,0 +1,4 @@
+(ADICIONADO, P.O. 15 DE JUNIO DE 2023)
+Artículo 19 Ter.- El Programa Estatal de Vivienda será formulado por la Comisión Estatal de Vivienda, aprobado por el Titular del Ejecutivo Estatal mediante decreto y estará sometido a un proceso permanente de control y evaluación, observando lo dispuesto en este ordenamiento y, en lo conducente, en la Ley de Planeación y Prospectiva del Estado de Hidalgo.
+En la formulación del Programa Estatal se considerarán las propuestas del ejecutivo a través de la Comisión Estatal de Vivienda de los municipios, así como de los sectores social y privado.
+El Programa, una vez aprobado y publicado en el Periódico Oficial del Estado del Estado de Hidalgo, será obligatorio para las dependencias y entidades de la Administración Pública Estatal en el ámbito de sus respectivas competencias, y orientará la planeación y programación de las acciones de los municipios en la materia.

@@ -1,0 +1,5 @@
+P.O. 15 DE JUNIO DE 2023.
+[N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 535 POR EL CUAL SE ADICIONAN LOS PÁRRAFOS OCTAVO Y NOVENO AL ARTÍCULO 17 DE LA LEY DE LOS TRABAJADORES AL SERVICIO DE LOS GOBIERNOS ESTATAL Y MUNICIPALES, ASÍ COMO DE LOS ORGANISMOS DESCENTRALIZADOS, DEL ESTADO DE HIDALGO".]
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+SEGUNDO. A partir de la entrada en vigor del presente Decreto, la Secretaría de Salud del Estado, en coordinación con el organismo descentralizado Servicios de Salud de la entidad, difundirá la aprobación de la presente adición a la Ley, así como las características para la expedición de las correspondientes licencias médicas en el segundo nivel de atención en salud.
+TERCERO. Dentro del término de sesenta días naturales contados a partir de la entrada en vigor del presente Decreto, las autoridades de los tres Poderes del Estado, así como los organismos descentralizados de la Administración Pública Estatal y los Ayuntamientos de la entidad, deberán armonizar su reglamentación interna con arreglo al contenido de la presente reforma.
