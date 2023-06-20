@@ -1,0 +1,3 @@
+P.O. 19 DE JUNIO DE 2023.
+[N. DE E. TRANSITORIO DEL "DECRETO NÚM. 536 POR EL QUE SE REFORMAN LA FRACCIÓN XII DEL ARTÍCULO 12 Y LA FRACCIÓN II DEL ARTÍCULO 35; Y SE ADICIONA LA FRACCIÓN I BIS AL ARTÍCULO 28 DE LA LEY DE PROTECCIÓN CIVIL DEL ESTADO DE HIDALGO".]
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
