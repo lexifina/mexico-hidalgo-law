@@ -1,8 +1,8 @@
-(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 15 DE AGOSTO DE 2016)
+(REFORMADA SU DENOMINACIÓN, P.O. 10 JULIO DE 2023)
 CAPÍTULO III TER
-DELITOS EN CONTRA DE LOS ANIMALES
-(REFORMADO, P.O. 15 DE JULIO DE 2022)
-ARTICULO 349 DECIES.- Al que dolosamente realice actos de maltrato o crueldad en contra de animales domésticos o ferales, causándoles lesiones se le impondrá de 3 meses a 1 año de prisión de prisión (sic) y multa de 25 a 50 Unidades de Medida y Actualización; en caso de que las lesiones causen la muerte al animal doméstico o feral, se impondrá de 6 meses a 2 años de prisión y multa de 50 a 150 Unidades de Medida y Actualización.
+DELITOS CONTRA LA VIDA, INTEGRIDAD Y DIGNIDAD DE LOS ANIMALES
+(REFORMADO, P.O. 10 JULIO DE 2023)
+ARTÍCULO 349 DECIES.- Al que dolosamente realice actos de maltrato o crueldad en contra de animales domésticos o ferales, causándoles lesiones, se le impondrá de 3 meses a 1 año de prisión y multa de 25 a 50 Unidades de Medida y Actualización; la punibilidad señalada se aumentará en una mitad, si las lesiones ponen en peligro la vida del animal; en caso de que las lesiones causen la muerte al animal doméstico o feral, se impondrá de 6 meses a 2 años de prisión y multa de 50 a 150 Unidades de Medida y Actualización.
 (ADICIONADO [N. DE E. ESTE PÁRRAFO], P.O. 29 DE MARZO DE 2023)
 Se aumentará hasta en una mitad la punibilidad que corresponda, cuando en la comisión del delito concurra alguna de las siguientes circunstancias:
 (ADICIONADA, P.O. 29 DE MARZO DE 2023)
