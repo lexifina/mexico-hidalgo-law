@@ -1,0 +1,1 @@
+ARTÍCULO QUINTO. La Secretaría realizará todos los trámites y gestiones correspondientes para la creación de los Institutos Coordinadores de Escuelas Normales, como organismos descentralizados de la administración pública estatal a que se refiere del (sic) artículo 35 de la presente Ley.

@@ -1,0 +1,1 @@
+ARTÍCULO DÉCIMO TERCERO. En cumplimiento a la obligatoriedad de la educación superior y su gratuidad, esta se dará (sic) manera progresiva hasta llegar a su cobertura total en un plazo de 10 años contados a partir de la entrada en vigor del presente Decreto.

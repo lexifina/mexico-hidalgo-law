@@ -1,0 +1,1 @@
+ARTÍCULO DÉCIMO. El Congreso del Estado Libre y Soberano de Hidalgo, en la formulación del Presupuesto de Egresos del ejercicio fiscal del año 2024 deberá de contemplar la integración del Fondo Estatal Especial citado en el artículo 67 de esta Ley con sus respectivas reglas de operación, mismo que tendrá un crecimiento gradual en los futuros ejercicios fiscales.

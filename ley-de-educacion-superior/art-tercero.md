@@ -1,0 +1,3 @@
+ARTÍCULO TERCERO. La Secretaría deberá emitir y adecuar los acuerdos, lineamientos y demás disposiciones de carácter general conforme a lo establecido en este Decreto, en un plazo no mayor a ciento ochenta días hábiles siguientes contados a partir de su entrada en vigor.
+Hasta su emisión, seguirán aplicándose para la operación y funcionamiento de los servicios que presten y se deriven de aquellos en los que contravengan a este Derecho.
+Los actos generados con anterioridad a la entrada en vigor del presente Decreto se regularán, sustanciarán y resolverán de conformidad con el marco vigente hasta el momento.

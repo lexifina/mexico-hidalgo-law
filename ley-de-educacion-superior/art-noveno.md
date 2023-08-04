@@ -1,0 +1,1 @@
+ARTÍCULO NOVENO. Las instituciones de educación superior, deberán de armonizar su marco jurídico con base a las disposiciones que establece la presente Ley en un plazo no mayor a noventa días naturales contados a partir de la entrada en vigor de la presente ley.

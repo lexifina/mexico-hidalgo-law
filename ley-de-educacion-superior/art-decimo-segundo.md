@@ -1,0 +1,1 @@
+ARTÍCULO DÉCIMO SEGUNDO. El Congreso del Estado de Hidalgo, deberá adecuar y armonizar la legislación estatal relacionada con el presente decreto, dentro de los 180 días posteriores en la entrada en vigor del mismo.

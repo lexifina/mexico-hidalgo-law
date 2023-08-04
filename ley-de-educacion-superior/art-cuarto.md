@@ -1,0 +1,1 @@
+ARTÍCULO CUARTO. Se concede un término no mayor a 180 días naturales contados a partir de la entrada en vigor de la presente ley, para la emisión de su reglamento, en tanto seguirán aplicando los ordenamientos emitidos por la autoridad educativa local para la operación y funcionamiento de los servicios.

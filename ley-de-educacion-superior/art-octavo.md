@@ -1,0 +1,1 @@
+ARTÍCULO OCTAVO. La secretaría emitirá los lineamientos que regulen la operación a integración del Espacio Común de la Educación Superior, así como los Consejos Técnicos de Educación Superior en un plazo no mayor a noventa días naturales contados a partir de la entrada en vigor de la presente ley.

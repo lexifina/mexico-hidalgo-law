@@ -1,0 +1,1 @@
+ARTÍCULO DÉCIMO PRIMERO. Las instituciones públicas de educación superior y las Instituciones Públicas de Educación Superior que la ley les otorga autonomía podrán establecer mecanismos para recibir donativos, los cuales les permitan disponer de recursos para cuestiones específicas que fortalezcan su equipamiento y desempeño educativo.
