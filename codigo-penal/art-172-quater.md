@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 3 DE AGOSTO DE 2023)
+ARTICULO 172 QUÁTER.- La punibilidad prevista en el artículo 172 bis se aumentará hasta en una mitad, cuando el delito se cometido por una persona servidora pública en ejercicio de sus funciones o con motivo de ellas, imponiéndose además la privación del cargo desempeñado, e inhabilitación para el desempeño de cualquier empleo, cargo o comisión públicos, por un tiempo igual al de la pena de prisión impuesta.
