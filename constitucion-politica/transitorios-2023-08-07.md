@@ -1,0 +1,3 @@
+P.O. 7 DE AGOSTO DE 2023.
+[N. DE E. TRANSITORIO DEL "DECRETO NUM. 560 QUE REFORMA EL INCISO A) DE LA FRACCIÓN XVII Y LA FRACCIÓN XVIII DEL ARTÍCULO 141; Y SE ADICIONA UN ÚLTIMO PÁRRAFO AL ARTÍCULO 5 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE HIDALGO".]
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
