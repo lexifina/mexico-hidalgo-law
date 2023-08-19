@@ -1,0 +1,3 @@
+P.O. 18 DE AGOSTO DE 2023.
+[N. DE E. TRANSITORIO DEL "DECRETO NUM. 553 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE PROTECCIÓN, SALVAGUARDA Y EXPLOTACIÓN DE LA ABEJA PARA EL ESTADO DE HIDALGO".]
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el periódico Oficial del Estado de Hidalgo.

@@ -8,6 +8,8 @@ II. Promover la creación de las instancias, mecanismos, instrumentos y procedim
 III. Coordinar los trabajos de Investigación, estudios y evaluación riesgos, peligros y vulnerabilidades, integrando y ampliando los conocimientos de tales acontecimientos en coordinación con las dependencias responsables;
 (ADICIONADA, P.O. 17 DE AGOSTO DE 2020)
 IV. Proponer al Ejecutivo del Estado, de acuerdo a lo establecido del artículo 72 al 75 de la Ley de Protección Civil, las bases y lineamientos para la creación y administración del Fondo de Protección Civil para la prevención y atención de emergencias y desastres de origen natural, así como las donaciones recibidas de particulares e instituciones;
+(ADICIONADA, P.O. 18 DE AGOSTO DE 2023)
+IV Bis.- Elaborar un catálogo de personas físicas y de las instituciones públicas y privadas especialistas en la elaboración de Atlas Municipales de Riesgos, en cumplimiento con la normativa aplicable.
 (REFORMADA, P.O. 12 DE ABRIL DE 2022)
 V. Coordinar y asesorar a las Coordinaciones de Protección Civil Municipales, así como a las dependencias, instituciones y grupos sociales;
 (REFORMADA, P.O. 12 DE ABRIL DE 2022)

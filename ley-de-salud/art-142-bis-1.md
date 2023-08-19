@@ -9,3 +9,5 @@ III.- La realización de Programas de Prevención y Control de Enfermedades Buco
 IV.- Las demás acciones que directa o indirectamente contribuyan al fomento de la salud dental de la población.
 (ADICIONADA, P.O. 15 DE MARZO DE 2021)
 V.- La coordinación con la Secretaría de Educación Pública del Estado a efecto de fomentar hábitos de higiene bucodental adecuados, como elemento de formación para niñas y niños de edad temprana, esto conforme a lo dispuesto en la Norma Oficial Mexicana respectiva.
+(ADICIONADA, P.O. 18 DE AGOSTO DE 2023)
+VI.- La coordinación con instituciones del sector público, privado y social, cuyo objeto sea lograr la atención de los servicios de salud bucal en las escuelas de los distintos niveles de educación básica.
