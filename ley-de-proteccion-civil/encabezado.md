@@ -8,6 +8,7 @@ QUE CONTIENE LA LEY DE PROTECCIÓN CIVIL DEL ESTADO DE HIDALGO.
 El Congreso del Estado Libre y Soberano de Hidalgo, en uso de las facultades que le confiere el Artículo 56 fracciones I y II de la Constitución Política de los Estados Unidos Mexicanos,
 D E C R E T A:
 A N T E C E D E N T E
+[...]
 ÚNICO.- En sesión ordinaria de fecha 20 de octubre del presente año, nos fue turnada la Iniciativa de referencia, la cual fue registrada en el Libro de Gobierno de la Comisión actuante bajo el número 60/2011, y
 C O N S I D E R A N D O
 [...]
