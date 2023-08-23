@@ -22,9 +22,8 @@ c. Cuando se trate de un candidato común a diputado local o integrante de los a
 d. La solicitud de registro de candidaturas comunes deberá señalar los siguientes datos generales:
 1. Apellido paterno, apellido materno y nombre completo;
 2. Lugar y fecha de nacimiento;
-(NOTA: EL 5 DE DICIEMBRE DE 2019, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 108/2019 Y SU ACUMULADA 118/2019, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 203 QUE REFORMA EL NUMERAL 3 DE LA FRACCIÓN II DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS A PARTIR DEL DÍA SIGUIENTE A AQUÉL EN EL QUE CONCLUYA EL PRÓXIMO PROCESO ELECTORAL ORDINARIO DEL ESTADO DE HIDALGO, CUYA JORNADA HABRÁ DE VERIFICARSE EL SIETE DE JUNIO DE DOS MIL VEINTE DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
-(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 2019)
-3. DOMICILIO Y TIEMPO DE RESIDENCIA EN EL MISMO, MÍNIMO DE DOS AÑOS PARA AYUNTAMIENTO, TRES (SIC) PARA DIPUTADOS Y CINCO AÑOS PARA GOBERNADOR; REQUISITO QUE DEBERÁ ACREDITAR CON ESCRITO BAJO PROTESTA DE DECIR VERDAD ACOMPAÑADO DE COPIA DE CREDENCIAL DE ELECTOR Y COPIA DE COMPROBANTE DE DOMICILIO, SIN QUE EL INSTITUTO ESTATAL ELECTORAL POR MEDIO DE SUS CONSEJOS, GENERAL, DISTRITALES O MUNICIPALES PUEDA SOLICITAR CONSTANCIA DE RADICACIÓN;
+(REFORMADO, P.O. 22 DE AGOSTO DE 2023)
+3. Domicilio y tiempo de residencia en el mismo, mínimo de dos años para Ayuntamiento, tres para Diputaciones y cinco años para Gubernatura; requisito que deberá acreditar con escrito bajo protesta de decir verdad acompañado de copia de credencial de elector y copia de comprobante de domicilio, sin que el Instituto Estatal Electoral por medio de sus Consejos General o Distritales pueda solicitar constancia de radicación;
 4. Ocupación;
 5. Clave de la credencial para votar;
 6. Cargo para el que se les postule; y
