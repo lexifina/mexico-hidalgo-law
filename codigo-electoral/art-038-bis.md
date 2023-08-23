@@ -42,7 +42,8 @@ El Consejo General dentro de las 72 horas siguientes a la presentación de la so
 Los partidos políticos nacionales y locales de nuevo registro no podrán formar candidaturas comunes con otro partido político antes de la conclusión de la primera elección inmediata posterior a su registro.
 (REFORMADO, P.O. 22 DE AGOSTO DE 2023)
 Los votos se computarán a favor del candidato común y la distribución del porcentaje de votación será conforme al convenio de candidatura común registrado ante la autoridad electoral.
-Cada partido será responsable de entregar su informe, en el que se señalen los gastos de campaña realizados. Podrán reelegirse los diputados locales electos bajo esta figura, siempre y cuando la postulación la realice el mismo partido o cualquiera de los partidos que lo hayan postulado.
+(REFORMADO, P.O. 22 DE AGOSTO DE 2023)
+Cada partido será responsable de entregar su informe, en el que se señalen los gastos de campaña realizados. Podrán participar en la elección consecutiva las y los Diputados locales, así como las personas integrantes de los Ayuntamientos, electas bajo esta figura, siempre y cuando la postulación la realice el mismo partido o cualquiera de los partidos que lo hayan postulado.
 Para los efectos de la integración de los organismos electorales, del financiamiento y de la responsabilidad en materia electoral, civil y penal, los partidos políticos que postulen candidaturas comunes mantendrán su autonomía y serán responsables de sus actos.
 (REFORMADO, P.O. 22 DE AGOSTO DE 2023)
 Los partidos que apoyen candidaturas comunes conservarán cada uno su monto de financiamiento público, su tiempo que corresponda de acceso a radio y televisión, así como su representación en los órganos del Instituto y en las mesas Directivas de Casilla.
