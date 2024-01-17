@@ -1,0 +1,6 @@
+P.O. 16 DE ENERO DE 2024.
+[N. DE E. TRANSITORIOS DEL "DECRETO NUM. 612 POR EL QUE SE REFORMAN LA FRACCIÓN XVIII DEL ARTÍCULO 2 Y EL ARTÍCULO 49 DE LA LEY DE ASISTENCIA SOCIAL PARA EL ESTADO DE HIDALGO".]
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+SEGUNDO. Las autoridades estatales competentes contarán con un plazo de ciento veinte días a partir de la entrada en vigor del presente, para realizar la armonización normativa correspondiente, conforme a lo aprobado en este Decreto.
+TERCERO. Las autoridades municipales contarán con un plazo de ciento veinte días a partir de la entrada en vigor del presente, para efecto de elaborar, armonizar o actualizar la normativa correspondiente, conforme a lo aprobado en este Decreto.
+CUARTO. Los Ayuntamientos del Estado de Hidalgo que con motivo de la entrada en vigor del presente Decreto lleven a cabo la descentralización de sus Organismos Municipales, contarán con un plazo de ciento veinte días naturales a partir de la entrada en vigor del presente, para realizar las adecuaciones y previsiones administrativas, financieras y presupuestales, a efecto de dar cumplimiento a lo aprobado.
