@@ -1,2 +1,2 @@
-(ADICIONADO, P.O. 18 DE NOVIEMBRE DE 2019)
-Artículo 100 Bis 4. Toda niña, niño y adolescente tiene derecho al buen trato y a la crianza positiva, entendiéndose esta, como las acciones que tienen por objeto brindar una educación con amor, sin violencia, basada en el respeto recíproco, la comunicación y la confianza mutua.
+(REFORMADO, P.O. 17 DE ENERO DE 2024)
+Artículo 100 Bis 4. Toda niña, niño y adolescente tiene derecho al buen trato y a la crianza positiva, entendiéndose esta, al conjunto de prácticas de cuidado, protección, formación y guía que permiten brindar una educación con amor, sin violencia, basada en el respeto recíproco, la comunicación y la confianza mutua, y que ayudan al desarrollo, bienestar y crecimiento saludable y armonioso de niñas, niños y adolescentes, tomando en cuenta su edad, facultades, características, cualidades, intereses, motivaciones, límites y aspiraciones; todo dentro de un marco de respeto a sus derechos.
