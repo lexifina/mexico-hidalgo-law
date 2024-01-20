@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 8 DE JUNIO DE 2011)
+ARTÍCULO 238 BIS 2.- El responsable del establecimiento especializado en adicciones, para el efecto se estará a lo dispuesto en la Ley General de Salud y en el Reglamento de la Ley General de Salud en Materia de Prestación de Servicios de Atención Médica. Por lo que se refiere a los grupos de ayuda mutua, éste podrá ser un grupo de adictos en recuperación, que tenga dos años como mínimo de abstinencia en el consumo de sustancias psicoactivas y en su proceso de rehabilitación.

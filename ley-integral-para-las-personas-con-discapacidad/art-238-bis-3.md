@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 8 DE JUNIO DE 2011)
+ARTÍCULO 238 BIS 3.- Los sectores sociales y privados, podrán prestar los servicios de tratamiento y rehabilitación para personas con adicción al alcohol, tabaco o que usen habitualmente estupefacientes, substancia psicotrópicas u otro tipo de drogas; para lo cual deberá tramitar la autorización o aviso según corresponda de dicho centro ante la Secretaría de Salud del Estado.
