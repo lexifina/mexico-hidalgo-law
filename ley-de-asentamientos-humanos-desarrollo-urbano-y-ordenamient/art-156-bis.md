@@ -1,2 +1,2 @@
-(ADICIONADO, P.O. 13 DE SEPTIEMBRE DE 2021)
-ARTICULO 156 BIS. En camellones y guarniciones de los diferentes tipos de fraccionamientos, se deberán colocar zonas arboladas, preferentemente con flora nativa de la zona en cuestión.
+(REFORMADO, P.O. 19 DE ENERO DE 2024)
+ARTICULO 156 BIS.- En camellones y guarniciones de los diferentes tipos de fraccionamientos, se deberán colocar zonas arboladas, preferentemente con flora nativa de la zona en cuestión. En caso de derribo de árboles se deberá realizar la sustitución por otro que cumpla con las características necesarias para su adaptación a las condiciones ambientales urbanas y climáticas del sitio de plantación, a efecto de no generar daños a la infraestructura adyacente.

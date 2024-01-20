@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 19 DE ENERO DE 2024)
+Artículo 50 Bis.- Los municipios apoyarán a la autoridad estatal en materia de salud, a efecto de proporcionar la atención médica veterinaria para prevenir y atender los problemas de salud de los animales de compañía; la cual comprenderá acciones de esterilización y vacunación a precios módicos de recuperación o, en casos determinados, de manera gratuita, conjuntamente con los Centros de Control Animal y Zoonosis y Asociaciones protectoras de Animales.

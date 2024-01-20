@@ -17,3 +17,5 @@ XIV. Dar seguimiento a las actividades desarrolladas en las unidades de primer c
 XV. Vigilar la aplicación de los recursos asignados en el Presupuesto de Egresos del Municipio para el cumplimiento de las atribuciones establecidas en la Ley;
 XVI. Las demás que le encomiende la o el Presidente Municipal en su calidad de Presidente del Sistema Municipal de Protección, siempre y cuando se encuentren estrictamente vinculadas con su encargo.
 Para el debido cumplimiento de las atribuciones de la Secretaría Ejecutiva de los Sistemas de Protección Integral de Niñas, Niños y Adolescentes en los municipios, el Ayuntamiento deberá asegurar el presupuesto necesario.
+(ADICIONADO, P.O. 19 DE ENERO DE 2024)
+Cada municipio procurará destinar un área específica para la Secretaría Ejecutiva, la cual, en cumplimiento a lo dispuesto en el artículo 82, fracción XI de esta Ley, deberá contar con espacios lúdicos de descanso y aseo para niñas, niños y adolescentes; pudiendo coordinarse con el Sistema Municipal para el Desarrollo Integral de la Familia o cualquier otra autoridad municipal para tal efecto.

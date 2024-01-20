@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 19 DE ENERO DE 2024)
+Artículo 77 Bis.- La Secretaría y las autoridades municipales fomentarán la solución pacífica de los conflictos que se susciten entre los habitantes y los administradores de inmuebles bajo el régimen de propiedad en condominio, por conducto de las instancias competentes, y a través de cualquiera de los mecanismos de solución alternativa de controversias que sean permitidos en la materia.

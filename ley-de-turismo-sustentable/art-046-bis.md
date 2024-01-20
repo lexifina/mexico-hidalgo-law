@@ -1,0 +1,3 @@
+(ADICIONADO, P.O. 19 DE ENERO DE 2024)
+Artículo 46 BIS. La Secretaría establecerá una marca turística que genere al Estado una identidad. El Ejecutivo Estatal, las dependencias y entidades de la Administración Pública Estatal y Municipales, así como los prestadores de servicios turísticos, deberán utilizar la marca turística estatal Hidalgo.
+Conforme a lo establecido en el Reglamento de esta Ley, se determinarán los requisitos que deberán cumplir los prestadores de servicios turísticos para ostentar la marca turística estatal Hidalgo, así como el procedimiento y las sanciones que establezca la Secretaría derivado de uso indebido.
