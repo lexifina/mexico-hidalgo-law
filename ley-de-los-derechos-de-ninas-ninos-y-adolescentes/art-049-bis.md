@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 4 DE ABRIL DE 2024)
+Artículo 49 Bis. La lactancia materna constituye un derecho fundamental, universal, imprescriptible e inalienable de las niñas y los niños. El Estado y los sectores público, privado y social, tienen la obligación de proveer su protección, apoyo y promoción, a efecto de garantizar la alimentación adecuada, la salud, el crecimiento y el desarrollo integral de las y los lactantes.

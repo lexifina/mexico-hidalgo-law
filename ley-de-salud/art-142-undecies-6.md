@@ -10,5 +10,7 @@ III. La atención del niño y la vigilancia de su crecimiento y desarrollo integ
 Se podrá otorgar estimulación temprana a las niñas y niños menores de 6 años, de acuerdo con las normas derivadas de la Ley General de Salud y de la presente Ley, lo cual estará a cargo de la Secretaría de Salud en coordinación con el Sistema Estatal para el Desarrollo Integral de la Familia y los Sistemas Municipales para el Desarrollo Integral de la Familia;
 (REFORMADA, P.O. 15 DE JULIO DE 2022)
 IV. La aplicación de las pruebas de, tamiz neonatal ampliado y, tamiz cardiológico neonatal por oximetría de pulso;
+(ADICIONADO, P.O. 4 DE ABRIL DE 2024)
+IV BIS. La revisión de la retina y tamiz auditivo al infante recién nacido, debiendo realizarse antes de dar de alta al menor, y de no ser posible, debe citarse antes de los siete días siguientes a la fecha en la que fue dado de alta el o la menor de edad para su realización;
 V. El diagnóstico oportuno y atención temprana de la displasia en el desarrollo de la cadera; y,
 VI. La atención de la salud visual, bucal, auditiva y mental.

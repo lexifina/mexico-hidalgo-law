@@ -1,0 +1,3 @@
+P.O. 4 DE ABRIL DE 2024.
+[N. DE E. TRANSITORIO DEL "DECRETO NUM. 827 POR EL QUE SE ADICIONAN DIVERSAS DISPOSICIONES A LA LEY DE EDUCACIÓN PARA EL ESTADO DE HIDALGO Y DE LA LEY DE EDUCACIÓN SUPERIOR PARA EL ESTADO DE HIDALGO".]
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
