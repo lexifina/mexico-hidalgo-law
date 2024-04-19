@@ -9,7 +9,7 @@ ANTECEDENTES
 PRIMERO.- En sesión ordinaria de fecha 25 de mayo del presente año, nos fue turnada para su estudio y Dictamen, la Iniciativa de Ley de Desarrollo Agrícola Sustentable para el Estado de Hidalgo, presentada por el Lic. Miguel Angel Osorio Chong, Titular del Poder Ejecutivo del Estado.
 SEGUNDO.- El asunto de mérito se registró en el Libro de Gobierno de la Comisión que suscribe, bajo el número 84/2006.
 Por lo que en mérito de lo anteriormente expuesto; y
-.
+[...]
 POR TODO LO EXPUESTO, ESTE HONORABLE CONGRESO, HA TENIDO A BIEN EXPEDIR EL SIGUIENTE:
 DECRETO
 QUE CONTIENE LA LEY DE DESARROLLO AGRICOLA SUSTENTABLE PARA EL ESTADO DE HIDALGO
