@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 22 DE ABRIL DE 2024)
+ARTÍCULO 44 BIS.- El Plan Municipal de Desarrollo es el documento rector de la planeación municipal, en el que se establecen las directrices generales de política pública de carácter estratégico y de prospectiva, que determina los objetivos y metas para orientar la conducción del desarrollo del municipio en todos los ámbitos y rubros de la gestión pública gubernamental, el cual deberá encontrarse alineado con el Plan Estatal de Desarrollo.
