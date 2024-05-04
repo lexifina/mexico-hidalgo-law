@@ -1,5 +1,0 @@
-P.O. 23 DE DICIEMBRE DE 2015.
-[N. DE E. TRANSITORIOS DEL DECRETO 287 POR EL QUE "SE REFORMA: EL ARTÍCULO 5, LA FRACCIÓN XIX, DEL APARTADO A), Y SE ADICIONAN: LA FRACCIÓN XX DEL APARTADO A) DEL ARTÍCULO 5, RECORRIÉNDOSE EN SU ORDEN LA ANTERIOR FRACCIÓN XX PARA SER LA XXI; UN SEGUNDO PÁRRAFO AL ARTÍCULO 241; LOS PÁRRAFOS SEGUNDO Y TERCERO AL ARTÍCULO 243; LOS ARTÍCULOS 248 BIS Y 248 BIS 1; UN CAPÍTULO II BIS DENOMINADO DEL CENTRO ESTATAL DE TRASPLANTES, AL TÍTULO DÉCIMO CUARTO, INTEGRADO POR LOS ARTÍCULOS 250 BIS, 250 BIS 1, 250 BIS 2; 250 BIS 3, 250 BIS 4, TODOS DE LA LEY DE SALUD DEL ESTADO DE TABASCO".]
-ARTÍCULO PRIMERO.- El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el periódico Oficial del Estado de Tabasco.
-ARTÍCULO SEGUNDO.- El Titular del Ejecutivo, por conducto de la Secretaría de Planeación y Finanzas deberá hacer las previsiones presupuestales necesarias para la operación del Centro Estatal de Trasplantes y establecer una partida presupuestal específica en el Presupuesto de Egresos.
-ARTÍCULO TERCERO.- Se derogan todas aquellas disposiciones en lo que se opongan al presente Decreto.

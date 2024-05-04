@@ -1,3 +1,0 @@
-(ADICIONADO, P.O. 17 DE ABRIL DE 2019)
-ARTÍCULO 101 TER.- La oferta de los servicios que se haga a través de medios informativos, ya sean impresos, electrónicos u otros, por profesionistas que ejerzan cirugía plástica, estética o reconstructiva; así como, los establecimientos o unidades médicas en que se practiquen dichas cirugías, deberán prever y contener con claridad en su publicidad el nombre y número de la cédula del especialista, así como el nombre de la institución competente que le expidió el título, diploma y certificado de especialidad vigente, y en su caso, el registro correspondiente.
-Iguales menciones deberán consignarse en los documentos y papelería que se utilicen en el ejercicio de esta profesión.

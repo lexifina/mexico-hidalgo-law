@@ -1,2 +1,0 @@
-(ADICIONADO, P.O. 8 DE JUNIO DE 2011)
-ARTÍCULO 238 BIS 10.- Si el que ingresa es menor de edad, se debe obtener adicionalmente el consentimiento por escrito de quienes ejerzan la patria potestad, del representante legal o tutor. En caso de que el menor se encuentre en situación de abandono, el encargado del establecimiento debe dar aviso al Ministerio Público y al Desarrollo Integral para la Familia más cercano.
