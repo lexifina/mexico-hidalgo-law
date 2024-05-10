@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 9 DE MAYO DE 2024)
+Artículo 22 Ter.- La persona que ejecute conductas de crueldad, maltrato, daño o tortura en contra de un animal doméstico, además de ser responsable de la reparación del daño, tendrá que cubrir los gastos que generen su atención médica veterinaria, medicamentos, tratamientos y/o intervención quirúrgica; independientemente de las sanciones administrativas dispuestas en la presente Ley y de las penas que en su caso establezca el Código Penal para el Estado de Hidalgo.
