@@ -1,0 +1,3 @@
+P.O. 9 DE MAYO DE 2024.
+[N. DE E. TRANSITORIO DEL "DECRETO NUM. 877 POR EL QUE SE REFORMA EL TERCER PÁRRAFO DEL ARTÍCULO 62 Y SE ADICIONA EL ARTÍCULO 62 BIS A LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES PARA EL ESTADO DE HIDALGO".]
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
