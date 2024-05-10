@@ -16,6 +16,8 @@ XIII.- Restringir los derechos políticos de las mujeres con base en la aplicaci
 XIV.- Imponer, con base en estereotipos de género, la realización de actividades distintas a las atribuciones propias de la representación política, cargo o función;
 XV.- Discriminar a la mujer en el ejercicio de sus derechos políticos por encontrarse en estado de embarazo, parto, puerperio, o impedir o restringir su reincorporación al cargo tras hacer uso de la licencia de maternidad o de cualquier otra licencia contemplada en la normatividad;
 XVI.- Ejercer violencia física, sexual, simbólica, psicológica, económica o patrimonial contra una mujer en ejercicio de sus derechos políticos;
+(ADICIONADA, P.O. 9 DE MAYO DE 2024)
+XVI Bis.- Despersonalizar a la mujer en el ejercicio de sus derechos político electorales, entendiéndose como la intención de quitar a alguien su carácter o atributos personales en función de estereotipos de género, resaltando como condicionante la existencia de una relación personal, íntima o familiar con un hombre.
 XVII.- Limitar o negar arbitrariamente el uso de cualquier recurso o atribución inherente al cargo que ocupe la mujer, incluido el pago de salarios, dietas u otras prestaciones asociadas al ejercicio del cargo, en condiciones de igualdad;
 XVIII.- Obligar a una mujer, mediante fuerza, presión o intimidación, a suscribir documentos o avalar decisiones contrarias a su voluntad o a la ley;
 XIX.- Obstaculizar o impedir el acceso a la justicia de las mujeres para proteger sus derechos políticos;
