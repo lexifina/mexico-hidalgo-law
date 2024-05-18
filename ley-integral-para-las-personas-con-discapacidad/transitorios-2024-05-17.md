@@ -1,0 +1,3 @@
+P.O. 17 DE MAYO DE 2024.
+[N. DE E. TRANSITORIO DEL "DECRETO NÚM. 904 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS FRACCIONES DEL ARTÍCULO 5 DE LA LEY INTEGRAL PARA LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE HIDALGO".]
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.

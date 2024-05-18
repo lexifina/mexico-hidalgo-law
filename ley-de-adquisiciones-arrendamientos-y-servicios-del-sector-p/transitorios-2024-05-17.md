@@ -1,0 +1,3 @@
+P.O. 17 DE MAYO DE 2024.
+[N. DE E. TRANSITORIO DEL "DECRETO NUM. 891 POR EL QUE SE ADICIONA LA FRACCIÓN I BIS AL ARTÍCULO 31 DE LA LEY DE ADQUISICIONES, ARRENDAMIENTOS Y SERVICIOS DEL SECTOR PÚBLICO DEL ESTADO DE HIDALGO".]
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.

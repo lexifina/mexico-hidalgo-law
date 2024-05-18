@@ -1,0 +1,3 @@
+P.O. 17 DE MAYO DE 2024.
+[N. DE E. TRANSITORIO DEL "DECRETO NÚM. 898 POR EL QUE SE REFORMA Y ADICIONA DIVERSAS FRACCIONES DEL ARTÍCULO 8 DE LA LEY DE PESCA Y ACUACULTURA SUSTENTABLE PARA EL ESTADO DE HIDALGO".]
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
