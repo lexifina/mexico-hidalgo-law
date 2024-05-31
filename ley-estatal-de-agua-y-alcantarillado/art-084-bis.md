@@ -11,8 +11,8 @@ I Bis.- Impulsar una cultura del cuidado del agua que considere a este elemento 
 I Ter.- Programar, y realizar acciones para el aprovechamiento racional del agua y la conservación de su calidad;
 (REFORMADA, P.O. 17 DE MAYO DE 2024)
 II.- Realizar y publicar diagnósticos y estudios periódicos a fin de identificar las condiciones de consumo del agua en el Estado y el uso racional de la misma;
-(REFORMADA, P.O. 17 DE MAYO DE 2024)
-III.- Promover la utilización de aparatos ahorradores y de opciones tecnológicas alternas, mecanismos o dispositivos de control e infiltración de agua pluvial, que permitan el ahorro, uso y aprovechamiento del agua de manera eficiente y racional;
+(REFORMADA, P.O. 30 DE MAYO DE 2024)
+III.- Promover la utilización de aparatos ahorradores y el aprovechamiento de las aguas residuales de uso doméstico en los hogares;
 IV.- Coordinar el desarrollo de sus actividades con organismos públicos y privados, para la implementación de campañas de asistencia técnica, capacitación, promoción y difusión, concientización y demás que se requieran para garantizar el cuidado óptimo del agua y el fomento de la Cultura del Agua;
 V.- Propiciar la prevención y control de la contaminación;
 VI.- Promover su saneamiento;
