@@ -1,0 +1,3 @@
+P.O. 30 DE MAYO DE 2024.
+[N. DE E. TRANSITORIO DEL "DECRETO NUM. 933 POR EL QUE SE REFORMAN LAS FRACCIONES V Y VI DEL ARTÍCULO 53 Y SE ADICIONA LA FRACCIÓN VII AL ARTÍCULO 53 DE LA LEY DE MOVILIDAD Y TRANSPORTE PARA EL ESTADO DE HIDALGO".]
+ÚNICO. El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Hidalgo.

@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 30 DE MAYO DE 2024)
+Artículo 61 Bis. Las instituciones educativas de nivel básico procurarán fomentar en las y los alumnos las habilidades lectoras, a través de la organización periódica de ferias de libros, talleres de creación literaria infantil, concursos de cuentos y de comprensión lectora, y del fomento de clubes y círculos de lectura e intercambio de libros, entre otras actividades.
