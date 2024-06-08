@@ -1,4 +1,4 @@
-(ADICIONADO, P.O.18 DE ABRIL DE 2024)
+(ADICIONADO, P.O. 18 DE ABRIL DE 2024)
 ARTÍCULO 57 Ter.- En el Centro de Justicia para Mujeres del Estado de Hidalgo se deberán proporcionar a mujeres víctimas de violencia de género, en el ámbito de su competencia, de manera gratuita, como mínimo, los siguientes servicios:
 I. Atención médica y psicológica, incluyendo atención terapéutica de contención emocional;
 II. Asesoría y orientación jurídica;

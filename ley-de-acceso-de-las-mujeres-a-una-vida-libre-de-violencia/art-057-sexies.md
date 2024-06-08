@@ -1,4 +1,4 @@
-(ADICIONADO, P.O.18 DE ABRIL DE 2024)
+(ADICIONADO, P.O. 18 DE ABRIL DE 2024)
 ARTÍCULO 57 Sexies.- La persona que ocupe la Dirección General del Centro de Justicia para Mujeres del Estado de Hidalgo, será designada conforme a los requisitos previstos por la Ley de Entidades Paraestatales del Estado de Hidalgo, además, deberá reunir los siguientes:
 I. Contar con un título profesional;
 II. Tener experiencia comprobable en el ramo de derechos humanos de las mujeres y atención a mujeres víctimas de violencia con perspectiva de género;

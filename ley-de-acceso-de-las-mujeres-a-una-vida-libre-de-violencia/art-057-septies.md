@@ -1,4 +1,4 @@
-(ADICIONADO, P.O.18 DE ABRIL DE 2024)
+(ADICIONADO, P.O. 18 DE ABRIL DE 2024)
 ARTÍCULO 57 Septies.- La Persona Titular de la Dirección General del Centro de Justicia para Mujeres del Estado de Hidalgo tendrá las siguientes atribuciones:
 I. Representar legalmente al Centro de Justicia para Mujeres del Estado de Hidalgo;
 II. Coordinar las actividades que realice el personal de las dependencias y entidades de la administración pública estatal, Procuraduría General de Justicia del Estado de Hidalgo, Poder Judicial del Estado de Hidalgo, órganos autónomos; así como otras instituciones del sector público federal y municipal, y organizaciones de la sociedad civil que, por colaboración interinstitucional, laboren en el Centro de Justicia para Mujeres del Estado de Hidalgo;

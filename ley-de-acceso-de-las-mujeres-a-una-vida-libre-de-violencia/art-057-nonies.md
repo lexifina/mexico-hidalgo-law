@@ -1,2 +1,2 @@
-(ADICIONADO, P.O.18 DE ABRIL DE 2024)
+(ADICIONADO, P.O. 18 DE ABRIL DE 2024)
 ARTÍCULO 57 Nonies.- Para el funcionamiento del Centro de Justicia para Mujeres del Estado de Hidalgo, este contará con los recursos derivados de los convenios que en su caso suscriba con el Gobierno Federal, en términos de las disposiciones aplicables, así como de los recursos que se asigne en el Presupuesto de Egresos del Estado Libre y Soberano de Hidalgo, de los ingresos derivados de convenios que celebren con otras dependencias o instituciones públicas o privadas, y los que se obtengan por cualquier otro medio legal, provenientes de personas físicas o morales que tengan interés en apoyar en la realización de sus actividades.

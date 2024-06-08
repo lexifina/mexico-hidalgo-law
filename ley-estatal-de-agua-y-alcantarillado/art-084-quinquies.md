@@ -9,8 +9,8 @@ IV.- Propiciar el uso de infraestructura que permitan cuidar y usar de manera ra
 V.- Promover planes y programas coordinados con los organismos públicos y privados vinculados a la cultura, cuidado y uso razonable del agua;
 (REFORMADA, P.O. 10 DE MAYO DE 2021)
 VI.- Coadyuvar con las autoridades educativas en la aplicación de una educación ambiental en torno a la cultura del agua;
-(REFORMADA, P.O. 17 DE MAYO DE 2024)
-VII.- Promover la utilización de sistemas, mecanismos o dispositivos de control e infiltración de agua pluvial;
+(REFORMADA, P.O. 7 DE JUNIO DE 2024)
+VII.- Deberán utilizar los sistemas, mecanismos o dispositivos de control e infiltración de agua pluvial; y
 (REFORMADA, P.O. 17 DE MAYO DE 2024)
 VIII.- Promover el derecho humano al agua;
 (ADICIONADA, P.O. 17 DE MAYO DE 2024)
