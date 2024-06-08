@@ -1,0 +1,3 @@
+P.O. 7 DE JUNIO DE 2024.
+[N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 968 POR EL QUE SE ADICIONA LA FRACCIÓN VIII AL ARTÍCULO 22 DE LA LEY DE OBRAS PÚBLICAS Y SERVICIOS RELACIONADOS CON LAS MISMAS PARA EL ESTADO DE HIDALGO".]
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
