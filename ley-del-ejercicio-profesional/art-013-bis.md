@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 14 DE JUNIO DE 2024)
+ARTICULO 13 BIS.- El servicio social o sus equivalentes tendrán reconocimiento como parte de la experiencia de las y los estudiantes en el desempeño de sus labores profesionales, a través de la emisión de una constancia por parte de la institución en la cual se realizó dicho servicio social. En dicho documento donde se harán constar las habilidades, capacidades adquiridas, temporalidad y recomendación, en caso de ser procedente.
