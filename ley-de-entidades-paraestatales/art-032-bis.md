@@ -1,4 +1,4 @@
-(ADICIONADO, P.O. 30 DE MAYO DE 2024)
-Artículo 32 Bis.- Cada Organismo Público Descentralizado deberá contar con una Unidad Institucional para la Igualdad entre Mujeres y Hombres, con el nivel mínimo de Dirección, dependiente de la Dirección General.
+(ADICIONADO, P.O. 30 DE MAYO DE 2024) (F. DE E., P.O. 15 DE JULIO DE 2024)
+Artículo 32 Bis.- Cada Organismo Público Descentralizado podrá contar con una Unidad Institucional para la Igualdad entre Mujeres y Hombres.
 La Unidad Institucional para la Igualdad entre Mujeres y Hombres, tendrá como función principal, la de vigilar la incorporación de la perspectiva de género en la planeación, organización, ejecución y evaluación de los procesos administrativos sustantivos del organismo, así como garantizar la institucionalización de la igualdad sustantiva, con base en los (sic) establecido en la Ley para la Igualdad entre (sic) y Hombres del Estado de Hidalgo.
 La persona titular de dicha Unidad debe ser designada por su Órgano de Gobierno en términos de lo previsto en el artículo 14, fracción XI, de esta ley.
