@@ -1,0 +1,3 @@
+P.O. 16 DE AGOSTO DE 2024.
+[N. DE E. TRANSITORIO DEL "DECRETO NUM. 1046 POR EL QUE SE ADICIONA UN ÚLTIMO PÁRRAFO AL ARTÍCULO 11 DE LA LEY DE MITIGACIÓN Y ADAPTACIÓN ANTE LOS EFECTOS DEL CAMBIO CLIMÁTICO PARA EL ESTADO DE HIDALGO".]
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su Publicación en el Periódico Oficial del Estado de Hidalgo.
