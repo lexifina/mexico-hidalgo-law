@@ -6,8 +6,8 @@ Además, contribuirá a la mejor convivencia humana, a fin de fortalecer el apre
 El Estado impartirá y garantizará la educación inicial, preescolar, primaria, secundaria y media superior. La educación inicial, preescolar, primaria y secundaria conforman la educación básica; ésta y la media superior serán obligatorias. La educación inicial es un derecho de la niñez y será responsabilidad del Estado concientizar sobre su importancia.
 (ADICIONADO, P.O. 25 DE FEBRERO DE 2013)
 La educación en el Estado de Hidalgo se ajustará estrictamente a las disposiciones del Artículo 3o. de la Constitución Política de los Estados Unidos Mexicanos y demás disposiciones en la materia.
-(ADICIONADO, P.O. 7 DE MARZO DE 2023)
-Las autoridades locales establecerán políticas para fomentar la inclusión, permanencia y continuidad, en términos que la ley señale. Asimismo, proporcionarán medios de acceso a este tipo educativo para las personas que cumplan con los requisitos dispuestos por las instituciones públicas.
+(REFORMADO, P.O. 16 DE AGOSTO DE 2024)
+Toda persona tiene derecho a gozar de los beneficios del desarrollo de la ciencia y la innovación tecnológica. El Estado apoyará la investigación e innovación científica, humanística y tecnológica, y garantizará el acceso abierto a la información que derive de ella, para lo cual deberá proveer recursos y estímulos suficientes, conforme a las bases de coordinación, vinculación y participación que establezcan las leyes en la materia; además alentará el fortalecimiento y difusión de nuestra cultura.
 (ADICIONADO, P.O. 25 DE FEBRERO DE 2013)
 El Estado apoyará la investigación científica, el desarrollo tecnológico y su aplicación práctica a través de la innovación, lo que permitirá ser más competitivo y la posibilidad de incorporar a los hidalguenses a la sociedad del conocimiento.
 El Estado procurará el acceso a programas de becas para los alumnos más destacados en su desempeño académico dentro de las instituciones de educación pública, así como de aquellos que su condición económica les impida la conclusión de estudios profesionales.
