@@ -8,6 +8,10 @@ II.- A la víctima se le hayan infligido lesiones infamantes, degradantes o muti
 III.- Existan datos que establezcan que se han cometido amenazas, hostigamiento o aprovechamiento sexual, violencia o lesiones del sujeto activo en contra de la víctima;
 IV.- El cuerpo de la víctima sea expuesto o arrojado en un lugar público;
 V.- La víctima haya sido incomunicada, cualquiera que sea el tiempo previo a su fallecimiento;
-VI.- Habiendo existido entre el activo y la víctima alguna de las siguientes relaciones: sentimental, afectiva, de confianza, de parentesco o de hecho; o
-VII.- Habiendo existido entre el activo y la víctima una relación laboral o docente que implique subordinación o superioridad.
+(REFORMADA, P.O. 20 DE AGOSTO DE 2024)
+VI.- Habiendo existido entre el activo y la víctima alguna de las siguientes relaciones: sentimental, afectiva, de confianza, de parentesco o de hecho;
+(REFORMADA, P.O. 20 DE AGOSTO DE 2024)
+VII.- Habiendo existido entre el activo y la víctima una relación laboral o docente que implique subordinación o superioridad; o
+(ADICIONADA, P.O. 20 DE AGOSTO DE 2024)
+VIII.- El sujeto activo haya obligado a la víctima a realizar una actividad o trabajo o haya ejercido sobre ella cualquier forma de explotación.
 En caso de que no se acredite el feminicidio, se observarán las disposiciones previstas para el delito de homicidio.

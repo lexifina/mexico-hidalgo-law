@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 20 DE AGOSTO DE 2024)
+ARTICULO 250 TER.- Las penas previstas en este capítulo se duplicarán y se impondrá además la destitución e inhabilitación para el desempeño del empleo, cargo o comisión, por un tiempo igual al de la pena de prisión impuesta, cuando la conducta típica sea cometida por un servidor o ex servidor público de las instituciones de seguridad pública, de procuración de justicia o de las fuerzas armadas.

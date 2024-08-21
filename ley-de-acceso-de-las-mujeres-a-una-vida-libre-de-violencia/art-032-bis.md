@@ -27,7 +27,7 @@ XVII. Resguardar las armas de fuego u objetos utilizados para amenazar o agredir
 XVIII. Solicitar a la autoridad jurisdiccional competente, para garantizar las obligaciones alimentarias, la elaboración de un inventario de los bienes de la persona agresora y su embargo precautorio, el cual deberá inscribirse con carácter temporal en el Registro Público de la Propiedad;
 (REFORMADA [N. DE E. ADICIONADA], P.O. 18 DE ABRIL DE 2024)
 XIX. Solicitar a la autoridad jurisdiccional competente la suspensión del régimen de tutela o curatela que ejerza la persona agresora, y
-(ADICIONADA [N. DE E. REFORMADA Y REUBICADA ANTES FRACCIÓN XIX], P.O. 18 DE ABRIL DE 2024)
+(ADICIONADA [N. DE E. REFORMADA Y REUBICADA ANTES FRACCIÓN XIX], P.O.18 DE ABRIL DE 2024)
 XX. Además de los anteriores, aquellas y cuantas sean necesarias para salvaguardar la integridad, la seguridad y la vida de la mujer o la niña en situación de violencia.
 (ADICIONADO, P.O. 18 DE ABRIL DE 2024)
 Las órdenes de protección señaladas en este artículo podrán ser ampliadas o modificadas por la autoridad administrativa, el Ministerio Público o el órgano jurisdiccional competente, siempre procurando la mayor protección de la víctima.

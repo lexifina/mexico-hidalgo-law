@@ -1,0 +1,3 @@
+P.O. 20 DE AGOSTO DE 2024.
+[N. DE E. TRANSITORIO DEL "DECRETO NÚM. 1003 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS FRACCIONES DEL ARTÍCULO 146 DE LA LEY ESTATAL DE AGUA Y ALCANTARILLADO PARA EL ESTADO DE HIDALGO".]
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
