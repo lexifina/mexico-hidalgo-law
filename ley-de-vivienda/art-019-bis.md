@@ -18,4 +18,9 @@ XV. La tipología y modalidades de producción habitacional que oriente las acci
 XVI. Las estrategias y líneas de acción para fomentar el desarrollo del mercado secundario y de arrendamiento de vivienda;
 XVII. Las estrategias para desarrollar acciones de vivienda que permitan la reubicación de la población establecida en zonas de alto riesgo o afectada por desastres, en congruencia con la política de ordenación territorial;
 XVIII. Los requerimientos mínimos que deban ser materia de coordinación con municipios para la regulación de las construcciones para asegurar calidad, seguridad y habitabilidad de la vivienda, y
-XIX. Los demás que señale el Plan Estatal de Desarrollo y otros ordenamientos legales. Las dependencias y entidades que participen en la instrumentación de las acciones previstas en este artículo, en el ámbito de sus respectivas competencias, se coordinarán con la Comisión para efectos de su ejecución
+(REFORMADA, P.O. 17 DE SEPTIEMBRE DE 2024)
+XIX.- Las estrategias de identificación, recuperación y rehabilitación de vivienda abandonada, así como el de su entorno habitacional, y
+(ADICIONADA, P.O. 17 DE SEPTIEMBRE DE 2024)
+XX.- Los demás que señale el Plan Estatal de Desarrollo y otros ordenamientos legales.
+(ADICIONADO, P.O. 17 DE SEPTIEMBRE DE 2024)
+Las dependencias y entidades que participen en la instrumentación de las acciones previstas en este artículo, en el ámbito de sus respectivas competencias, se coordinarán con la Comisión para efectos de su ejecución.

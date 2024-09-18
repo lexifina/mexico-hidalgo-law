@@ -7,6 +7,6 @@ III.- La violencia patrimonial. Es cualquier acto u omisión que afecta la super
 IV.- La violencia económica. Es toda acción u omisión del agresor que afecta la supervivencia económica de la víctima. Se manifiesta a través de limitaciones encaminadas a controlar el ingreso de sus percepciones económicas, así como la percepción de un salario menor por igual trabajo, dentro de un mismo centro laboral;
 (REFORMADA, P.O. 9 DE MAYO DE 2024)
 V.- La violencia sexual. Es cualquier acto que degrada o daña el cuerpo y/o sexualidad de la víctima y que por tanto atenta contra su libertad, dignidad e integridad física. Es una expresión de abuso de poder;
-(ADICIONADA, P.O. 9 DE MAYO DE 2024)
-VI.- La violencia institucional. Es todo acto u omisión efectuada por instituciones, sean públicas o privadas, que brindan algún tipo de servicio a las personas adultas mayores; y
+(REFORMADA, P.O. 17 DE SEPTIEMBRE DE 2024)
+VI.- Violencia institucional. Es todo acto, omisión o negligencia efectuada por instituciones públicas o privadas, que segreguen, discriminen o cuya finalidad sea la de retardar, dificultar o impedir el goce y el libre ejercicio de los derechos de las personas adultas mayores, así como, su acceso al disfrute de las políticas públicas, programas e instrumentos de la administración pública; y
 VII.- Cualesquiera otras formas análogas que lesionen o sean susceptibles de dañar la dignidad, integridad o libertad de las personas adultas mayores.
