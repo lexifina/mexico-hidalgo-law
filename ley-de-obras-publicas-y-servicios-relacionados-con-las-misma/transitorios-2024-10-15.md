@@ -1,0 +1,3 @@
+P.O. 15 DE OCTUBRE DE 2024.
+[N. DE E. TRANSITORIO DEL "DECRETO NUM. 1052 POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DE OBRAS PÚBLICAS Y SERVICIOS RELACIONADOS CON LAS MISMAS PARA EL ESTADO DE HIDALGO".]
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
