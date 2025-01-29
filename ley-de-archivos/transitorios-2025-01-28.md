@@ -1,0 +1,3 @@
+P.O. 28 DE ENERO DE 2025.
+[N. DE E. TRANSITORIO DEL "DECRETO NÚM. 191 – LXVI POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DE ARCHIVOS PARA EL ESTADO DE HIDALGO, EN MATERIA DE IGUALDAD SUSTANTIVA Y NO DISCRIMINACIÓN".]
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.

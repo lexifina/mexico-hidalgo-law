@@ -1,0 +1,3 @@
+(ADICIONADO, P.O. 28 DE ENERO DE 2025)
+Artículo 64 Bis. Para los casos en que la unidad administrativa a cargo de la investigación no cuente con elementos suficientes para demostrar la existencia de la infracción y la presunta responsabilidad del infractor, se emitirá un acuerdo de conclusión y archivo del expediente, sin perjuicio de que pueda abrirse nuevamente la investigación si se presentan nuevos indicios o pruebas y no hubiere prescrito la facultad para sancionar.
+Dicha determinación, se notificará a los servidores públicos y particulares sujetos a la investigación, así como a los denunciantes cuando éstos fueren identificables, dentro los diez días hábiles siguientes a su emisión.

@@ -14,6 +14,6 @@ X. La obligación de la persona agresora de presentarse periódicamente ante el 
 XI. La colocación de localizadores electrónicos, previo consentimiento de la persona agresora;
 (REFORMADA, P.O. 18 DE ABRIL DE 2024)
 XII. La prohibición a la persona agresora de salir sin autorización judicial del país o del ámbito territorial que fije el juez o la jueza;
-(ADICIONADA, P.O. 18 DE ABRIL DE 2024)
+(ADICIONADA, P.O.18 DE ABRIL DE 2024)
 XIII. La suspensión del régimen de tutela o curatela que ejerza la persona agresora sobre la víctima, y
 XIV. Las demás que se requieran para brindar una protección a la víctima.

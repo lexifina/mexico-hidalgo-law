@@ -6,4 +6,5 @@ III.- Realizar cualquier acto u omisión que atente contra su derecho a decidir 
 IV.- Realizar cualquier acto tendiente a ejercer control sobre el sindicato al que pertenezcan sus trabajadores;
 V.- Intervenir de cualquier forma en el régimen interno del sindicato y/o impedir su formación o el desarrollo de la actividad sindical, mediante represalias implícitas o explícitas contra los trabajadores;
 VI.- Portar armas en el interior de los establecimientos ubicados dentro de las poblaciones; y
-VII.- Despedir a una trabajadora o coaccionarla directa e indirectamente para que renuncie por estar embarazada, por cambio de estado familiar o por tener el cuidado de hijos menores.
+(REFORMADA, P.O. 28 DE ENERO DE 2025)
+VII.- Despedir a una trabajadora o coaccionarla directa e indirectamente para que renuncie por estar embarazada, por cambio de estado familiar, por tener el cuidado de hijos menores, por estar en periodo de lactancia, o por manifestar su intención de extender este periodo hasta por dos años contados a partir del nacimiento del lactante.
