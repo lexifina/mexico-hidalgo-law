@@ -1,0 +1,6 @@
+P.O. 30 DE ENERO DE 2025.
+[N. DE E. TRANSITORIO DEL "DECRETO NÚM. 200 - LXVI POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE HIDALGO, EN MATERIA DE PERIODOS DE SESIONES DEL CONGRESO ESTATAL".]
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo, con excepción de lo dispuesto en los Transitorios Segundo y Tercero.
+SEGUNDO. El segundo párrafo del artículo 38 entrará en vigor el primero de septiembre de 2028, siendo por tanto aplicable a partir del primer periodo ordinario de sesiones del segundo año de ejercicio de la LXVII Legislatura del Congreso del Estado.
+TERCERO. Las y los integrantes de la LXVII Legislatura del Congreso del Estado durarán en su encargo del cinco de septiembre del 2027 al 31 de agosto de 2030; en consecuencia, la reforma al artículo 36 entrará en vigor el primero de septiembre de 2030, por lo que las siguientes Legislaturas tomarán posesión de su cargo el primero de septiembre del año de la elección.
+CUARTO. El Congreso del Estado deberá realizar la adecuación y armonización necesaria de la legislación secundaria de conformidad con lo aprobado en el presente Decreto, dentro del término de ciento veinte días naturales contados a partir de la fecha de su publicación.
