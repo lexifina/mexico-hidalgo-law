@@ -1,0 +1,9 @@
+(ADICIONADO, P.O. 27 DE FEBRERO DE 2025)
+Artículo 140 Bis.- Las personas usuarias de los servicios de establecimientos especializados en adicciones tienen los siguientes derechos:
+I.- Consentir o denegar su permiso para acceder de forma voluntaria a los servicios de detección, prevención, tratamiento y rehabilitación, como parte de la atención integral del consumo de sustancias psicoactivas.
+Para tal efecto, la persona usuaria deberá previamente recibir información clara, suficiente, oportuna y veraz que le permita conocer los beneficios esperados y los eventuales riesgos en caso de aceptar la intervención terapéutica, así como las consecuencias en caso de no aceptarla. De igual forma deberá conocer los alcances, modalidades y temporalidad de los tratamientos y servicios ofrecidos;
+II.- Recibir el tratamiento que permita la reinserción familiar y comunitaria, procurando la participación activa de familiares u otras personas que, dentro de una dinámica terapéutica, contribuyan a los resultados esperados de la recuperación. Dicha participación no podrá ser condicionada o restringida;
+III.- Recibir tratamiento por consumo de sustancias psicoactivas, bajo la modalidad residencial o deambulatoria, de forma oportuna, eficiente y de calidad. Dichos servicios deberán estar sustentados en un modelo reconocido por la autoridad sanitaria y deberán ser proporcionados por personal profesional y especializado, respetando la integridad física y mental, así como la dignidad de la persona usuaria;
+IV.- Recurrir ante las instancias correspondientes para presentar quejas y denuncias relacionadas con los servicios de atención otorgados;
+V.- Suspender el programa de tratamiento y, en su caso, abandonar el establecimiento cuando así determine la persona usuaria o su representante legal, y
+VI.- Los demás que les sean reconocidos en las leyes y disposiciones reglamentarias en la materia.
