@@ -1,0 +1,3 @@
+P.O. 7 DE ABRIL DE 2025.
+[N. DE E. TRANSITORIO DEL "DECRETO NÚM. 219 – LXVI POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE EDUCACIÓN DEL ESTADO DE HIDALGO, EN MATERIA DE EDUCACIÓN INCLUSIVA".]
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
