@@ -1,0 +1,4 @@
+(ADICIONADO, P.O. 11 DE ABRIL DE 2025)
+Artículo 41 Quinquies.- Previo al desahogo del procedimiento establecido en esta Ley, la Junta de Gobierno nombrará a la persona titular de Órgano Interno de Control por mayoría de votos, la cual deberá ser nombrada a más tardar dentro de los cuarenta y cinco días naturales siguientes al inicio de la administración.
+La persona designada solo podrá ser removida por mayoría de votos, por causas graves determinadas en la ley, debidamente justificadas y por resolución firme derivada de un procedimiento de responsabilidad administrativa; en cuyo caso, la nueva designación se llevará a cabo de conformidad con el procedimiento establecido en el presente ordenamiento.
+La violación al procedimiento de designación de la persona titular de (sic) Órgano Interno de Control estará afectada de nulidad y se considera violación grave a esta Ley.

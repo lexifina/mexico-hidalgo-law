@@ -1,0 +1,3 @@
+(ADICIONADO, P.O. 11 DE ABRIL DE 2025)
+Artículo 41 Bis.- Cada Organismo Operador Municipal contará con un Órgano Interno de Control que tendrá por objeto la vigilancia del cumplimiento de las disposiciones normativas, promoviendo la productividad, eficiencia y eficacia en el ejercicio de los recursos, a través de la implementación de sistemas de control interno adecuado.
+Los Órganos Internos de Control de cada Organismo Operador Municipal deberán contar con la estructura orgánica necesaria para cumplir las funciones de autoridad investigadora, substanciadora y resolutora, en los términos de las leyes en la materia. Por ningún motivo podrán recaer los cargos de autoridad substanciadora y resolutora en la misma persona que la investigadora.

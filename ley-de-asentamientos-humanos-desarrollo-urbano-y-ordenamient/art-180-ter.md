@@ -10,7 +10,11 @@ VII. Los instrumentos en los que se autorice la ocupación del espacio público 
 VIII. Se promoverá la adecuación de los reglamentos municipales que garanticen comodidad y seguridad en el espacio público, sobre todo para los peatones, con una equidad entre los espacios edificables y los no edificables;
 IX. Se deberán definir los instrumentos, públicos o privados, que promuevan la creación de espacios públicos de dimensiones adecuadas para integrar barrios, de tal manera que su ubicación y beneficios sean accesibles a distancias peatonales para sus habitantes;
 X. Se establecerán los lineamientos para que el diseño y traza de vialidades en los Centros de Población asegure su continuidad, procurando una cantidad mínima de intersecciones, que fomente la movilidad, de acuerdo a las características topográficas y culturales de cada región;
-XI. Se deberá asegurar la preservación y restauración del equilibrio ecológico y la protección al ambiente, la calidad formal e imagen urbana, la conservación de los monumentos y el paisaje y mobiliario urbano; y
-XII. En caso de tener que utilizar suelo destinado a espacio público para otros fines, la autoridad tendrá que justificar sus acciones para dicho cambio en el uso de suelo, además de sustituirlo por otro de características, ubicación y dimensiones similares.
+(REFORMADA, P.O. 11 DE ABRIL DE 2025)
+XI. Se deberá asegurar la preservación y restauración del equilibrio ecológico y la protección al ambiente, la calidad formal e imagen urbana, la conservación de los monumentos y el paisaje y mobiliario urbano;
+(REFORMADA, P.O. 11 DE ABRIL DE 2025)
+XII. En caso de tener que utilizar suelo destinado a espacio público para otros fines, la autoridad tendrá que justificar sus acciones para dicho cambio en el uso de suelo, además de sustituirlo por otro de características, ubicación y dimensiones similares, y
+(ADICIONADA, P.O. 11 DE ABRIL DE 2025)
+XIII. Se deberá asegurar que en los espacios públicos no se implemente el uso de arquitectura o urbanismo hostil.
 Los municipios vigilarán y protegerán la seguridad, integridad, calidad, mantenimiento y promoverán la gestión del Espacio Público con cobertura suficiente.
 Todos los habitantes tienen el derecho a denunciar ante las autoridades correspondientes, cualquier acción que atente contra la integridad y condiciones de uso, goce y disfrute del espacio público.

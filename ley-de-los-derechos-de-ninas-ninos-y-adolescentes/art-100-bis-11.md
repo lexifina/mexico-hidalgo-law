@@ -1,0 +1,3 @@
+(ADICIONADO, P.O. 11 DE ABRIL DE 2025)
+Artículo 100 Bis 11. Niñas, niños y adolescentes tienen derecho a la movilidad, de conformidad con lo establecido en la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado de Hidalgo, esta ley y las disposiciones legales aplicables en la materia.
+El Estado y los municipios, en el ámbito de sus respectivas competencias, fomentarán proyectos de infraestructura vial que incorporen un enfoque preventivo para reducir los factores de riesgo y la ocurrencia de lesiones graves, además de garantizar el uso y disfrute del espacio público.

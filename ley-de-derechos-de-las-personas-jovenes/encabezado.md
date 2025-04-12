@@ -6,9 +6,9 @@ D E C R E T O NUM. 1015
 POR EL QUE SE EXPIDE LA LEY DE DERECHOS DE LAS PERSONAS JÓVENES DEL ESTADO DE HIDALGO
 El Congreso del Estado Libre y Soberano de Hidalgo, en uso de las facultades que le confiere el artículo 56, fracciones I y II de la Constitución Política del Estado de Hidalgo, D E C R E T A:
 A N T E C E D E N T E S
-[…]
+[...]
 C O N S I D E R A N D O
-[…]
+[...]
 POR TODO LO EXPUESTO, ESTE CONGRESO, HA TENIDO A BIEN EXPEDIR EL SIGUIENTE:
 D E C R E T O
 POR EL QUE SE EXPIDE LA LEY DE DERECHOS DE LAS PERSONAS JÓVENES DEL ESTADO DE HIDALGO
