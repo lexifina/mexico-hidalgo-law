@@ -11,7 +11,8 @@ A N T E C E D E N T E S
 PRIMERO.- En Sesión Ordinaria de fecha 17 de julio del año 2012, por instrucciones de la Presidencia nos fue turnado el oficio número SG/153/2012 de fecha 13 de julio del año en curso, enviado por el Secretario de Gobierno del Estado, con el que anexa la Iniciativa de Decreto que contiene la Ley de Asistencia Social para el Estado de Hidalgo, presentada por el Lic. José Francisco Olvera Ruiz, Titular del Poder Ejecutivo del Estado.
 SEGUNDO.- El asunto de cuenta, se registró en el Libro de Gobierno de la Primera Comisión Permanente de Legislación y Puntos Constitucionales, con el número 129/2012.
 Por lo que, en mérito de lo expuesto; y
-CONSIDERANDO...
+CONSIDERANDO
+[...]
 POR TODO LO EXPUESTO, ESTE CONGRESO, HA TENIDO A BIEN EXPEDIR El SIGUIENTE:
 DECRETO
 QUE CONTIENE LA LEY ASISTENCIA SOCIAL PARA EL ESTADO DE HIDALGO.
