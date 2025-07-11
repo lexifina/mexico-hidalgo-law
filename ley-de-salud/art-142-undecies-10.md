@@ -7,7 +7,9 @@ IV. Al menos un banco de leche humana en el estado en alguno de los establecimie
 V. Acciones para controlar las enfermedades prevenibles por vacunación, los procesos diarreicos y las infecciones respiratorias agudas en los menores de 5 años;
 (REFORMADA, P.O. 18 DE AGOSTO DE 2023)
 VI. Acciones de capacitación para fortalecer la competencia técnica de las parteras tradicionales, para la atención del embarazo, parto y puerperio;
-(REFORMADA, P.O. 18 DE AGOSTO DE 2023)
-VII. Acciones para informar y posibilitar cuando la infraestructura lo permita, el acompañamiento de las mujeres embarazadas por una persona de su confianza y elección durante el trabajo de parto, parto y puerperio, incluyendo el procedimiento de cesárea, en las instituciones de salud públicas y privadas, las cuales deberán tomar las medidas de higiene y seguridad necesarias; y
-(ADICIONADA, P.O. 18 DE AGOSTO DE 2023)
-VIII. La instalación de cambiadores de pañales en los baños o baños familiares, que faciliten la privacidad, accesibilidad, seguridad, comodidad e higiene de los usuarios.
+(REFORMADA, P.O. 10 DE JULIO DE 2025)
+VII. Acciones para informar y posibilitar cuando la infraestructura lo permita, el acompañamiento de las mujeres embarazadas por una persona de su confianza y elección durante el trabajo de parto, parto y puerperio, incluyendo el procedimiento de cesárea, en las instituciones de salud públicas y privadas, las cuales deberán tomar las medidas de higiene y seguridad necesarias;
+(REFORMADA, P.O. 10 DE JULIO DE 2025)
+VIII. La instalación de cambiadores de pañales en los baños o baños familiares, que faciliten la privacidad, accesibilidad, seguridad, comodidad e higiene de los usuarios, y
+(ADICIONADA, P.O. 10 DE JULIO DE 2025)
+IX. La cultura de incorporación de lactarios en los centros de trabajo de los sectores público y privado.
