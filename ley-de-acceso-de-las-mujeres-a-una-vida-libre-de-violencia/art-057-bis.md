@@ -1,7 +1,7 @@
 (ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 18 DE ABRIL DE 2024)
 CAPÍTULO VI
 DEL CENTRO DE JUSTICIA PARA MUJERES DEL ESTADO DE HIDALGO
-(ADICIONADO, P.O.18 DE ABRIL DE 2024)
+(ADICIONADO, P.O. 18 DE ABRIL DE 2024)
 ARTÍCULO 57 Bis.– El Centro de Justicia para Mujeres del Estado de Hidalgo tiene como finalidad promover y garantizar el acceso de las mujeres a la justicia, el ejercicio pleno de sus derechos humanos y su empoderamiento.
 Para ello, corresponde al Centro de Justicia para Mujeres del Estado de Hidalgo, con base en los principios establecidos en la presente ley:
 I. Diseñar y ejecutar acciones orientadas a la prevención de la violencia contra las mujeres y la atención de las mujeres, adolescentes y niñas víctimas de violencia;

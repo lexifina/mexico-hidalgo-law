@@ -1,3 +1,3 @@
-(ADICIONADO, P.O. 29 DE MAYO DE 2023)
-Artículo 16 Septies.- Las autoridades sanitarias, en el ámbito de su competencia y a través de instituciones de educación superior, impulsarán acciones de capacitación, actualización y especialización de médicos tradicionales, curanderos y parteras, para fortalecer su competencia técnica, el manejo de otras técnicas, conocimientos e instrumentos auxiliares de la medicina, con base en los derechos humanos y con un enfoque intercultural.
-Asimismo, las autoridades sanitarias promoverán cursos, talleres y diplomados con valor curricular, dirigidos al personal médico que radica y labora en zonas con población indígena relativos a antropología médica y medicina tradicional.
+(REFORMADO, P.O. 10 DE JULIO DE 2025)
+Artículo 16 Septies.- Las autoridades sanitarias impulsarán la realización de convenios y acuerdos de colaboración con instituciones de investigación, educación superior y centros de capacitación técnica y profesional para preservar, difundir y fortalecer la medicina y partería tradicional, a través de programas de capacitación acordes a su práctica, con un enfoque intercultural.
+Asimismo, las autoridades sanitarias promoverán cursos, talleres y diplomados con valor curricular, dirigidos al personal médico, relativos a antropología médica y medicina tradicional.

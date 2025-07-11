@@ -8,5 +8,7 @@ V.- Promover un sistema de fomento sanitario que coadyuve al desarrollo de produ
 VI.- Promover el desarrollo de los servicios de salud con base en la integración de las tecnologías de la información y la comunicación para ampliar la cobertura y mejorar la calidad de atención a la salud;
 VII.- Proporcionar orientación a la población respecto de la importancia de la alimentación nutritiva, suficiente y de calidad y su relación con los beneficios a la salud;
 VIII.- Favorecer el desarrollo de la enseñanza y la investigación científica y tecnológica del sector salud;
+(ADICIONADA, P.O. 10 DE JULIO DE 2025)
+VIII Bis.- Promover el reconocimiento a los conocimientos y desarrollo de la medicina tradicional indígena, de la herbolaria y de la partería tradicional;
 IX.- Fortalecer la integración, operación y evaluación de consejos, comités y comisiones en materia de salud, y
 X.- Las demás que sean necesarias para el cumplimiento de su objetivo, de conformidad con las disposiciones normativas.

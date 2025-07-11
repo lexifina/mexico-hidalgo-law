@@ -1,0 +1,3 @@
+P.O. 10 DE JULIO DE 2025.
+[N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 266 – LXVI POR EL QUE SE REFORMA LA FRACCIÓN XV DEL ARTÍCULO 68 DE LA LEY DE EDUCACIÓN DEL ESTADO DE HIDALGO, EN MATERIA DE FOMENTO A LA CULTURA DE PREVENCIÓN DE LA CORRUPCIÓN".]
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
