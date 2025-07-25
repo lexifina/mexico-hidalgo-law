@@ -1,0 +1,3 @@
+P.O. 24 DE JULIO DE 2025.
+[N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 291 – LXVI POR EL QUE SE ADICIONA EL ARTÍCULO 8 TER A LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE HIDALGO, EN MATERIA DE DERECHOS DE LOS ANIMALES COMO SERES SINTIENTES".]
+ÚNICO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Hidalgo.

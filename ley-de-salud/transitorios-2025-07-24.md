@@ -1,0 +1,3 @@
+P.O. 24 DE JULIO DE 2025.
+[N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 284 - LXVI POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE SALUD PARA EL ESTADO DE HIDALGO, EN MATERIA DE SALUD MATERNO INFANTIL".]
+ÚNICO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Hidalgo.

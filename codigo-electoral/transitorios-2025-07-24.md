@@ -1,0 +1,3 @@
+P.O. 24 DE JULIO DE 2025.
+[N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 281 – LXVI POR EL QUE SE REFORMA LA FRACCIÓN III DEL ARTÍCULO 10 BIS DEL CÓDIGO ELECTORAL DEL ESTADO DE HIDALGO, EN MATERIA DE DEUDORES ALIMENTARIOS MOROSOS".]
+ÚNICO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Hidalgo.
