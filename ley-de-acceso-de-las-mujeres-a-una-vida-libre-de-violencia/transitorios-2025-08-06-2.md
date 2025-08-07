@@ -1,0 +1,3 @@
+P.O. 6 DE AGOSTO DE 2025.
+[N. DE E. TRANSITORIO DEL "DECRETO NÚM. 302 – LXVI POR EL QUE SE ADICIONA LA FRACCIÓN VII QUINQUIES AL ARTÍCULO 46 DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE HIDALGO".]
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
