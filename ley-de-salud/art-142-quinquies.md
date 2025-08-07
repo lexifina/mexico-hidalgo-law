@@ -7,4 +7,6 @@ III.- Elaboración de métodos de prevención y control de enfermedades que afec
 IV.- Desarrollo de estrategias y planes de servicios de salud mental;
 IV (SIC).- Desarrollo de actividades educativas y socioculturales estatales y municipales que contribuyan a detectar los factores de predisposición a enfermedades de salud mental;
 V.- Elaboración de campañas estatales y municipales para dar a conocer los sistemas de atención para la salud mental, así como el conocimiento y prevención de las enfermedades que la afectan;
-V (SIC).- Las demás que directa o indirectamente contribuyan al fomento de la salud mental.
+(ADICIONADA, P.O. 6 DE AGOSTO DE 2025)
+VII (SIC).- En coordinación con la Secretaría de Educación, implementar acciones de educación, concientización, prevención de riesgos y atención oportuna en materia de salud mental, dentro de los centros educativos;
+VIII.- Las demás que directa o indirectamente contribuyan al fomento de la salud mental.
