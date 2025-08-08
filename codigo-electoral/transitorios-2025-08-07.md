@@ -1,0 +1,3 @@
+P.O. 7 DE AGOSTO DE 2025.
+[N. DE E. TRANSITORIO DEL "DECRETO NÚM. 313 - LXVI POR EL QUE SE REFORMA EL INCISO D DE LA FRACCIÓN I DEL ARTÍCULO 6 DEL CÓDIGO ELECTORAL DEL ESTADO DE HIDALGO, EN MATERIA DEL PRINCIPIO DE PARIDAD DE GÉNERO".]
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
