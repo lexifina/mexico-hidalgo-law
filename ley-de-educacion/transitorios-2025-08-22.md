@@ -1,0 +1,3 @@
+P.O. 22 DE AGOSTO DE 2025.
+[N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 341 - LXVI POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS FRACCIONES DEL ARTÍCULO 68 DE LA LEY DE EDUCACIÓN DEL ESTADO DE HIDALGO, EN MATERIA DE EDUCACIÓN VIAL".]
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
