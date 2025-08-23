@@ -1,0 +1,3 @@
+P.O. 22 DE AGOSTO DE 2025.
+[N. DE E. TRANSITORIO DEL "DECRETO NÚM. 334 - LXVI POR EL QUE SE ADICIONA UN PÁRRAFO TERCERO AL ARTÍCULO 142 UNDECIES 7 DE LA LEY DE SALUD PARA EL ESTADO DE HIDALGO, EN MATERIA DE EMBARAZO ADOLESCENTE".]
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
