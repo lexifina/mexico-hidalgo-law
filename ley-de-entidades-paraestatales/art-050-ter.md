@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2025)
+Artículo 50 Ter.- Para los efectos de esta Ley, se consideran Organismos Auxiliares del Poder Ejecutivo: los institutos, las comisiones y las coordinaciones, así como los demás organismos que desde su Decreto de creación se les considere con esta naturaleza. Los organismos auxiliares tendrán por objeto, la realización de actividades estratégicas, funciones administrativas y de servicios para el desarrollo del Estado, mismas que le asignará la Persona Titular del Ejecutivo a través de su Decreto de creación.

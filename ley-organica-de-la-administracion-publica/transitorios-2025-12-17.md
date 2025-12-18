@@ -1,0 +1,9 @@
+P.O. 17 DE DICIEMBRE DE 2025.
+[N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 392 – LXVI POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA PARA EL ESTADO DE HIDALGO, EN MATERIA DE ESTRUCTURA Y FUNCIONAMIENTO DE LA ADMINISTRACIÓN ESTATAL".]
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+SEGUNDO. Las menciones contenidas en leyes, reglamentos, decretos, acuerdos y disposiciones de cualquier naturaleza, hechas a la Secretaría del Despacho de la Persona Titular del Poder Ejecutivo del Estado, se entenderán referidas a la Secretaría del Despacho del Poder Ejecutivo del Estado.
+TERCERO. La Persona Titular del Poder Ejecutivo del Estado, en un plazo no mayor a treinta días naturales posteriores a la entrada en vigor del presente, expedirá el Decreto mediante el cual se establezca el ente público al que se hace referencia en el Artículo 10 de la Ley Orgánica de la Administración Pública del Estado de Hidalgo, en el cual se determinará su organización y atribuciones.
+Hasta tanto se dé cumplimiento a lo descrito en el párrafo anterior, las dependencias y entidades encargadas continuarán operando de conformidad con sus atribuciones en la materia.
+CUARTO. En el Decreto a que hace referencia el Transitorio Tercero del presente, se establecerá un Comité encargado de la transferencia de los recursos humanos, financieros y materiales con los que cuenten las dependencias y entidades que actualmente son responsables, y cuyos asuntos cambien de adscripción por disposición o consecuencia del mismo.
+QUINTO. Los asuntos que se encuentren en trámite a la entrada en vigor del presente Decreto, continuarán su despacho por la Dependencia o Entidad responsable de los mismos, conforme a las disposiciones jurídicas aplicables.
+SEXTO. Se derogan todas las disposiciones que se opongan al presente Decreto.

@@ -1,0 +1,4 @@
+(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2025)
+Artículo 7 Ter.- Las Entidades Paraestatales deberán proporcionar la información y datos de manera completa, oportuna y veraz, que le solicite (sic) Oficialía Mayor en el ámbito de su competencia, independientemente del informe trimestral que la Persona Titular deba enviar en términos del Reglamento de la presente Ley.
+Tratándose de bienes inmuebles del dominio privado, previo a su enajenación deberán dar aviso a Oficialía Mayor; respecto de los inmuebles sujetos al régimen del dominio público se sujetarán a lo dispuesto en la fracción VI del artículo 8 de la Ley de Bienes del Estado de Hidalgo.
+Las Entidades Paraestatales previo a sus movimientos en materia de recursos humanos deberán informar a Oficialía Mayor y a la Secretaría del Despacho del Poder Ejecutivo del Estado. Dichas Dependencias podrán solicitar en cualquier momento documentación y datos relacionados con la administración del personal.
