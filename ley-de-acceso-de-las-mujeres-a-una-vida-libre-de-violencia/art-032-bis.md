@@ -25,9 +25,11 @@ XVI. Prohibición a la persona agresora de intimidar o molestar por si, por cual
 XVII. Resguardar las armas de fuego u objetos utilizados para amenazar o agredir a la mujer, o niña, en situación de violencia;
 (REFORMADA, P.O. 18 DE ABRIL DE 2024)
 XVIII. Solicitar a la autoridad jurisdiccional competente, para garantizar las obligaciones alimentarias, la elaboración de un inventario de los bienes de la persona agresora y su embargo precautorio, el cual deberá inscribirse con carácter temporal en el Registro Público de la Propiedad;
-(REFORMADA [N. DE E. ADICIONADA], P.O. 18 DE ABRIL DE 2024)
-XIX. Solicitar a la autoridad jurisdiccional competente la suspensión del régimen de tutela o curatela que ejerza la persona agresora, y
-(ADICIONADA [N. DE E. REFORMADA Y REUBICADA ANTES FRACCIÓN XIX], P.O. 18 DE ABRIL DE 2024)
-XX. Además de los anteriores, aquellas y cuantas sean necesarias para salvaguardar la integridad, la seguridad y la vida de la mujer o la niña en situación de violencia.
+(REFORMADA, P.O. 26 DE DICIEMBRE DE 2025)
+XIX. Solicitar a la autoridad jurisdiccional competente la suspensión del régimen de tutela o curatela que ejerza la persona agresora;
+(REFORMADA [N. DE E. ADICIONADA], P.O. 26 DE DICIEMBRE DE 2025)
+XX. Solicitar a la autoridad judicial competente la recuperación y entrega inmediata a las mujeres víctimas de sus hijas e/o hijos menores de 18 años y/o personas incapaces que requieran cuidados especiales, que hayan sido sustraídos, retenidos u ocultados de la madre, en términos de lo establecido en el artículo 5, fracción XI Ter de la presente Ley; y
+(ADICIONADA [N. DE E. REUBICADA], P.O. 26 DE DICIEMBRE DE 2025)
+XXI. Además de los anteriores, aquellas y cuantas sean necesarias para salvaguardar la integridad, la seguridad y la vida de la mujer o la niña en situación de violencia.
 (ADICIONADO, P.O. 18 DE ABRIL DE 2024)
 Las órdenes de protección señaladas en este artículo podrán ser ampliadas o modificadas por la autoridad administrativa, el Ministerio Público o el órgano jurisdiccional competente, siempre procurando la mayor protección de la víctima.

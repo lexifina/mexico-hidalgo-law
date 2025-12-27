@@ -1,0 +1,3 @@
+(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2025)
+Artículo 96 Bis. Las autoridades educativas promoverán medidas y protocolos que fomenten y procuren la protección y la salvaguarda de la dignidad, integridad física, emocional y profesional de las maestras y los maestros en el ejercicio de sus funciones, con la finalidad de prevenir, atender y combatir cualquier tipo de discriminación o violencia en su contra, en los términos de los artículos 91 y 92 de esta Ley.
+Además, podrán implementar programas de capacitación, orientación, canalización, atención, vigilancia y sensibilización en materia de respeto a las maestras y los maestros, con la finalidad de contribuir al pleno ejercicio del derecho a la educación y construir una cultura de paz en los centros educativos.

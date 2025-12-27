@@ -1,2 +1,4 @@
 (ADICIONADO, P.O. 7 DE OCTUBRE DE 2019)
 Artículo 100 Bis. Las niñas, niños y adolescentes gozan del derecho de acceso universal a las Tecnologías de la Información y Comunicación, así como a los servicios de radiodifusión y telecomunicaciones, incluido el de banda ancha e internet establecidos en la Constitución Política de los Estados Unidos Mexicanos y en la Ley Federal de Telecomunicaciones y Radiodifusión.
+(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2025)
+Los padres o quienes ejerzan la patria potestad, tutela o guarda y custodia de niñas, niños y adolescentes o personas que los tengan bajo su responsabilidad, deberán orientar sobre el acceso y uso de acceso a las tecnologías de la información y comunicación, así como a los servicios de radiodifusión y telecomunicaciones, incluido el de banda ancha e internet.

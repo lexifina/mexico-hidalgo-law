@@ -3,8 +3,8 @@ SECCION QUINTA
 DE LA CULTURA DEL AGUA Y EL USO EFICIENTE Y CUIDADO DEL AGUA
 (ADICIONADO, P.O. 13 DE MAYO DE 2013)
 Artículo 84 Bis.- Las autoridades en materia de agua promoverán una cultura para el uso eficiente y cuidado del recurso, a través de la realización de acciones y campañas permanentes tendientes a:
-(REFORMADA, P.O. 17 DE MAYO DE 2024)
-I.- Promover mediante campañas periódicas e instrumentos de participación ciudadana, la concientización de la población sobre el uso eficiente del agua y su conservación en todas las fases de su ciclo;
+(REFORMADA, P.O. 26 DE DICIEMBRE DE 2025)
+I.- Promover mediante campañas periódicas, material de difusión, instrumentos de participación ciudadana, la concientización de la población sobre el cuidado, uso eficiente del agua y su conservación en todas las fases de su ciclo;
 (ADICIONADA, P.O. 17 DE MAYO DE 2024)
 I Bis.- Impulsar una cultura del cuidado del agua que considere a este elemento como un recurso vital, escaso, finito y vulnerable mediante la educación ambiental;
 (ADICIONADA, P.O. 17 DE MAYO DE 2024)
@@ -20,7 +20,7 @@ VI.- Promover su saneamiento;
 VII.- Procurar un entorno educativo que difunda los beneficios del uso eficiente y cuidado del agua, así como el respeto y protección al medio ambiente;
 (REFORMADA [N. DE E. REPUBLICADA], P.O. 17 DE MAYO DE 2024)
 VIII.- Promover ante las instituciones educativas del Estado la realización de cursos, talleres, conferencias y diplomados en materia de cultura del agua y uso racional de la misma, en el marco del día mundial del agua;
-(ADICIONADA, P.O. 17 DE MAYO DE 2024)
-IX.- Impulsar en las empresas constructoras de viviendas, conjuntos habitacionales, espacios agropecuarios, industriales, comerciales y de servicios, el uso eficiente y cuidado del agua, así como que los sistemas y la tecnología que emplean sea la adecuada para el ahorro y aprovechamiento del agua; y
+(REFORMADA, P.O. 26 DE DICIEMBRE DE 2025)
+IX.- Impulsar en las empresas constructoras de viviendas, conjuntos habitacionales, espacios agropecuarios, industriales, comerciales y de servicios, la difusión de la cultura del agua y su uso eficiente, así como que los sistemas y la tecnología que emplean sea la adecuada para el ahorro y aprovechamiento del agua; y
 (ADICIONADA, P.O. 17 DE MAYO DE 2024)
 X.- Promover en la población la captación, el uso e instalación de mecanismos o dispositivos de control e infiltración de agua para el uso y aprovechamiento de aguas pluviales.
