@@ -1,0 +1,4 @@
+P.O. 31 DE DICIEMBRE DE 2025.
+[N. DE E. TRANSITORIO DEL "DECRETO NÚM. 402 - LXVI QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DEL CÓDIGO FISCAL DEL ESTADO DE HIDALGO, LA LEY DE HACIENDA DEL ESTADO DE HIDALGO, LA LEY ESTATAL DE DERECHOS, LA LEY DE COORDINACIÓN FISCAL DEL ESTADO DE HIDALGO, LA LEY DE PRESUPUESTO Y CONTABILIDAD GUBERNAMENTAL DEL ESTADO DE HIDALGO Y LA LEY DE HACIENDA PARA LOS MUNICIPIOS DEL ESTADO DE HIDALGO".]
+PRIMERO. El presente Decreto entrará en vigor el 01 de enero del 2026, previa su publicación en el Periódico Oficial del Estado, con excepción de la adición a que se refiere el CAPÍTULO OCTAVO de la Ley de Hacienda del Estado de Hidalgo, que comprende los artículos 74 BIS, 74 TER, 74 QUÁTER, 74 QUINQUIES, 74 SEXIES, 74 SEPTIES, 74 OCTIES y 74 NONIES, que entrará en vigor a partir del 01 de marzo de 2026.
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente decreto.
