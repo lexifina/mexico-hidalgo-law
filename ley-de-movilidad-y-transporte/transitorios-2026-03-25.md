@@ -1,0 +1,3 @@
+P.O. 25 DE MARZO DE 2026.
+[N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 575 – LXVI POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE MOVILIDAD Y TRANSPORTE PARA EL ESTADO DE HIDALGO, EN MATERIA DE CICLOVÍAS".]
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
