@@ -1,2 +1,2 @@
-(ADICIONADO, P.O. 17 DE MAYO DE 2024)
-Artículo 119 Bis. En los casos que se detecten embarazos de menores de 18 años, los servicios de salud darán vista a la Procuraduría de Protección, a efecto de denunciar ante el Ministerio Público aquellos hechos en los que se presuman conductas delictivas en contra de las niñas y adolescentes.
+(REFORMADO, P.O. 13 DE ABRIL DE 2026)
+Artículo 119 Bis. En los casos en que se detecten embarazos de personas menores de 18 años, los servicios de salud darán vista al Ministerio Público sobre aquellos hechos en los que se presuman conductas delictivas en agravio de niñas y adolescentes. En estos casos, la autoridad ministerial solicitará la intervención de la Procuraduría Estatal de Protección o de las Procuradurías Municipales, para los efectos de lo establecido en los artículos 86, 105, 119 y 135 Ter del presente ordenamiento.

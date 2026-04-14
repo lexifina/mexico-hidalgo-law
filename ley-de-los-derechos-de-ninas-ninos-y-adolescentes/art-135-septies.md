@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 13 DE ABRIL DE 2026)
+Artículo 135 Septies. Para la debida determinación, coordinación de la ejecución y seguimiento de las medidas de protección integral y restitución de los derechos de niñas, niños y adolescentes, las Procuradurías Municipales deberán establecer contacto y trabajar conjuntamente con las autoridades administrativas de asistencia social, de servicios de salud, de educación, de protección social, de cultura, deporte y con todas aquellas con las que sea necesario.

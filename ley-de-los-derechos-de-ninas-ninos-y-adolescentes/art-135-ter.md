@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 13 DE ABRIL DE 2026)
+Artículo 135 Ter. Cada municipio deberá contar con una Procuraduría Municipal dentro de la estructura del Sistema Municipal para el Desarrollo Integral de la Familia, dotada de autonomía técnica y operativa, con funciones de autoridad administrativa, la cual tendrá por objeto la protección especial de niñas, niños y adolescentes que vivan dentro de su demarcación territorial o que se encuentren en tránsito en el municipio.

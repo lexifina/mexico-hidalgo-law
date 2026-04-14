@@ -4,5 +4,6 @@ I Gozar de ciudadanía en pleno goce de sus derechos políticos y civiles;
 II. Contar con título profesional de nivel licenciatura, debidamente registrado;
 III. Tener como mínimo tres años de experiencia en las áreas correspondientes a su función:
 IV. No haber sido sentenciado por delito doloso o inhabilitado como servidor público.
-Capítulo Noveno
-De la Comisión Estatal de los Derechos Humanos
+(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 13 DE ABRIL DE 2026)
+Capítulo Octavo Bis
+De las Procuradurías Municipales de Protección de Niñas, Niños y Adolescentes
