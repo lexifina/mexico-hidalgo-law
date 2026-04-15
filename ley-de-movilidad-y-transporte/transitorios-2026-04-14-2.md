@@ -1,0 +1,3 @@
+P.O. 14 DE ABRIL DE 2026.
+[N. DE E. TRANSITORIO DEL "DECRETO NÚM. 602 – LXVI QUE REFORMA EL PÁRRAFO PRIMERO DEL ARTÍCULO 28 Y ADICIONA EL PÁRRAFO SEGUNDO DEL ARTÍCULO 117 DE LA LEY (SIC) MOVILIDAD Y TRANSPORTE PARA EL ESTADO DE HIDALGO".]
+ÚNICO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Hidalgo.
