@@ -1,0 +1,3 @@
+P.O. 14 DE ABRIL DE 2026.
+[N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 583 – LXVI POR EL QUE SE ADICIONA UN ARTÍCULO 61 BIS A LA LEY DE PROTECCIÓN CIVIL DEL ESTADO DE HIDALGO, EN MATERIA DE CAPACITACIÓN Y PREVENCIÓN A GRUPOS VULNERABLES".]
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
