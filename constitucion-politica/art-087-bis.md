@@ -1,8 +1,13 @@
 (ADICIONADA, P.O. 22 DE JUNIO DE 2022)
 SECCION IV BIS
 SEGURIDAD PUBLICA
+(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE ABRIL DE 2026)
+Artículo 87 Bis. La Seguridad Pública en la Entidad, es una función a cargo del Estado y de los municipios, en sus respectivos ámbitos de competencia para la prevención de los delitos, cuyos fines son salvaguardar la vida, las libertades, la integridad y el patrimonio de las personas, de conformidad con lo dispuesto en el artículo 4o. de la Constitución Política de los Estados Unidos Mexicanos que garantiza los deberes reforzados de protección del Estado con las mujeres, adolescentes, niñas y niños; así como contribuir a la generación y preservación del orden público y la paz social, de conformidad con lo previsto en esta Constitución y las leyes en la materia.
+(ADICIONADO, P.O. 28 DE ABRIL DE 2026)
+La seguridad pública comprende la prevención, investigación y persecución de los delitos, así como la sanción de las infracciones administrativas, en los términos de la ley, en las respectivas competencias que esta Constitución señala.
+(REFORMADO, P.O. 28 DE ABRIL DE 2026)
+La actuación de las instituciones de Seguridad Pública deberán regirse por los principios de eficiencia, legalidad, objetividad, profesionalismo, honradez, así como por la perspectiva de género y respeto a los derechos humanos reconocidos en la Constitución Política de los Estados Unidos Mexicanos, en los Tratados Internacionales de los que el Estado Mexicano sea parte y por esta Constitución.
 (ADICIONADO, P.O. 22 DE JUNIO DE 2022)
-Artículo 87 Bis. La Seguridad Pública en la Entidad, será una función a cargo del Estado y de los municipios, en sus respectivos ámbitos de competencia para la prevención de los delitos, así como para determinar las sanciones a infracciones de carácter administrativo, en términos de la ley.
-La Seguridad Pública deberá regirse por los principios de eficiencia, legalidad, objetividad, profesionalismo, honradez y respeto a los derechos humanos reconocidos en la Constitución Política de los Estados Unidos Mexicanos, en los Tratados Internacionales de los que el Estado Mexicano sea parte y por esta Constitución.
 Las instituciones encargadas de la Seguridad Pública en el Estado, serán de carácter civil, disciplinado y profesional. Deberán coordinarse con el Ministerio Público a fin de cumplir con los objetivos establecidos en el Sistema Nacional de Seguridad Pública, lo anterior en términos del artículo 21 de la Constitución Política de los Estados Unidos Mexicanos, la Ley General del Sistema Nacional de Seguridad Pública y la Ley de Seguridad pública para el Estado de Hidalgo.
+(ADICIONADO, P.O. 22 DE JUNIO DE 2022)
 Las policías de investigación actuarán bajo la conducción y el mando del Ministerio Público en la investigación de los delitos.

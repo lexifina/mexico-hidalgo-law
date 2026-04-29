@@ -1,0 +1,3 @@
+P.O. 28 DE ABRIL DE 2026.
+[N. DE E. TRANSITORIO DEL "DECRETO NÚM. 615 – LXVI POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE HIDALGO, EN MATERIA DE IGUALDAD SUSTANTIVA".]
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
