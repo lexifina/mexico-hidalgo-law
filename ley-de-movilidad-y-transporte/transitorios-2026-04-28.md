@@ -1,0 +1,3 @@
+P.O. 28 DE ABRIL DE 2026.
+[N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 616 – LXVI POR EL QUE SE REFORMA LA FRACCIÓN V DEL ARTÍCULO 51 DE LA LEY DE MOVILIDAD Y TRANSPORTE PARA EL ESTADO DE HIDALGO, EN MATERIA DE TRANSPORTE COMUNAL INDÍGENA".]
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
