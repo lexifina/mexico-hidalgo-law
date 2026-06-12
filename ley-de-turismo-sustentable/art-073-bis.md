@@ -1,0 +1,7 @@
+(ADICIONADO, P.O. 11 DE JUNIO DE 2026)
+Artículo 73 Bis. Los prestadores de servicios turísticos de hospedaje, en todas sus modalidades, sin perjuicio de las demás obligaciones previstas en esta ley, deberán establecer y aplicar mecanismos de seguridad enfocados en la salvaguarda de niñas, niños y adolescentes, con anterioridad a la prestación del servicio.
+En ese sentido, estarán obligados a observar los protocolos que para tal efecto emita la Secretaría, así como realizar por lo menos lo siguiente:
+I. Solicitar la exhibición de credencial de elector o de cualquier otro documento oficial que demuestre la mayoría de edad e identidad de la persona que solicite el servicio;
+II. Condicionar el ingreso de niñas, niños y adolescentes a las habitaciones o inmuebles de uso habitacional destinados a la prestación del servicio de hospedaje o alojamiento, exclusivamente si se encuentran en compañía de alguna persona mayor de edad que acredite tener la patria potestad, parentesco consanguíneo hasta el segundo grado, o autorización por parte de quienes legalmente ostenten la guarda o custodia sobre las personas menores de edad, y
+III. En caso de no poder cumplir con la validación señalada en la fracción anterior, deberán hacerlo del conocimiento inmediato de la Procuraduría de Protección de Niñas, Niños, Adolescentes, y en su caso, del Ministerio Público.
+En caso de incumplimiento de cualquiera de las fracciones de este artículo, se aplicará a los prestadores de servicio las sanciones previstas en las leyes relativas a la materia.

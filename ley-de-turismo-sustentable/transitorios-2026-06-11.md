@@ -1,0 +1,6 @@
+P.O. 11 DE JUNIO DE 2026.
+[N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 644 – LXVI QUE APRUEBA CON MODIFICACIONES LAS INICIATIVAS CON PROYECTO DE DECRETO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE TURISMO SUSTENTABLE DEL ESTADO DE HIDALGO Y DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES PARA EL ESTADO DE HIDALGO, EN MATERIA DE PROTECCIÓN EN ENTORNOS DE SERVICIOS TURÍSTICOS DE HOSPEDAJE".]
+PRIMERO: El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Hidalgo.
+SEGUNDO: La Secretaría de Turismo del Estado de Hidalgo deberá expedir los protocolos y ordenamientos que den cumplimiento a lo establecido en el presente Decreto.
+Dichos protocolos deberán establecer los documentos oficiales idóneos para acreditar la identidad y el vínculo de quienes ejerzan la patria potestad, tutela o guarda y custodia de niñas, niños y adolescentes, así como, en su caso, la autorización respectiva.
+TERCERO: La Secretaría de Turismo del Estado de Hidalgo deberá llevar a cabo las acciones necesarias para la difusión de las disposiciones contenidas en el presente Decreto, a fin de garantizar su conocimiento, correcta implementación y cumplimiento por parte de los prestadores de servicios turísticos de hospedaje en la entidad.
