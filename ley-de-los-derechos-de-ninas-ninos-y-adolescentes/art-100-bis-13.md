@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 8 DE JULIO DE 2026)
+Artículo 100 Bis 13. Todas las niñas, niños y adolescentes tienen derecho a participar y acceder a los beneficios del progreso humanístico, científico y tecnológico. Para ejercer de forma plena este derecho, las niñas, niños y adolescentes tienen derecho a recibir información completa, y a conocer los riesgos derivados del uso de los avances científicos y tecnológicos, y de sus aplicaciones, así como a conocer las implicaciones y alcances de la actividad científica y de la innovación tecnológica.

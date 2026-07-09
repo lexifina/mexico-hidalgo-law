@@ -10,7 +10,6 @@ I. Proveer equipamiento y mobiliario urbano que garantice un entorno accesible y
 II. Fomentar la participación de niñas, niños y adolescentes en el diseño y gestión de los espacios públicos, considerando sus necesidades específicas, según lo dispuesto en el Capítulo Décimo Quinto de esta Ley;
 III. Incorporar como criterio en el diseño del espacio público y la infraestructura vial, la disminución de flujos y velocidades vehiculares favoreciendo una convivencia armónica en las vías públicas, y
 IV. Promover espacios públicos y zonas recreativas, deportivas y de juego que sean seguras, accesibles y suficientes, considerando la edad, diversidad funcional, discapacidad u otras condiciones, para garantizar los derechos al deporte, al juego, al esparcimiento y al desarrollo saludable.
-TÍTULO TERCERO
-De las Obligaciones
-Capítulo Único
-De quienes ejercen la Patria Potestad, Tutela o Guarda y Custodia de Niñas, Niños y Adolescentes
+(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 8 DE JULIO DE 2026)
+Capítulo Vigésimo Quinto
+Del derecho a participar y acceder a los beneficios del progreso humanístico, científico y tecnológico

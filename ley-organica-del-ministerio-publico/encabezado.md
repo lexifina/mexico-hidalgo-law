@@ -10,7 +10,8 @@ A N T E C E D E N T E
 [...]
 ÚNICO. En sesión ordinaria del 30 de octubre del presente año y por instrucciones de la Presidenta de la Directiva del Congreso, nos fue turnada a esta Comisión que suscribe, la iniciativa mencionada, misma que fue registrada en el Libro de Gobierno de la Comisión, con el número CSCJ/36/2014;
 Por lo que
-C O N S I D E R A N D O…
+C O N S I D E R A N D O
+[...]
 POR TODO LO EXPUESTO, ESTE CONGRESO, HA TENIDO A BIEN EXPEDIR EL SIGUIENTE:
 D E C R E T O
 QUE EXPIDE LA LEY ORGÁNICA DEL MINISTERIO PÚBLICO DEL ESTADO DE HIDALGO.

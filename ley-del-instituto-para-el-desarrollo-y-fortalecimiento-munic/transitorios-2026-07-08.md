@@ -1,0 +1,5 @@
+P.O. 8 DE JULIO DE 2026.
+[N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 574 – LXVI POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE HIDALGO Y DE SU REGLAMENTO, Y SE ACTUALIZA LA DENOMINACIÓN DE LA LEY DEL INSTITUTO PARA EL DESARROLLO Y FORTALECIMIENTO MUNICIPAL DEL ESTADO DE HIDALGO, POR EL DE LEY DEL INSTITUTO PARA EL DESARROLLO, FORTALECIMIENTO MUNICIPAL Y METROPOLITANO DEL ESTADO DE HIDALGO".]
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+SEGUNDO. El Congreso del Estado, por conducto de la Dirección de Servicios Administrativos realizará el cambio de la imagen institucional del Instituto, sin que ello implique erogaciones presupuestales adicionales.
+TERCERO. Todas las disposiciones normativas que hagan referencia al "Instituto para el Desarrollo y Fortalecimiento Municipal del Estado de Hidalgo" se entenderán referidas al "Instituto para el Desarrollo, Fortalecimiento Municipal y Metropolitano del Estado de Hidalgo".

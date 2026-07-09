@@ -1,0 +1,3 @@
+P.O. 8 DE JULIO DE 2026.
+[N. DE E. TRANSITORIO DEL "DECRETO NÚM. 619 – LXVI POR EL QUE SE REFORMA EL VIGÉSIMO SEXTO PÁRRAFO DEL ARTÍCULO 5 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE HIDALGO, EN MATERIA DE DERECHOS DE LA JUVENTUD".]
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
