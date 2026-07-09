@@ -13,7 +13,7 @@ VI.- Coadyuvar con las autoridades educativas en la aplicación de una educació
 VII.- Deberán utilizar los sistemas, mecanismos o dispositivos de control e infiltración de agua pluvial; y
 (REFORMADA, P.O. 17 DE MAYO DE 2024)
 VIII.- Promover el derecho humano al agua;
-(ADICIONADA, P.O. 17 DE MAYO DE 2024)
-IX.- Promover planes y programas para la reforestación, restauración de ecosistemas, la protección de zonas ecológicas, áreas verdes, represas, ollas de agua, lagunas de filtración, pozos de absorción; y
+(REFORMADO, P.O. 8 DE JULIO DE 2026)
+IX.- Promover planes y programas para la reforestación, priorizando el cultivo, y preservación de especies nativas o endémicas, así como la restauración de ecosistemas, la protección de zonas ecológicas, áreas verdes represas, ollas de agua, lagunas de infiltración, pozos de absorción, barrancas; y
 (ADICIONADA, P.O. 17 DE MAYO DE 2024)
 X.- Promover acciones que permitan mejorar la captación de aguas pluviales y el tratamiento de aguas residuales, con el fin de mejorar e incrementar los niveles y calidad del agua de los mantos freáticos en coordinación con la Comisión Nacional del Agua y la Secretaría del Medio Ambiente del Gobierno Federal.
