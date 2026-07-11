@@ -1,0 +1,3 @@
+P.O. 8 DE JULIO DE 2026.
+[N. DE E. TRANSITORIO DEL "DECRETO NÚM. 573 - LXVI POR EL QUE SE ADICIONA LA FRACCIÓN III TER AL ARTÍCULO 14 DE LA LEY DE EDUCACIÓN DEL ESTADO DE HIDALGO, EN MATERIA DE CULTURA DE RESPETO A LAS PERSONAS EN SITUACIÓN DE CALLE".]
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
