@@ -1,0 +1,3 @@
+P.O. 27 DE JULIO DE 2026.
+[N. DE E. TRANSITORIO DEL "DECRETO NÚM. 662 - LXVI POR EL QUE SE REFORMAN Y ADICIONAN DIVERSOS PÁRRAFOS DEL ARTÍCULO 124 DE LA LEY ESTATAL DE AGUA Y ALCANTARILLADO, EN MATERIA DE APOYOS Y SUBSIDIOS".]
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.

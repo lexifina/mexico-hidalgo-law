@@ -7,4 +7,5 @@ IV. El fomento de la participación social para crear comunidades resilientes, y
 V. Incorporación de la gestión integral del riesgo, como aspecto fundamental en la planeación y programación del desarrollo y ordenamiento del estado para revertir el proceso de generación de riesgos;
 VI. El establecimiento de un sistema de certificación de competencias, que garantice un perfil adecuado en el personal responsable de la protección civil a nivel estatal y municipal.
 VII. El conocimiento y la adaptación al cambio climático, y en general a las consecuencias y afectos del calentamiento global provocados por el ser humano y la aplicación de las tecnologías,
-VIII. La atención prioritaria para la población vulnerable.
+(REFORMADA, P.O. 27 DE JULIO DE 2026)
+VIII. La atención prioritaria y diferenciada de la población en situación de vulnerabilidad, preferentemente de las personas con discapacidad y de las personas adultas mayores, garantizando su protección previamente, durante y posterior a emergencias o desastres.
