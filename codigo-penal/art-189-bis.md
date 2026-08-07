@@ -4,8 +4,8 @@ ARTICULO 189 BIS.- Comete el delito de hostigamiento sexual el que con fines las
 Se duplicará la punibilidad prevista en el párrafo anterior:
 (REFORMADA, P.O. 31 DE DICIEMBRE DE 2012)
 I.- Cuando el hostigador se valga de su relación laboral, docente, doméstica o cualquier otra que implique subordinación de la víctima.
-(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2021)
-II.- Cuando la víctima sea menor de edad o persona que no tenga capacidad de comprender el significado del hecho o posibilidad para resistirlo;
+(REFORMADA, P.O. 6 DE AGOSTO DE 2026)
+II.- Cuando la víctima sea una persona con discapacidad, menor de edad o persona que no tenga capacidad de comprender el significado del hecho o posibilidad para resistirlo;
 (REFORMADA, P.O. 20 DE AGOSTO DE 2024)
 III.- Cuando el hostigador sea servidor público y utilice los medios y las circunstancias que el cargo le proporcione, caso en el cual también se le privará del cargo que desempeñe y se le inhabilitará para desempeñar cualquier otro, por el mismo tiempo que dure la pena de prisión impuesta;
 (REFORMADA, P.O. 20 DE AGOSTO DE 2024)

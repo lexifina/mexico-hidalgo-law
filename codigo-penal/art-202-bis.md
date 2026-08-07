@@ -4,8 +4,8 @@ DELITOS CONTRA LA DIGNIDAD DE LAS PERSONAS
 (ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 9 DE OCTUBRE DE 2017)
 CAPITULO UNICO
 DISCRIMINACION
-(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE MARZO DE 2023)
-ARTICULO 202 BIS.- Comete el delito de discriminación quien por razones de origen o identidad indígena o nacional, sexo, identidad de género, preferencia u orientación sexual, edad, discapacidad, condición social o económica, trabajo, profesión, escolaridad, estado de salud, embarazo, lengua, religión, opiniones, estado familiar, identidad política, apariencia física, características genéticas, situación migratoria o de otra índole, que atente contra la dignidad humana, anule o menoscabe los derechos y libertades de otra persona o grupo, a través de la realización de cualquiera de las siguientes conductas:
+(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE AGOSTO DE 2026)
+ARTICULO 202 BIS.- Comete el delito de discriminación quien, por motivos de origen étnico o nacional, identidad indígena o nacional, color de piel, cultura, sexo, género, identidad de género, expresión de género, orientación sexual, edad, discapacidad, condición social o económica, trabajo, profesión, escolaridad, estado de salud, embarazo, lengua, religión, opiniones, estado familiar, identidad política, apariencia física, características genéticas, situación migratoria o de otra índole, que atente contra la dignidad humana, anule o menoscabe los derechos y libertades de otra persona o grupo, a través de la realización de cualquiera de las siguientes conductas:
 (ADICIONADA, P.O. 9 DE OCTUBRE DE 2017)
 I. Niegue o retarde un servicio o una prestación a la que tenga derecho;
 (ADICIONADA, P.O. 9 DE OCTUBRE DE 2017)

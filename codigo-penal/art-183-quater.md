@@ -4,4 +4,7 @@ I. El delito sea cometido por el cónyuge, concubinario o concubina, o por cualq
 II. El delito sea cometido por un servidor público en ejercicio de sus funciones;
 III. El delito sea cometido en contra de una persona que no pueda comprender el significado del hecho o no tenga la posibilidad para resistirlo;
 IV. Se obtenga un beneficio lucrativo o no lucrativo;
-V. A consecuencia de los efectos o impacto del delito, la víctima atente contra su vida o su salud.
+(REFORMADA, P.O. 6 DE AGOSTO DE 2026)
+V. A consecuencia de los efectos o impacto del delito, la víctima atente contra su vida o su salud; o
+(ADICIONADA, P.O. 6 DE AGOSTO DE 2026)
+VI. El pasivo del delito sea una persona con discapacidad.
