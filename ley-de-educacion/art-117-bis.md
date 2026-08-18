@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 17 DE AGOSTO DE 2026)
+Artículo 117 Bis. Las autoridades educativas, en el ámbito de sus respectivas competencias, deberán respetar y garantizar el derecho a la presunción de inocencia de las maestras, los maestros y el personal administrativo en todas las actuaciones administrativas vinculadas con el ejercicio de su función, evitando cualquier trato, medida o comunicación que implique un juicio previo sobre su responsabilidad.

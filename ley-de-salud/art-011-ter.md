@@ -10,5 +10,8 @@ VII.- Proporcionar orientación a la población respecto de la importancia de la
 VIII.- Favorecer el desarrollo de la enseñanza y la investigación científica y tecnológica del sector salud;
 (ADICIONADA, P.O. 10 DE JULIO DE 2025)
 VIII Bis.- Promover el reconocimiento a los conocimientos y desarrollo de la medicina tradicional indígena, de la herbolaria y de la partería tradicional;
-IX.- Fortalecer la integración, operación y evaluación de consejos, comités y comisiones en materia de salud, y
-X.- Las demás que sean necesarias para el cumplimiento de su objetivo, de conformidad con las disposiciones normativas.
+(REFORMADA, P.O. 17 DE AGOSTO DE 2026)
+IX.- Fortalecer la integración, operación y evaluación de consejos, comités y comisiones en materia de salud;
+(REFORMADA [N. DE E. ADICIONADA], P.O. 17 DE AGOSTO DE 2026)
+X.- Incorporar de manera transversal el enfoque de cuidados en las políticas públicas de asistencia social y salud integral; y
+XI.- Las demás que sean necesarias para el cumplimiento de su objetivo, de conformidad con las disposiciones normativas.p

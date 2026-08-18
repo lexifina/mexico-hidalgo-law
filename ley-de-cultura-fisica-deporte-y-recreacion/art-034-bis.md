@@ -1,2 +1,1 @@
-(ADICIONADO, P.O. 21 DE OCTUBRE DE 2022)
-Artículo 34 Bis.- El Instituto Hidalguense del Deporte y los Ayuntamientos conforme a sus atribuciones y competencias, promoverán mecanismos y acciones encaminadas a prevenir la violencia en eventos deportivos y garantizar el desarrollo pacífico en los recintos donde se celebren eventos deportivos y con fines de espectáculo y en sus inmediaciones, así como la seguridad y patrimonio de las personas, en coordinación con las autoridades de Seguridad Pública, Privada y Protección Civil.
+Artículo 34 Bis.- (DEROGADO, P.O. 17 DE AGOSTO DE 2026)
