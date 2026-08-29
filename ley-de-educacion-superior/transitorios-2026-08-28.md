@@ -1,0 +1,3 @@
+P.O. 28 DE AGOSTO DE 2026.
+[N. DE E. TRANSITORIO DEL "DECRETO NÚM. 704 – LXVI POR EL QUE SE ADICIONA UNA FRACCIÓN XVII AL ARTÍCULO 39 DE LA LEY DE EDUCACIÓN SUPERIOR DEL ESTADO DE HIDALGO, EN MATERIA DE PROMOCIÓN DE POLÍTICAS PÚBLICAS".]
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.

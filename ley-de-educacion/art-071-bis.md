@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 28 DE AGOSTO DE 2026)
+Artículo 71 Bis. La Secretaría, en el ámbito de sus atribuciones, promoverá acciones de alfabetización digital dirigidas especialmente a las personas adultas mayores, mediante actividades educativas y de capacitación orientadas al acceso, uso y aprovechamiento seguro de las tecnologías de la información y la comunicación, con el objeto de reducir las brechas digital y generacional y favorecer su integración social y comunitaria.
