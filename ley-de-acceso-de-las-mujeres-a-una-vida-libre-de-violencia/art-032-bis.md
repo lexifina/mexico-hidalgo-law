@@ -18,11 +18,13 @@ En caso de que no haya personal ministerial disponible, el acompañamiento será
 X. Protección policíaca permanente a la mujer, o la niña, así como a su familia;
 XI. Protección por seguridad privada, en los casos que sea necesario;
 XII. Utilización de herramientas tecnológicas que permitan brindar seguridad a las mujeres, o niñas, en situación de violencia; así como a las víctimas indirectas y testigos. Entre las que pueden encontrarse proporcionar un teléfono móvil con contacto directo para brindar auxilio policial, entre otros;
-XIII. Solicitud a la autoridad judicial competente, la suspensión temporal a la persona agresora del régimen de visitas y convivencia con sus descendientes;
+(REFORMADA, P.O. 18 DE SEPTIEMBRE DE 2026)
+XIII. Solicitud a la autoridad judicial competente, la suspensión temporal a la persona agresora del régimen de visitas y convivencia con sus descendientes y si fuera el caso la imposición del régimen de visitas supervisadas;
 XIV. Ordenar la entrega inmediata de objetos de uso personal y documentos de identidad a la mujer en situación de violencia, o niña, y en su caso, a sus hijas e hijos;
 XV. La prohibición a la persona agresora de comunicarse por cualquier medio o por interpósita persona, con la mujer en situación de violencia y, en su caso, de sus hijas e hijos u otras víctimas indirectas;
 XVI. Prohibición a la persona agresora de intimidar o molestar por si, por cualquier medio o interpósita persona, a la mujer en situación de violencia y en su caso sus hijas e hijos u otras víctimas indirectas o testigos de los hechos o cualquier otra persona con quien la mujer tenga una relación familiar, afectiva, de confianza o, de hecho;
-XVII. Resguardar las armas de fuego u objetos utilizados para amenazar o agredir a la mujer, o niña, en situación de violencia;
+(REFORMADA, P.O. 18 DE SEPTIEMBRE DE 2026)
+XVII. Resguardar las armas de fuego u objetos utilizados para amenazar o agredir a la mujer, o niña, en situación de violencia y, en su caso, solicitar a la autoridad competente que se realice el procedimiento de revocación de la licencia de armas de fuego, si existiere;
 (REFORMADA, P.O. 18 DE ABRIL DE 2024)
 XVIII. Solicitar a la autoridad jurisdiccional competente, para garantizar las obligaciones alimentarias, la elaboración de un inventario de los bienes de la persona agresora y su embargo precautorio, el cual deberá inscribirse con carácter temporal en el Registro Público de la Propiedad;
 (REFORMADA, P.O. 26 DE DICIEMBRE DE 2025)
