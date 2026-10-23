@@ -1,0 +1,3 @@
+P.O. 22 DE OCTUBRE DE 2026.
+[N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 733 – LXVI POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL ARTÍCULO 28 BIS DE LA LEY DE TURISMO SUSTENTABLE DEL ESTADO DE HIDALGO".]
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
