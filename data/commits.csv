@@ -1,0 +1,775 @@
+day,kind,law,acts,files,branch
+1920-10-04,start,constitucion-1920-10-01-37,constitucion-politica,102,main
+1924-05-11,law,decreto-1924-05-08-18,constitucion-politica,10,main
+1925-01-19,law,decreto-1925-01-16-3,constitucion-politica,7,main
+1927-05-19,law,decreto-1927-05-16-19,constitucion-politica,9,main
+1927-11-19,law,decreto-1927-11-16-43,constitucion-politica,6,main
+1929-10-08,law,decreto-1929-10-08-7,constitucion-politica,6,main
+1930-03-16,law,decreto-1930-03-16-11,constitucion-politica,8,main
+1931-01-19,law,decreto-1931-01-16-3,constitucion-politica,5,main
+1932-05-04,start,ley-1932-05-01-17,ley-de-expropiacion-por-causa-de-utilidad-publica,22,main
+1932-10-08,law,decreto-1932-10-08-38,constitucion-politica,3,main
+1935-09-11,law,decreto-1935-09-08-34,constitucion-politica,2,main
+1936-03-19,law,decreto-1936-03-16-11,constitucion-politica,3,main
+1936-03-27,law,decreto-1936-03-24-12,constitucion-politica,32,main
+1936-06-19,law,decreto-1936-06-16-23,constitucion-politica,2,main
+1936-06-19,law,decreto-1936-06-16-23-2,constitucion-politica,32,main
+1936-06-19,law,decreto-1936-06-16-23-3,constitucion-politica,32,main
+1937-06-04,law,decreto-1937-06-01-21,constitucion-politica,2,main
+1937-12-19,law,decreto-1937-12-16-47,constitucion-politica,2,main
+1939-01-27,law,decreto-1939-01-24-4,constitucion-politica,2,main
+1940-12-01,start,codigo-1940-10-08-apendice-al-no-38,codigo-civil,3055,main
+1940-12-04,start,codigo-1940-12-01-apendice-al-no-45,codigo-de-procedimientos-civiles,975,main
+1943-02-04,law,decreto-1943-02-01-5,constitucion-politica,2,main
+1944-04-04,law,decreto-1944-04-01-13,constitucion-politica,2,main
+1944-05-11,law,decreto-1944-05-08-18,constitucion-politica,7,main
+1945-01-04,law,decreto-1945-01-01-1,codigo-civil,4,main
+1945-04-04,law,decreto-1945-04-01-13,constitucion-politica,4,main
+1946-06-19,law,decreto-1946-06-16-23,constitucion-politica,2,main
+1946-09-08,law,decreto-1946-09-08-34,constitucion-politica,3,main
+1947-11-16,law,decreto-1947-11-16-43,constitucion-politica,2,main
+1948-03-10,law,decreto-1948-02-24-8,constitucion-politica,17,main
+1948-09-19,law,decreto-1948-09-16-35,constitucion-politica,4,main
+1948-11-08,law,decreto-1948-11-08-42,constitucion-politica,2,main
+1948-11-08,law,decreto-1948-11-08-42-2,constitucion-politica,5,main
+1952-02-24,law,decreto-1952-02-24-8,constitucion-politica,2,main
+1952-02-24,law,decreto-1952-02-24-8-2,constitucion-politica,2,main
+1953-04-11,law,decreto-1953-04-01-13,constitucion-politica,2,main
+1953-08-07,law,decreto-1953-07-08-26,constitucion-politica,3,main
+1953-10-18,law,decreto-1953-10-08-38,constitucion-politica,2,main
+1953-11-24,law,decreto-1953-11-24-44,constitucion-politica,3,main
+1953-12-24,law,decreto-1953-12-24-48,constitucion-politica,3,main
+1954-05-24,law,decreto-1954-05-24-20,constitucion-politica,4,main
+1957-01-01,start,ley-1957-01-01-suplemento-al-num-1,ley-de-prestamos-compensaciones-por-retiro-y-jubilaciones,53,main
+1957-01-08,law,decreto-1957-01-08-2,constitucion-politica,2,main
+1960-11-04,law,decreto-1960-11-01-41,constitucion-politica,5,main
+1961-06-08,law,decreto-1961-06-08-22,constitucion-politica,2,main
+1961-12-16,start,ley-1961-12-16-47,ley-de-fomento-y-proteccion-a-la-zona-tipica-de-atotonilco-e,27,main
+1970-01-01,law,decreto-1969-11-08-42,constitucion-politica,2,main
+1970-01-15,law,decreto-1970-01-08-2,constitucion-politica,2,main
+1970-02-01,law,decreto-1970-02-01-5-suplemento-seccion-segunda,constitucion-politica,33,main
+1971-12-01,law,decreto-1971-12-01-45,constitucion-politica,2,main
+1972-06-16,start,ley-1971-12-16-suplemento-al-no-47,ley-de-ejecucion-de-penas,72,main
+1973-06-03,law,decreto-1973-06-01-21,constitucion-politica,2,main
+1973-12-24,law,decreto-1973-12-24-48,constitucion-politica,4,main
+1975-03-01,law,decreto-1975-03-01-9,constitucion-politica,6,main
+1975-03-24,law,decreto-1975-03-24-12,constitucion-politica,2,main
+1975-09-16,law,decreto-1975-09-15-alcance-al-no-35,constitucion-politica,12,main
+1976-06-27,law,decreto-1976-06-24-24,constitucion-politica,2,main
+1978-04-27,law,decreto-1978-04-24-16,constitucion-politica,8,main
+1978-07-01,law,decreto-1978-07-01-25,constitucion-politica,4,main
+1979-11-04,law,decreto-1979-11-01-suplemento-al-no-41,constitucion-politica,161,main
+1981-01-17,law,decreto-1981-01-16-3,ley-de-prestamos-compensaciones-por-retiro-y-jubilaciones,31,main
+1981-03-24,law,decreto-1981-03-24-12,constitucion-politica,5,main
+1981-06-02,law,decreto-1981-06-01-21,constitucion-politica,2,main
+1982-01-01,law,decreto-1981-12-31-49,constitucion-politica,15,main
+1982-03-24,law,decreto-1982-03-24-12,constitucion-politica,3,main
+1982-05-17,law,decreto-1982-05-16-19,constitucion-politica,2,main
+1982-07-01,law,decreto-1982-06-01-21,codigo-de-procedimientos-civiles,6,main
+1982-11-19,law,decreto-1982-11-16-44,codigo-civil,2,main
+1983-01-03,law,decreto-1982-12-31,constitucion-politica,2,main
+1983-07-02,law,decreto-1983-07-01-28,codigo-civil,2,main
+1983-08-09,law,decreto-1983-08-08-33,codigo-civil,2,main
+1983-08-17,law,decreto-1983-08-16-34,constitucion-politica,9,main
+1983-11-08,law,decreto-1983-11-08-45,codigo-civil,777,main
+1984-01-27,law,decreto-1983-12-28-57,codigo-civil,2,main
+1984-06-09,start,ley-1984-06-08-26,ley-de-responsabilidades-de-los-servidores-publicos,92,main
+1984-06-09,law,decreto-1984-06-08-26,constitucion-politica,7,main
+1986-07-19,law,decreto-1986-07-16-27,constitucion-politica,2,main
+1986-12-23,law,decreto-1986-12-08-46,codigo-civil,42,main
+1987-01-04,law,decreto-1987-01-01-1,codigo-civil,3,main
+1987-01-17,law,decreto-1987-01-16-3,constitucion-politica,89,main
+1987-09-25,law,decreto-1987-09-24-37,constitucion-politica,17,main
+1987-10-02,law,decreto-1987-10-01-38,constitucion-politica,20,main
+1987-11-13,law,decreto-1987-11-12-44,constitucion-politica,3,main
+1988-01-01,start,ley-1987-12-31-51,ley-de-los-trabajadores-al-servicio-de-los-gobiernos-estatal,156,main
+1988-06-17,law,decreto-1988-06-16-23,constitucion-politica,2,main
+1990-01-01,start,ley-1989-12-30-49-alcance,ley-de-coordinacion-fiscal,20,main
+1990-07-09,start,codigo-1990-06-09-alcance-al-no-22,codigo-penal,352,main
+1991-01-01,law,decreto-1990-12-29-49,ley-de-coordinacion-fiscal,5,main
+1991-03-26,law,decreto-1991-03-25-12,constitucion-politica,5,main
+1991-03-28,start,ley-1991-03-25-alcance-al-no-12,ley-de-bienes,74,main
+1991-06-29,law,decreto-1991-06-28-25,codigo-civil,5,main
+1991-10-24,law,decreto-1991-10-23-41,constitucion-politica,6,main
+1992-01-01,law,decreto-1991-12-27-50-alcance,ley-de-coordinacion-fiscal,6,main
+1992-05-19,law,decreto-1992-05-18-20,codigo-civil,84,main
+1992-06-02,law,decreto-1992-05-18-20,codigo-de-procedimientos-civiles,95,main
+1992-06-23,law,decreto-1992-06-22-alcance-al-no-25,constitucion-politica,2,main
+1992-07-07,start,ley-1992-07-06-27,ley-organica-del-colegio-de-estudios-cientificos-y-tecnologi,23,main
+1992-07-21,law,decreto-1992-07-20-29,constitucion-politica ley-de-responsabilidades-de-los-servidores-publicos,5,main
+1993-09-07,law,decreto-1993-09-06-36,constitucion-politica,11,main
+1994-01-01,law,decreto-1993-12-31-53,ley-de-coordinacion-fiscal,3,main
+1995-01-01,law,decreto-1994-12-30-53,ley-de-coordinacion-fiscal,3,main
+1995-08-03,law,decreto-1995-08-02-32,constitucion-politica,17,main
+1995-11-15,law,decreto-1995-11-14-48,constitucion-politica,17,main
+1995-12-05,law,decreto-1995-12-04-52,codigo-penal,9,main
+1996-01-01,law,decreto-1995-12-29-59,ley-de-coordinacion-fiscal,9,main
+1997-01-01,law,decreto-1996-12-31-54,ley-de-coordinacion-fiscal,2,main
+1997-01-21,law,decreto-1997-01-20-3,ley-de-responsabilidades-de-los-servidores-publicos,2,main
+1998-01-02,law,decreto-1997-12-30-53,ley-de-coordinacion-fiscal,8,main
+1998-05-10,law,decreto-1998-05-09-19,constitucion-politica,20,main
+1999-01-01,law,decreto-1998-12-31-55,ley-de-coordinacion-fiscal,2,main
+1999-03-23,law,decreto-1999-03-22-14,codigo-penal,4,main
+1999-03-23,law,decreto-1999-03-22-14-2,codigo-penal,152,main
+1999-04-01,law,decreto-1999-03-29-15-bis,constitucion-politica,2,main
+1999-12-31,start,ley-1999-12-30-56,ley-estatal-de-agua-y-alcantarillado,179,main
+1999-12-31,law,decreto-1999-12-30-56,codigo-civil codigo-de-procedimientos-civiles,34,main
+2000-01-01,law,decreto-1999-12-31-57,ley-de-coordinacion-fiscal,2,main
+2000-07-04,law,decreto-2000-07-03-27,codigo-civil codigo-de-procedimientos-civiles,24,main
+2001-01-01,start,codigo-2000-12-30-53,codigo-fiscal,238,main
+2001-01-01,law,decreto-2000-12-30-53,ley-de-coordinacion-fiscal,5,main
+2001-02-27,law,decreto-2001-02-26-9,constitucion-politica,61,main
+2002-01-01,start,ley-2001-12-31-alcance-al-no-54,ley-del-ejercicio-profesional,83,main
+2002-01-01,law,decreto-2001-12-31-55,codigo-fiscal,30,main
+2002-01-03,law,decreto-2001-12-31-55,ley-de-coordinacion-fiscal,5,main
+2002-01-29,law,decreto-2002-01-14-2,codigo-penal,40,main
+2002-12-10,law,decreto-2002-12-09-50,constitucion-politica,3,main
+2002-12-10,law,decreto-2002-12-09-50-2,constitucion-politica,2,main
+2002-12-31,start,ley-2002-12-30-53-alcance,ley-estatal-del-procedimiento-administrativo,99,main
+2003-01-01,law,codigo-2002-12-31-54,codigo-fiscal,75,main
+2003-01-01,law,ley-2002-12-31-54,ley-de-coordinacion-fiscal,4,main
+2003-04-01,law,decreto-2003-03-31-13,constitucion-politica,2,main
+2003-08-12,start,ley-2003-08-11-32,ley-de-obras-publicas,116,main
+2003-08-12,law,decreto-2003-08-11-32,constitucion-politica,2,main
+2003-08-12,law,decreto-2003-08-11-32-2,constitucion-politica,3,main
+2004-01-01,start,ley-2003-12-31-53,ley-de-hacienda,95,main
+2004-01-01,law,decreto-2003-12-31-53,codigo-fiscal ley-de-coordinacion-fiscal,65,main
+2004-04-20,law,decreto-2004-04-19-16,constitucion-politica codigo-penal,21,main
+2004-06-08,law,decreto-2004-06-07-23,ley-de-los-trabajadores-al-servicio-de-los-gobiernos-estatal,3,main
+2004-08-31,start,ley-2004-08-30-35-bis,ley-de-salud,210,main
+2004-09-07,law,decreto-2004-09-06-36,codigo-civil,2,main
+2005-01-01,law,decreto-2004-12-31-53,codigo-fiscal,16,main
+2005-01-01,law,decreto-2004-12-31-53-tomo-i,ley-de-coordinacion-fiscal ley-de-hacienda,34,main
+2005-03-01,start,ley-2005-02-28-9-bis,ley-de-proteccion-y-trato-digno-para-los-animales-en-el-esta,109,main
+2005-03-29,law,decreto-2005-03-28-13,codigo-penal ley-de-ejecucion-de-penas,15,main
+2005-12-31,law,decreto-2005-12-30-54-bis,codigo-penal,2,main
+2006-01-01,law,codigo-2005-12-30-54,codigo-fiscal,71,main
+2006-01-01,law,decreto-2005-12-30-54-tomo-i,ley-de-hacienda,39,main
+2006-01-02,law,decreto-2005-12-30-54-tomo-i,ley-de-coordinacion-fiscal,8,main
+2006-05-09,law,decreto-2006-05-08-19-alcance,constitucion-politica,8,main
+2006-05-09,law,decreto-2006-05-08-19-alcance-2,constitucion-politica,5,main
+2006-07-04,start,ley-2006-07-03-27,ley-de-desarrollo-pecuario,137,main
+2006-07-04,start,ley-2006-07-03-27,ley-de-poblacion,34,main
+2006-07-04,law,decreto-2006-07-03-27-alcance,codigo-penal,2,main
+2006-07-18,law,decreto-2006-07-17-29,constitucion-politica,13,main
+2006-08-08,start,ley-2006-08-07-alcance-al-no-32,ley-de-desarrollo-agricola-sustentable,106,main
+2006-10-06,start,ley-2006-08-07-alcance-al-no-32,ley-de-desarrollo-forestal-sustentable,162,main
+2006-12-30,start,ley-2006-12-29-53-bis,ley-de-desarrollo-social,88,main
+2007-01-01,law,decreto-2006-12-29-53,codigo-fiscal ley-de-coordinacion-fiscal ley-de-hacienda,51,main
+2007-03-16,law,decreto-2007-03-15-11-alcance,constitucion-politica,2,main
+2007-03-16,law,decreto-2007-03-15-11-alcance-2,constitucion-politica,3,main
+2007-03-16,law,decreto-2007-03-15-11-alcance-3,constitucion-politica,3,main
+2007-04-24,law,decreto-2007-04-23-17,constitucion-politica,7,main
+2007-04-24,law,decreto-2007-04-23-17-alcance,constitucion-politica,8,main
+2007-05-14,law,decreto-2007-05-11-19-alcance,codigo-penal,11,main
+2007-06-08,start,codigo-2007-04-09-15,codigo-de-procedimientos-familiares,603,main
+2007-06-08,law,ley-2007-04-09-15,codigo-civil,40,main
+2007-07-03,start,ley-2007-07-02-27,ley-del-colegio-de-bachilleres,29,main
+2007-09-18,start,ley-2007-09-17-38-alcance,ley-de-asentamientos-humanos-desarrollo-urbano-y-ordenamient,207,main
+2007-11-27,law,decreto-2007-11-26-48,codigo-penal,3,main
+2008-01-01,start,ley-2007-12-31-53-bis-dos,ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia,59,main
+2008-01-01,start,ley-2007-12-31-53-alcance-uno,ley-de-fomento-y-desarrollo-economico,66,main
+2008-01-01,law,decreto-2007-12-31-53,codigo-fiscal ley-de-coordinacion-fiscal ley-de-hacienda,57,main
+2008-01-01,law,decreto-2007-12-31-53-bis-dos,codigo-penal,6,main
+2008-01-01,law,decreto-2007-12-31-alcance-53,constitucion-politica,8,main
+2008-03-11,start,ley-2008-03-10-10-bis,ley-del-periodico-oficial,23,main
+2008-03-11,law,decreto-2008-03-10-10-bis,codigo-penal ley-de-responsabilidades-de-los-servidores-publicos,8,main
+2008-04-22,law,decreto-2008-04-21-16-alcance,codigo-penal,2,main
+2008-04-22,law,decreto-2008-04-21-16-alcance-2,codigo-penal,4,main
+2008-09-23,start,ley-2008-09-22-39,ley-organica-de-la-universidad-tecnologica-de-tula-tepeji,42,main
+2008-10-14,law,decreto-2008-10-13-42,ley-de-salud,3,main
+2008-12-02,law,decreto-2008-12-01-49,ley-de-responsabilidades-de-los-servidores-publicos,2,main
+2008-12-23,law,decreto-2008-12-22-52-alcance,ley-de-coordinacion-fiscal,2,main
+2009-01-01,law,decreto-2008-12-31-54,ley-de-coordinacion-fiscal ley-de-hacienda,7,main
+2009-01-01,law,decreto-2008-12-31-54-tomo-i,codigo-fiscal,9,main
+2009-03-01,start,ley-2008-12-31-54-alcance-uno,ley-de-cultura-fisica-deporte-y-recreacion,194,main
+2009-04-03,law,decreto-2009-03-31-13-alcance,constitucion-politica,3,main
+2009-05-26,law,decreto-2009-05-25-21,ley-de-responsabilidades-de-los-servidores-publicos,2,main
+2009-05-28,law,decreto-2009-05-25-21,ley-de-desarrollo-social,3,main
+2009-06-16,law,decreto-2009-06-15-24-alcance,ley-estatal-del-procedimiento-administrativo,13,main
+2009-08-11,start,ley-2009-08-10-32-alcance,ley-de-coordinacion-para-el-desarrollo-metropolitano,31,main
+2009-09-22,law,decreto-2009-09-21-38,constitucion-politica,10,main
+2009-10-07,law,decreto-2009-10-06-40-bis,constitucion-politica,14,main
+2009-10-13,law,decreto-2009-10-12-41-bis,ley-de-responsabilidades-de-los-servidores-publicos,2,main
+2009-12-08,start,ley-2009-12-07-49,ley-de-prevencion-del-delito,31,main
+2009-12-15,law,decreto-2009-12-14-50,constitucion-politica,4,main
+2010-01-01,law,decreto-2009-12-31-53-alcance-uno,codigo-civil,24,main
+2010-01-01,law,decreto-2009-12-31-53-tomo-i,codigo-fiscal ley-de-coordinacion-fiscal ley-de-hacienda,21,main
+2010-04-13,start,ley-2010-04-12-15,ley-de-los-derechos-de-las-personas-adultas-mayores-antes-le,38,main
+2010-04-20,law,decreto-2010-04-19-16,ley-de-coordinacion-para-el-desarrollo-metropolitano,6,main
+2010-04-20,law,decreto-2010-04-19-16-alcance,constitucion-politica,2,main
+2010-05-25,law,decreto-2010-05-24-21,ley-de-cultura-fisica-deporte-y-recreacion,3,main
+2010-06-08,start,ley-2010-06-07-23,ley-de-proteccion-contra-los-efectos-nocivos-del-tabaco,41,main
+2010-06-08,law,decreto-2010-06-07-23,constitucion-politica ley-de-desarrollo-social,4,main
+2010-07-24,start,ley-2010-01-25-4-alcance,ley-del-notariado,201,main
+2010-08-20,law,decreto-2010-08-09-32-bis,ley-de-ejecucion-de-penas ley-de-salud,17,main
+2010-10-05,law,decreto-2010-10-04-40,codigo-penal,7,main
+2010-10-19,law,decreto-2010-10-18-42,ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia,24,main
+2010-11-16,law,decreto-2010-11-15-46,codigo-penal,16,main
+2010-12-14,law,decreto-2010-12-13-50,ley-de-asentamientos-humanos-desarrollo-urbano-y-ordenamient ley-de-desarrollo-agricola-sustentable ley-de-desarrollo-forestal-sustentable ley-de-desarrollo-pecuario ley-de-expropiacion-por-causa-de-utilidad-publica ley-de-proteccion-y-trato-digno-para-los-animales-en-el-esta ley-de-salud ley-estatal-de-agua-y-alcantarillado,174,main
+2011-01-01,start,ley-2010-12-31-53-alcance,ley-de-derechos-y-cultura-indigena,39,main
+2011-01-01,start,ley-2010-12-31-53-alcance,ley-integral-para-las-personas-con-discapacidad,105,main
+2011-01-01,law,decreto-2010-12-31-53-alcance,codigo-penal,10,main
+2011-01-01,law,decreto-2010-12-31-53-tomo-i,codigo-fiscal ley-de-coordinacion-fiscal ley-de-hacienda,21,main
+2011-01-25,start,ley-2011-01-24-4-alcance,ley-de-prevencion-y-gestion-integral-de-residuos,116,main
+2011-02-08,start,ley-2011-02-07-6,ley-de-procesos-productivos-eficientes,45,main
+2011-02-15,law,decreto-2011-02-14-7,constitucion-politica,2,main
+2011-02-15,law,decreto-2011-02-14-7-2,constitucion-politica,2,main
+2011-02-15,law,decreto-2011-02-14-7-3,constitucion-politica,2,main
+2011-02-15,law,decreto-2011-02-14-7-4,constitucion-politica,3,main
+2011-02-28,law,fe-de-erratas-2011-02-28-9,codigo-fiscal ley-de-coordinacion-fiscal ley-de-hacienda,6,main
+2011-03-24,law,decreto-2011-03-21-12,constitucion-politica,4,main
+2011-03-24,law,decreto-2011-03-21-12-2,constitucion-politica,8,main
+2011-04-01,law,decreto-2011-03-31-13-alcance-dos,codigo-penal,3,main
+2011-04-18,law,fe-de-erratas-2011-04-18-16,codigo-fiscal ley-de-coordinacion-fiscal ley-de-hacienda,5,main
+2011-05-15,start,ley-2011-02-14-7,ley-de-voluntad-anticipada,46,main
+2011-05-30,law,decreto-2011-03-31-13-bis-uno,codigo-de-procedimientos-familiares,81,main
+2011-05-30,law,decreto-2011-03-31-13-alcance-dos,codigo-civil,9,main
+2011-06-14,law,decreto-2011-06-13-24,ley-organica-de-la-universidad-tecnologica-de-tula-tepeji,10,main
+2011-07-19,start,ley-2011-07-18-29-alcance,ley-de-vivienda,92,main
+2011-09-20,law,decreto-2011-09-19-38,constitucion-politica,3,main
+2011-11-22,start,ley-2011-11-21-47-alcance,ley-de-hacienda-para-los-municipios,196,main
+2011-12-06,start,ley-2011-12-05-49-alcance,ley-de-derechos-humanos,133,main
+2011-12-06,start,ley-2011-12-05-49-alcance,ley-de-proteccion-civil,87,main
+2011-12-08,start,ley-2011-12-05-49-alcance,ley-del-instituto-para-el-desarrollo-y-fortalecimiento-munic,32,main
+2012-01-01,start,codigo-2011-11-21-47-alcance,codigo-fiscal-municipal,285,main
+2012-01-01,law,decreto-2011-12-31-53,codigo-fiscal ley-de-coordinacion-fiscal ley-de-hacienda,451,main
+2012-01-01,law,decreto-2011-12-31-53-alcance,constitucion-politica,7,main
+2012-01-23,law,fe-de-erratas-2012-01-23-4,codigo-fiscal ley-de-coordinacion-fiscal ley-de-hacienda,12,main
+2012-01-30,law,fe-de-erratas-2012-01-30-5,codigo-fiscal ley-de-coordinacion-fiscal ley-de-hacienda,6,main
+2012-02-06,law,fe-de-erratas-2012-02-06-6,codigo-fiscal ley-de-coordinacion-fiscal ley-de-hacienda,6,main
+2012-03-19,law,fe-de-erratas-2012-03-19-12,codigo-fiscal ley-de-coordinacion-fiscal ley-de-hacienda,10,main
+2012-03-26,law,fe-de-erratas-2012-03-26-13,codigo-fiscal ley-de-coordinacion-fiscal ley-de-hacienda,291,main
+2012-05-22,law,decreto-2012-05-21-21,ley-de-hacienda-para-los-municipios,3,main
+2012-07-24,law,decreto-2012-07-23-30,ley-de-proteccion-contra-los-efectos-nocivos-del-tabaco,3,main
+2012-07-31,start,ley-2012-07-30-31-alcance,ley-de-asistencia-social,78,main
+2012-07-31,start,ley-2012-07-30-31-alcance,ley-del-instituto-hidalguense-de-financiamiento-a-la-educaci,16,main
+2012-08-06,law,fe-de-erratas-2012-08-06-32,ley-de-asistencia-social,2,main
+2012-08-28,start,ley-2012-08-27-35,ley-de-fomento-para-la-lectura-y-el-libro,23,main
+2012-08-28,start,ley-2012-08-27-35,ley-de-propiedad-en-condominio-de-inmuebles,87,main
+2012-08-28,start,ley-2012-08-27-35,ley-de-proteccion-a-personas-defensoras-de-derechos-humanos,39,main
+2012-08-28,law,decreto-2012-08-27-35,ley-de-asentamientos-humanos-desarrollo-urbano-y-ordenamient,71,main
+2012-09-11,law,decreto-2012-09-10-37-alcance,constitucion-politica,2,main
+2012-09-11,law,decreto-2012-09-10-37-alcance-2,constitucion-politica,15,main
+2012-10-23,law,decreto-2012-10-22-43,ley-de-cultura-fisica-deporte-y-recreacion ley-de-derechos-humanos ley-de-desarrollo-social ley-de-fomento-y-desarrollo-economico ley-de-hacienda ley-de-los-derechos-de-las-personas-adultas-mayores-antes-le ley-de-los-trabajadores-al-servicio-de-los-gobiernos-estatal ley-de-poblacion ley-de-proteccion-y-trato-digno-para-los-animales-en-el-esta ley-de-vivienda,51,main
+2012-11-27,law,decreto-2012-11-26-48,constitucion-politica ley-de-salud,80,main
+2012-12-11,start,ley-2012-12-10-50,ley-de-turismo-sustentable,91,main
+2012-12-11,law,decreto-2012-12-10-50,ley-de-los-trabajadores-al-servicio-de-los-gobiernos-estatal,4,main
+2013-01-01,law,decreto-2012-12-31-53-alcance,codigo-penal ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia ley-de-responsabilidades-de-los-servidores-publicos,114,main
+2013-01-01,law,decreto-2012-12-31-53-tomo-i,codigo-fiscal codigo-fiscal-municipal ley-de-coordinacion-fiscal ley-de-hacienda ley-de-hacienda-para-los-municipios,392,main
+2013-01-28,law,fe-de-erratas-2013-01-28-4,codigo-fiscal codigo-fiscal-municipal ley-de-coordinacion-fiscal ley-de-hacienda ley-de-hacienda-para-los-municipios,12,main
+2013-02-26,start,ley-2013-02-25-8,ley-del-instituto-catastral,29,main
+2013-02-26,law,decreto-2013-02-25-8,constitucion-politica,7,main
+2013-02-26,law,decreto-2013-02-25-8-alcance,ley-de-los-trabajadores-al-servicio-de-los-gobiernos-estatal,4,main
+2013-03-26,start,ley-2013-03-25-12,ley-de-obras-publicas-y-servicios-relacionados-con-las-misma,109,main
+2013-03-26,law,decreto-2013-03-25-12,ley-de-prevencion-del-delito,3,main
+2013-04-02,law,decreto-2013-04-01-13-alcance,codigo-penal,34,main
+2013-04-09,law,decreto-2013-04-08-14-alcance,codigo-penal,9,main
+2013-04-09,law,decreto-2013-04-08-14-alcance-2,codigo-penal,2,main
+2013-04-23,start,ley-2013-04-22-16,ley-de-becas,33,main
+2013-04-30,start,ley-2013-04-29-17,ley-de-fomento-cooperativo,26,main
+2013-04-30,law,decreto-2013-04-29-17-alcance,ley-de-responsabilidades-de-los-servidores-publicos,6,main
+2013-05-14,law,decreto-2013-05-13-19,codigo-civil ley-estatal-de-agua-y-alcantarillado,14,main
+2013-05-28,law,decreto-2013-05-27-21,ley-de-desarrollo-social,4,main
+2013-07-02,law,decreto-2013-07-01-26-alcance,ley-de-cultura-fisica-deporte-y-recreacion,2,main
+2013-07-23,law,decreto-2013-07-22-29,ley-de-fomento-y-desarrollo-economico,7,main
+2013-07-30,start,ley-2013-07-29-30-alcance,ley-de-entidades-paraestatales,67,main
+2013-08-06,law,decreto-2013-08-05-31,codigo-penal,3,main
+2013-08-20,law,decreto-2013-08-19-33,ley-de-cultura-fisica-deporte-y-recreacion ley-de-fomento-para-la-lectura-y-el-libro ley-de-turismo-sustentable,40,main
+2013-08-27,start,ley-2013-08-26-34,ley-de-mitigacion-y-adaptacion-ante-los-efectos-del-cambio-c,87,main
+2013-09-03,start,ley-2013-09-02-35-alcance,ley-de-albergues-privados-para-personas-adultas-mayores,58,main
+2013-09-03,start,ley-2013-09-02-35,ley-de-catastro,92,main
+2013-09-03,start,ley-2013-09-02-35,ley-de-mecanismos-alternativos-de-solucion-de-controversias,80,main
+2013-09-03,start,ley-2013-09-02-35-alcance,ley-de-seguridad-privada,80,main
+2013-09-03,law,decreto-2013-09-02-35-alcance,ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia ley-de-los-derechos-de-las-personas-adultas-mayores-antes-le ley-de-salud ley-de-vivienda ley-de-voluntad-anticipada,49,main
+2013-09-03,law,decreto-2013-09-02-35-bis,constitucion-politica,6,main
+2014-01-01,start,ley-2013-12-31-53-alcance,ley-de-control-vehicular,44,main
+2014-01-01,law,decreto-2013-12-31-53-alcance,ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia,2,main
+2014-01-01,law,decreto-2013-12-31-53-tomo-i,codigo-fiscal codigo-fiscal-municipal ley-de-coordinacion-fiscal ley-de-hacienda ley-de-hacienda-para-los-municipios ley-estatal-de-agua-y-alcantarillado,127,main
+2014-01-03,start,ley-2013-12-31-53-tomo-i,ley-del-sistema-de-administracion-tributaria,26,main
+2014-02-25,law,decreto-2014-02-24-8,constitucion-politica,2,main
+2014-03-04,law,decreto-2014-03-03-9,constitucion-politica,2,main
+2014-03-04,law,fe-de-erratas-2014-03-03-9,constitucion-politica,2,main
+2014-03-25,start,ley-2014-03-24-12-tomo-i,ley-de-derechos-linguisticos,28,main
+2014-03-25,law,decreto-2014-03-24-12-tomo-i,ley-de-derechos-y-cultura-indigena,71,main
+2014-04-28,law,fe-de-erratas-2014-04-28-17-alcance,constitucion-politica,2,main
+2014-05-20,law,decreto-2014-05-19-20,ley-organica-de-la-universidad-tecnologica-de-tula-tepeji,9,main
+2014-06-17,law,decreto-2014-06-16-24,constitucion-politica,3,main
+2014-07-01,law,decreto-2014-06-30-26-alcance,constitucion-politica,2,main
+2014-07-17,start,ley-2014-07-14-27,ley-de-regulacion-de-desarrollos-industriales,21,main
+2014-07-29,law,decreto-2014-07-28-30,constitucion-politica,12,main
+2014-10-28,start,ley-2014-10-27-43,ley-de-presupuesto-y-contabilidad-gubernamental,107,main
+2014-10-28,law,decreto-2014-10-27-43,ley-de-coordinacion-fiscal,4,main
+2014-11-04,law,decreto-2014-11-03-44,constitucion-politica,9,main
+2014-11-06,law,decreto-2014-11-03-44,codigo-penal,5,main
+2014-11-11,start,ley-2014-11-10-45-alcance,ley-organica-del-instituto-de-defensoria-publica,52,main
+2014-11-18,start,ley-2014-11-10-45-alcance,ley-de-seguridad-publica,204,main
+2014-11-18,start,ley-2014-11-10-45-alcance,ley-organica-del-ministerio-publico,53,main
+2014-11-18,law,decreto-2014-11-10-45-alcance,codigo-penal ley-de-mecanismos-alternativos-de-solucion-de-controversias,33,main
+2014-11-18,law,decreto-2014-11-17-46,ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia ley-del-instituto-hidalguense-de-financiamiento-a-la-educaci,19,main
+2014-12-23,law,decreto-2014-12-22-51-alcance-dos,constitucion-politica ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia ley-de-los-trabajadores-al-servicio-de-los-gobiernos-estatal,9,main
+2014-12-23,law,decreto-2014-12-22-51-alcance,constitucion-politica,15,main
+2014-12-25,start,codigo-2014-12-22-51-alcance,codigo-electoral,439,main
+2014-12-29,law,fe-de-erratas-2014-12-29-52-alcance,ley-de-seguridad-publica ley-organica-del-ministerio-publico,19,main
+2015-01-01,law,decreto-2014-12-22-51,codigo-fiscal codigo-fiscal-municipal ley-de-control-vehicular ley-de-coordinacion-fiscal ley-de-hacienda ley-de-hacienda-para-los-municipios ley-del-instituto-catastral ley-del-sistema-de-administracion-tributaria,62,main
+2015-02-02,law,fe-de-erratas-2015-02-02-5-alcance,codigo-fiscal codigo-fiscal-municipal ley-de-control-vehicular ley-de-coordinacion-fiscal ley-de-hacienda ley-de-hacienda-para-los-municipios ley-del-instituto-catastral ley-del-sistema-de-administracion-tributaria,108,main
+2015-02-17,start,ley-2015-02-16-7,ley-de-participacion-ciudadana,68,main
+2015-02-17,law,decreto-2015-02-16-7,constitucion-politica,2,main
+2015-03-16,law,fe-de-erratas-2015-03-16-11,ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia ley-de-los-trabajadores-al-servicio-de-los-gobiernos-estatal,3,main
+2015-03-22,law,decreto-2014-12-22-51-alcance-dos,ley-del-periodico-oficial,9,main
+2015-03-24,law,decreto-2015-03-23-12,ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia,4,main
+2015-03-31,law,decreto-2015-03-30-13,ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia,4,main
+2015-04-06,law,fe-de-erratas-2015-04-06-14,codigo-fiscal codigo-fiscal-municipal ley-de-control-vehicular ley-de-coordinacion-fiscal ley-de-hacienda ley-de-hacienda-para-los-municipios ley-del-instituto-catastral ley-del-sistema-de-administracion-tributaria,96,main
+2015-04-21,start,ley-2015-04-20-16,ley-de-los-derechos-de-ninas-ninos-y-adolescentes,146,main
+2015-04-21,start,decreto-2014-12-22-51-alcance-dos,ley-del-registro-publico-de-la-propiedad,207,main
+2015-04-21,law,ley-2014-12-22-51-alcance-dos,codigo-civil,84,main
+2015-04-21,law,decreto-2015-02-16-7,ley-del-registro-publico-de-la-propiedad,29,main
+2015-05-02,law,decreto-2015-05-01-17-alcance,ley-de-responsabilidades-de-los-servidores-publicos,15,main
+2015-05-26,start,ley-2015-05-25-21,ley-de-prestacion-de-servicios-para-la-atencion-cuidado-prot,76,main
+2015-05-26,law,decreto-2015-05-25-21,ley-de-los-derechos-de-las-personas-adultas-mayores-antes-le,3,main
+2015-06-30,law,decreto-2015-06-29-26,ley-de-desarrollo-agricola-sustentable,12,main
+2015-07-14,law,decreto-2015-07-13-28-alcance-uno,ley-de-los-derechos-de-ninas-ninos-y-adolescentes ley-del-ejercicio-profesional,11,main
+2015-07-15,law,decreto-2015-07-14-28-alcance,codigo-electoral,3,main
+2015-07-28,law,decreto-2015-07-27-30,ley-de-hacienda-para-los-municipios ley-de-los-derechos-de-las-personas-adultas-mayores-antes-le,7,main
+2015-08-11,start,ley-2015-08-10-32,ley-de-pesca-y-acuacultura-sustentable,165,main
+2015-08-11,start,ley-2015-07-27-30,ley-de-proteccion-salvaguarda-y-explotacion-de-la-abeja,62,main
+2015-08-11,law,decreto-2015-08-10-32,ley-de-proteccion-y-trato-digno-para-los-animales-en-el-esta,3,main
+2015-09-12,law,decreto-2015-09-11-36-alcance,constitucion-politica codigo-electoral,11,main
+2015-09-17,start,ley-2015-09-14-37,ley-de-adquisiciones-arrendamientos-y-servicios-del-sector-p,103,main
+2015-09-22,law,decreto-2015-09-21-38,constitucion-politica,2,main
+2015-09-22,law,decreto-2015-09-21-38-2,constitucion-politica,5,main
+2015-10-13,start,ley-2015-10-12-41,ley-de-entrega-recepcion-de-los-recursos-publicos,37,main
+2015-11-17,law,decreto-2015-11-16-46,ley-de-fomento-y-desarrollo-economico ley-de-seguridad-publica ley-organica-del-ministerio-publico,34,main
+2015-12-01,law,decreto-2015-11-30-48,ley-de-turismo-sustentable,7,main
+2015-12-08,law,decreto-2015-12-07-49,ley-de-responsabilidades-de-los-servidores-publicos,30,main
+2015-12-10,law,decreto-2015-12-07-49,codigo-de-procedimientos-civiles,18,main
+2015-12-15,start,ley-2015-12-14-50,ley-de-fomento-y-promocion-al-emprendimiento,21,main
+2016-01-01,start,ley-2015-12-31-53-volumen-5,ley-del-instituto-hidalguense-de-las-mujeres,30,main
+2016-01-01,start,ley-2015-12-31-53-volumen-i,ley-estatal-de-derechos,48,main
+2016-01-01,start,ley-2015-12-31-53-volumen-5,ley-organica-de-la-universidad-autonoma,63,main
+2016-01-01,law,decreto-2015-12-31-53,ley-de-coordinacion-fiscal,4,main
+2016-01-01,law,decreto-2015-12-31-53-volumen-5,ley-de-asentamientos-humanos-desarrollo-urbano-y-ordenamient ley-de-control-vehicular ley-de-desarrollo-social ley-de-entidades-paraestatales ley-del-notariado ley-del-registro-publico-de-la-propiedad,47,main
+2016-01-01,law,decreto-2015-12-31-53-volumen-i,ley-de-hacienda,67,main
+2016-03-29,law,decreto-2016-03-28-num-13,ley-de-prevencion-y-gestion-integral-de-residuos ley-de-responsabilidades-de-los-servidores-publicos ley-de-turismo-sustentable,10,main
+2016-05-10,law,decreto-2016-05-09-20,ley-de-responsabilidades-de-los-servidores-publicos,2,main
+2016-05-11,law,decreto-2016-04-11-15,constitucion-politica,2,main
+2016-05-11,law,decreto-2016-05-02-18,constitucion-politica,3,main
+2016-05-17,law,decreto-2016-05-16-21,ley-de-responsabilidades-de-los-servidores-publicos,2,main
+2016-05-24,law,decreto-2016-05-23-22,ley-de-turismo-sustentable,5,main
+2016-06-07,law,decreto-2016-06-06-24,ley-de-derechos-y-cultura-indigena,3,main
+2016-06-14,law,decreto-2016-06-13-25,ley-de-salud,3,main
+2016-06-21,law,decreto-2016-06-20-26,constitucion-politica,4,main
+2016-06-21,law,decreto-2016-06-20-26-2,constitucion-politica,2,main
+2016-06-21,law,decreto-2016-06-20-26-3,constitucion-politica,2,main
+2016-07-05,law,decreto-2016-07-04-no-28-ordinario,ley-de-salud,2,main
+2016-07-05,law,decreto-2016-07-04-no-28-alcance-1,ley-de-cultura-fisica-deporte-y-recreacion ley-del-colegio-de-bachilleres,33,main
+2016-07-12,law,decreto-2016-06-27-27-alcance,codigo-de-procedimientos-civiles,20,main
+2016-07-12,law,decreto-2016-07-11-29-alcance,ley-de-desarrollo-pecuario,63,main
+2016-07-12,law,fe-de-erratas-2016-07-11-29,codigo-de-procedimientos-civiles,2,main
+2016-08-02,law,decreto-2016-08-01-no-32-ordinario,ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia ley-de-los-derechos-de-las-personas-adultas-mayores-antes-le ley-integral-para-las-personas-con-discapacidad,12,main
+2016-08-02,law,decreto-2016-08-01-32-alcance,ley-de-derechos-humanos ley-de-desarrollo-social ley-de-proteccion-y-trato-digno-para-los-animales-en-el-esta,71,main
+2016-08-02,law,decreto-2016-08-01-32-alcance,ley-de-los-derechos-de-las-personas-adultas-mayores-antes-le,2,main
+2016-08-16,law,decreto-2016-08-15-34,ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia ley-de-asistencia-social ley-de-cultura-fisica-deporte-y-recreacion ley-de-derechos-y-cultura-indigena ley-de-desarrollo-agricola-sustentable ley-de-desarrollo-social ley-de-fomento-cooperativo ley-de-los-derechos-de-las-personas-adultas-mayores-antes-le ley-de-los-trabajadores-al-servicio-de-los-gobiernos-estatal ley-de-mitigacion-y-adaptacion-ante-los-efectos-del-cambio-c ley-de-poblacion ley-de-proteccion-a-personas-defensoras-de-derechos-humanos ley-de-seguridad-publica ley-de-voluntad-anticipada ley-organica-de-la-universidad-tecnologica-de-tula-tepeji,418,main
+2016-09-06,law,decreto-2016-09-05-37,constitucion-politica,13,main
+2016-10-01,law,decreto-2016-08-01-32-alcance,codigo-penal,8,main
+2016-10-01,law,decreto-2016-08-15-34,codigo-penal,18,main
+2016-10-01,law,decreto-2016-08-15-34-2,codigo-penal,3,main
+2016-11-04,start,ley-2016-05-04-19,ley-de-transparencia-y-acceso-a-la-informacion-publica,197,main
+2017-01-01,start,ley-2016-12-31-53-alcance-volumen-ii,ley-de-planeacion-y-prospectiva,94,main
+2017-01-01,law,decreto-2016-12-31-53-alcance-volumen-ii,codigo-civil codigo-de-procedimientos-civiles codigo-de-procedimientos-familiares codigo-electoral codigo-fiscal codigo-fiscal-municipal codigo-penal ley-de-adquisiciones-arrendamientos-y-servicios-del-sector-p ley-de-asentamientos-humanos-desarrollo-urbano-y-ordenamient ley-de-bienes ley-de-catastro ley-de-desarrollo-agricola-sustentable ley-de-desarrollo-forestal-sustentable ley-de-hacienda ley-de-hacienda-para-los-municipios ley-de-prestacion-de-servicios-para-la-atencion-cuidado-prot ley-de-prevencion-y-gestion-integral-de-residuos ley-de-procesos-productivos-eficientes ley-de-propiedad-en-condominio-de-inmuebles ley-de-proteccion-contra-los-efectos-nocivos-del-tabaco ley-de-proteccion-y-trato-digno-para-los-animales-en-el-esta ley-de-responsabilidades-de-los-servidores-publicos ley-de-salud ley-de-vivienda ley-del-ejercicio-profesional ley-del-notariado ley-estatal-del-procedimiento-administrativo ley-organica-del-ministerio-publico,216,main
+2017-01-01,law,decreto-2016-12-31-53-alcance-volumen-i,ley-de-hacienda,3,main
+2017-01-01,law,decreto-2016-12-31-53-alcance-volumen-ii-2,codigo-de-procedimientos-familiares,4,main
+2017-01-03,law,decreto-2016-12-31-53-alcance-volumen-i,ley-de-control-vehicular,9,main
+2017-01-03,law,decreto-2016-12-31-53-alcance-volumen-ii,ley-de-coordinacion-fiscal ley-estatal-de-derechos,107,main
+2017-01-03,law,decreto-2016-12-31-53-alcance-volumen-ii-2,codigo-fiscal codigo-fiscal-municipal,32,main
+2017-01-09,law,fe-de-erratas-2017-01-09-02-alcance,codigo-fiscal codigo-fiscal-municipal ley-de-control-vehicular ley-de-coordinacion-fiscal ley-de-hacienda ley-estatal-de-derechos,112,main
+2017-03-14,law,decreto-2017-03-13-11,constitucion-politica,2,main
+2017-04-11,law,decreto-2017-04-10-15,ley-de-desarrollo-social ley-de-salud,16,main
+2017-04-18,start,ley-2017-04-17-16,ley-de-mejora-regulatoria,98,main
+2017-05-16,law,decreto-2017-05-15-20,ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia ley-del-periodico-oficial,330,main
+2017-05-23,law,decreto-2017-05-22-21,constitucion-politica codigo-de-procedimientos-civiles ley-de-salud ley-integral-para-las-personas-con-discapacidad,41,main
+2017-05-30,law,decreto-2017-05-29-22,ley-de-los-derechos-de-las-personas-adultas-mayores-antes-le,3,main
+2017-06-06,law,decreto-2017-06-05-23,constitucion-politica,4,main
+2017-06-13,law,decreto-2017-06-12-24,constitucion-politica,8,main
+2017-06-27,law,decreto-2017-06-26-26,codigo-civil codigo-de-procedimientos-civiles ley-de-fomento-para-la-lectura-y-el-libro ley-de-los-trabajadores-al-servicio-de-los-gobiernos-estatal,38,main
+2017-07-11,start,ley-2017-07-10-28-bis,ley-de-fiscalizacion-superior-y-rendicion-de-cuentas,93,main
+2017-07-11,start,ley-2017-07-10-28-bis,ley-del-sistema-estatal-anticorrupcion-de-hidalgo,48,main
+2017-07-11,start,ley-2017-07-10-28-bis,ley-del-tribunal-de-justicia-administrativa,84,main
+2017-07-11,law,decreto-2017-07-10-28,codigo-de-procedimientos-familiares ley-de-salud,76,main
+2017-07-11,law,decreto-2017-07-10-28-bis,ley-organica-del-ministerio-publico,22,main
+2017-07-25,start,ley-2017-07-24-30,ley-de-proteccion-de-datos-personales-en-posesion-de-sujetos,202,main
+2017-07-25,law,decreto-2017-07-24-30,codigo-penal,26,main
+2017-08-01,law,decreto-2017-07-31-31,ley-de-los-derechos-de-ninas-ninos-y-adolescentes ley-de-los-trabajadores-al-servicio-de-los-gobiernos-estatal ley-de-mitigacion-y-adaptacion-ante-los-efectos-del-cambio-c,12,main
+2017-08-15,law,decreto-2017-08-14-33,ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia ley-de-proteccion-y-trato-digno-para-los-animales-en-el-esta,12,main
+2017-09-15,law,decreto-2017-09-14-37-alcance,constitucion-politica,3,main
+2017-09-15,law,decreto-2017-09-15-37-alcance-uno,codigo-electoral,43,main
+2017-09-19,law,decreto-2017-09-18-38-alcance,constitucion-politica,6,main
+2017-09-26,law,decreto-2017-09-25-39,ley-de-salud,2,main
+2017-10-10,law,decreto-2017-10-09-41,codigo-electoral codigo-penal ley-de-derechos-humanos ley-de-entidades-paraestatales ley-de-transparencia-y-acceso-a-la-informacion-publica ley-organica-de-la-universidad-autonoma ley-organica-del-instituto-de-defensoria-publica,100,main
+2017-10-17,law,decreto-2017-10-16-42,constitucion-politica,6,main
+2017-10-24,law,decreto-2017-10-23-43,ley-de-hacienda-para-los-municipios ley-estatal-de-derechos,7,main
+2017-11-21,law,decreto-2017-11-20-47,ley-de-proteccion-de-datos-personales-en-posesion-de-sujetos,5,main
+2017-12-05,law,decreto-2017-12-04-49,ley-de-los-derechos-de-las-personas-adultas-mayores-antes-le,3,main
+2017-12-14,law,decreto-2017-12-13-50-alcance-tres,codigo-penal ley-de-responsabilidades-de-los-servidores-publicos,63,main
+2017-12-19,law,decreto-2017-12-18-51,ley-de-fomento-y-desarrollo-economico,3,main
+2017-12-26,law,decreto-2017-12-25-52,ley-de-hacienda-para-los-municipios ley-de-poblacion,14,main
+2018-01-01,law,decreto-2017-12-31-52-alcance-cuatro,codigo-civil codigo-fiscal ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia ley-de-adquisiciones-arrendamientos-y-servicios-del-sector-p ley-de-control-vehicular ley-de-coordinacion-fiscal ley-de-hacienda ley-de-prevencion-y-gestion-integral-de-residuos ley-de-proteccion-salvaguarda-y-explotacion-de-la-abeja ley-estatal-de-derechos,186,main
+2018-03-27,law,decreto-2018-03-26-13,codigo-penal,15,main
+2018-04-03,start,ley-2018-04-02-14,ley-de-alianzas-productivas-de-inversion,157,main
+2018-04-03,start,ley-2018-04-02-14,ley-de-fomento-al-desarrollo-energetico-sustentable,45,main
+2018-04-03,start,ley-2018-04-02-14,ley-organica-de-la-agencia-estatal-de-energia-de-hidalgo,33,main
+2018-04-03,law,decreto-2018-04-02-14,ley-de-coordinacion-para-el-desarrollo-metropolitano ley-de-obras-publicas-y-servicios-relacionados-con-las-misma,7,main
+2018-05-08,law,decreto-2018-05-07-19,ley-de-salud ley-integral-para-las-personas-con-discapacidad,9,main
+2018-05-15,law,decreto-2018-05-14-20-alcance,ley-de-asentamientos-humanos-desarrollo-urbano-y-ordenamient ley-integral-para-las-personas-con-discapacidad,11,main
+2018-05-16,start,ley-2018-04-16-16,ley-del-centro-de-conciliacion-laboral,26,main
+2018-05-22,law,decreto-2018-05-21-21,ley-de-desarrollo-agricola-sustentable,5,main
+2018-05-29,law,decreto-2018-05-28-22,ley-de-turismo-sustentable,3,main
+2018-06-05,law,decreto-2018-06-04-23,ley-de-desarrollo-social ley-de-los-derechos-de-las-personas-adultas-mayores-antes-le,9,main
+2018-06-12,law,decreto-2018-06-11-24,ley-de-turismo-sustentable,3,main
+2018-06-19,start,ley-2018-06-18-25-alcance,ley-de-deuda-publica,91,main
+2018-06-19,law,decreto-2018-06-18-25,ley-de-desarrollo-forestal-sustentable ley-de-proteccion-civil,14,main
+2018-06-26,law,decreto-2018-06-25-26,ley-de-salud,2,main
+2018-07-03,law,decreto-2018-07-02-27,ley-de-cultura-fisica-deporte-y-recreacion ley-de-derechos-humanos ley-del-ejercicio-profesional,11,main
+2018-07-17,law,decreto-2018-07-16-29,ley-de-seguridad-publica,2,main
+2018-07-31,start,ley-2018-07-30-31,ley-de-movilidad-y-transporte,310,main
+2018-07-31,law,decreto-2018-07-30-31,codigo-electoral codigo-penal ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia ley-de-desarrollo-agricola-sustentable ley-de-los-derechos-de-ninas-ninos-y-adolescentes ley-de-los-trabajadores-al-servicio-de-los-gobiernos-estatal ley-de-proteccion-y-trato-digno-para-los-animales-en-el-esta ley-de-turismo-sustentable ley-integral-para-las-personas-con-discapacidad,57,main
+2018-07-31,law,decreto-2018-07-30-31-2,codigo-penal,5,main
+2018-08-01,start,ley-2018-07-31-31-alcance-uno,ley-de-cultura-y-derechos-culturales,53,main
+2018-08-01,law,decreto-2018-07-31-31-alcance-uno,ley-de-asistencia-social,3,main
+2018-08-02,law,decreto-2018-08-01-31-alcance-dos,codigo-civil ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia ley-de-desarrollo-social ley-de-prevencion-y-gestion-integral-de-residuos,123,main
+2019-01-01,law,decreto-2018-12-31-53-alcance-cinco,codigo-fiscal codigo-fiscal-municipal ley-de-control-vehicular ley-de-coordinacion-fiscal ley-de-hacienda ley-de-presupuesto-y-contabilidad-gubernamental ley-estatal-de-derechos,118,main
+2019-01-01,law,decreto-2018-12-31-53-alcance-uno,ley-de-los-trabajadores-al-servicio-de-los-gobiernos-estatal,2,main
+2019-04-02,law,decreto-2019-04-01-13,ley-de-derechos-humanos ley-de-desarrollo-forestal-sustentable ley-de-mitigacion-y-adaptacion-ante-los-efectos-del-cambio-c ley-de-movilidad-y-transporte ley-de-turismo-sustentable ley-del-ejercicio-profesional ley-del-instituto-hidalguense-de-las-mujeres,19,main
+2019-04-04,law,decreto-2019-04-01-13,ley-de-desarrollo-social,7,main
+2019-04-09,law,decreto-2019-04-08-14,ley-de-proteccion-civil,4,main
+2019-04-16,law,decreto-2019-04-15-15,ley-de-derechos-humanos ley-de-prevencion-y-gestion-integral-de-residuos,10,main
+2019-04-30,law,decreto-2019-04-29-17,ley-de-desarrollo-social,8,main
+2019-05-16,law,decreto-2019-05-15-19-alcance-uno,ley-de-salud,4,main
+2019-06-18,law,decreto-2019-06-17-24,ley-de-poblacion,4,main
+2019-06-25,law,decreto-2019-06-24-25,ley-de-derechos-y-cultura-indigena ley-de-los-trabajadores-al-servicio-de-los-gobiernos-estatal ley-del-ejercicio-profesional,8,main
+2019-09-03,law,decreto-2019-09-02-35,codigo-penal,19,main
+2019-09-10,law,decreto-2019-09-09-36,codigo-electoral,78,main
+2019-09-20,law,decreto-2019-09-19-37-alcance-uno,constitucion-politica,5,main
+2019-09-20,law,decreto-2019-09-19-37-alcance-uno-2,constitucion-politica,3,main
+2019-09-20,law,decreto-2019-09-19-37-alcance-uno-3,constitucion-politica,3,main
+2019-09-20,law,decreto-2019-09-19-37-alcance-uno-4,constitucion-politica,2,main
+2019-10-08,law,decreto-2019-10-07-40-alcance-dos,ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia ley-de-los-derechos-de-ninas-ninos-y-adolescentes ley-de-los-trabajadores-al-servicio-de-los-gobiernos-estatal ley-de-seguridad-publica,119,main
+2019-10-15,law,decreto-2019-10-14-41,ley-de-poblacion ley-integral-para-las-personas-con-discapacidad,12,main
+2019-11-12,law,decreto-2019-11-11-45,ley-de-control-vehicular,2,main
+2019-11-19,law,decreto-2019-11-18-46,codigo-penal ley-de-los-derechos-de-ninas-ninos-y-adolescentes,10,main
+2019-12-18,start,ley-2019-11-18-46,ley-de-archivos,111,main
+2020-01-01,law,decreto-2019-12-31-52-alcance-dieciocho,codigo-fiscal codigo-penal ley-de-coordinacion-fiscal ley-de-hacienda ley-del-centro-de-conciliacion-laboral ley-estatal-de-derechos,59,main
+2020-03-24,law,decreto-2020-03-23-13,ley-de-becas ley-de-desarrollo-social ley-de-seguridad-publica,29,main
+2020-03-30,law,fe-de-erratas-2020-03-30-13,ley-de-becas ley-de-desarrollo-social ley-de-seguridad-publica,3,main
+2020-04-07,law,decreto-2020-04-06-14,ley-de-los-derechos-de-ninas-ninos-y-adolescentes,7,main
+2020-04-11,law,decreto-2019-10-14-41,ley-de-derechos-y-cultura-indigena,9,main
+2020-07-21,start,ley-2020-07-20-29-ordinario,ley-de-amnistia,11,main
+2020-07-21,start,ley-2020-07-20-29-ordinario,ley-de-transito-y-seguridad-vial,137,main
+2020-07-21,law,decreto-2020-07-20-29-ordinario,ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia ley-de-prevencion-del-delito,9,main
+2020-07-23,law,decreto-2020-07-20-29-ordinario,codigo-electoral,19,main
+2020-08-18,start,ley-2020-08-17-33-alcance,ley-de-migrantes-hidalguenses-y-en-contexto-de-movilidad,40,main
+2020-08-18,law,decreto-2020-08-17-33-alcance,codigo-penal ley-de-fiscalizacion-superior-y-rendicion-de-cuentas ley-de-proteccion-civil ley-de-salud ley-de-turismo-sustentable ley-del-ejercicio-profesional,50,main
+2020-08-18,law,decreto-2020-08-17-33-alcance-uno,ley-de-fomento-y-desarrollo-economico ley-de-los-derechos-de-ninas-ninos-y-adolescentes,28,main
+2020-08-18,law,decreto-2020-08-17-33-alcance-uno,ley-de-proteccion-civil,8,main
+2020-08-18,law,decreto-2020-08-17-33-alcance-uno-2,ley-de-proteccion-civil,3,main
+2020-10-06,law,decreto-2020-10-05-40,ley-de-los-trabajadores-al-servicio-de-los-gobiernos-estatal,2,main
+2020-10-27,law,decreto-2020-10-26-43,ley-de-fomento-para-la-lectura-y-el-libro ley-de-vivienda,28,main
+2020-12-01,start,ley-2020-11-30-48-alcance,ley-de-educacion,177,main
+2020-12-03,law,decreto-2020-12-02-48-alcance-seis,codigo-electoral codigo-penal ley-de-entrega-recepcion-de-los-recursos-publicos,39,main
+2020-12-03,law,fe-de-erratas-2020-12-02-48-alcance-siete,codigo-electoral,3,main
+2020-12-22,law,decreto-2020-12-21-51,ley-de-desarrollo-social,3,main
+2020-12-25,law,decreto-2020-12-22-51-alcance-dos,ley-de-los-trabajadores-al-servicio-de-los-gobiernos-estatal,5,main
+2021-01-01,law,decreto-2020-12-31-52-alacance-ocho,ley-estatal-de-derechos,5,main
+2021-01-01,law,decreto-2020-12-31-52-alcance-ocho,codigo-fiscal ley-de-control-vehicular ley-de-coordinacion-fiscal ley-de-hacienda ley-de-presupuesto-y-contabilidad-gubernamental,15,main
+2021-01-21,start,ley-2021-01-20-3-alcance-cuatro,ley-estatal-de-fomento-y-fortalecimiento-a-las-acciones-de-l,33,main
+2021-01-21,law,decreto-2021-01-20-3-alcance-cuatro,ley-de-asistencia-social ley-de-prevencion-y-gestion-integral-de-residuos,61,main
+2021-03-16,law,decreto-2021-03-15-11,codigo-penal ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia ley-de-salud,35,main
+2021-03-16,law,decreto-2021-03-15-11-2,ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia,2,main
+2021-04-20,law,decreto-2021-04-19-16-alcance,ley-del-periodico-oficial,12,main
+2021-04-22,start,ley-2021-04-19-16-alcance,ley-de-proteccion-a-denunciantes-y-testigos-de-hechos-de-cor,37,main
+2021-04-27,law,decreto-2021-04-26-17,ley-de-los-derechos-de-ninas-ninos-y-adolescentes,23,main
+2021-05-11,law,decreto-2021-05-10-19,ley-de-desarrollo-social ley-de-los-derechos-de-las-personas-adultas-mayores-antes-le ley-estatal-de-agua-y-alcantarillado ley-organica-del-ministerio-publico,85,main
+2021-05-13,law,decreto-2021-05-12-19-alcance-dos,ley-de-transito-y-seguridad-vial,18,main
+2021-05-18,law,decreto-2021-05-17-20-alcance,ley-de-asistencia-social,6,main
+2021-06-03,law,decreto-2021-05-31-22-alcance-uno,codigo-electoral,12,main
+2021-06-08,law,decreto-2021-06-07-23,codigo-penal,17,main
+2021-07-05,law,fe-de-erratas-2021-07-05-27-alcance-dos,codigo-penal,9,main
+2021-07-07,law,decreto-2021-07-06-27-alcance-seis,constitucion-politica ley-de-hacienda-para-los-municipios ley-de-turismo-sustentable,24,main
+2021-07-07,law,decreto-2021-07-06-27-alcance-siete,codigo-penal ley-de-salud,15,main
+2021-07-29,law,decreto-2021-07-28-30-alcance-cuatro,ley-de-adquisiciones-arrendamientos-y-servicios-del-sector-p ley-de-cultura-y-derechos-culturales ley-de-hacienda ley-de-obras-publicas-y-servicios-relacionados-con-las-misma ley-de-transparencia-y-acceso-a-la-informacion-publica ley-integral-para-las-personas-con-discapacidad,78,main
+2021-08-25,start,ley-2021-08-24-34-alcance-siete,ley-en-materia-de-desaparicion-de-personas,125,main
+2021-09-02,start,ley-2021-09-01-35-alcance-diez,ley-de-victimas,175,main
+2021-09-02,law,decreto-2021-09-01-35-alcance-nueve,ley-de-movilidad-y-transporte ley-del-sistema-estatal-anticorrupcion-de-hidalgo,26,main
+2021-09-02,law,decreto-2021-09-01-35-alcnce-nueve,ley-organica-de-la-agencia-estatal-de-energia-de-hidalgo,13,main
+2021-09-08,law,decreto-2021-09-07-36-alcance-uno,constitucion-politica,2,main
+2021-09-14,law,decreto-2021-09-13-37-alcance,ley-de-desarrollo-forestal-sustentable ley-de-mitigacion-y-adaptacion-ante-los-efectos-del-cambio-c ley-de-prestacion-de-servicios-para-la-atencion-cuidado-prot ley-de-vivienda,24,main
+2021-09-14,law,decreto-2021-09-13-37-alcance-cinco,ley-de-obras-publicas-y-servicios-relacionados-con-las-misma ley-de-prevencion-y-gestion-integral-de-residuos,6,main
+2021-09-14,law,decreto-2021-09-13-37-alcance-cuatro,ley-de-los-trabajadores-al-servicio-de-los-gobiernos-estatal ley-de-proteccion-y-trato-digno-para-los-animales-en-el-esta ley-del-registro-publico-de-la-propiedad,37,main
+2021-09-14,law,decreto-2021-09-13-37-alcance-dos,ley-de-participacion-ciudadana,3,main
+2021-09-14,law,decreto-2021-09-13-37-alcance-seis,ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia ley-de-asentamientos-humanos-desarrollo-urbano-y-ordenamient,35,main
+2021-09-14,law,decreto-2021-09-13-37-alcance-tres,codigo-penal ley-del-instituto-hidalguense-de-las-mujeres ley-del-tribunal-de-justicia-administrativa,38,main
+2021-09-14,law,decreto-2021-09-13-37-alcance-uno,ley-de-desarrollo-agricola-sustentable ley-de-entidades-paraestatales ley-de-propiedad-en-condominio-de-inmuebles,7,main
+2021-09-16,law,decreto-2021-09-13-37-alcance-cinco,ley-de-proteccion-civil,2,main
+2021-09-16,law,decreto-2021-09-13-37-alcance-dos,ley-de-fomento-y-desarrollo-economico ley-de-prevencion-del-delito,9,main
+2021-09-16,law,decreto-2021-09-13-37-alcance-tres,ley-de-proteccion-de-datos-personales-en-posesion-de-sujetos,4,main
+2021-09-16,law,decreto-2021-09-15-37-alcance-nueve,codigo-electoral,2,main
+2021-09-23,law,decreto-2021-09-22-38-alcance,ley-de-educacion ley-del-notariado,7,main
+2021-10-12,law,decreto-2021-10-11-41-alcance,ley-de-proteccion-salvaguarda-y-explotacion-de-la-abeja,26,main
+2021-11-23,law,decreto-2021-11-22-47-alcance-uno,codigo-penal,3,main
+2021-12-28,law,decreto-2021-12-27-52-alacance,ley-del-instituto-para-el-desarrollo-y-fortalecimiento-munic,4,main
+2021-12-28,law,decreto-2021-12-27-52-alcance,ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia ley-de-desarrollo-pecuario ley-de-fomento-cooperativo,39,main
+2022-01-01,law,decreto-2021-09-13-37-alcance-cuatro,ley-de-desarrollo-social,3,main
+2022-01-01,law,decreto-2021-12-27-52-alacance,ley-de-vivienda,8,main
+2022-01-01,law,decreto-2021-12-31-52-alcance-trece,codigo-fiscal ley-de-control-vehicular ley-de-coordinacion-fiscal ley-de-hacienda ley-de-presupuesto-y-contabilidad-gubernamental ley-estatal-de-derechos,60,main
+2022-03-11,law,decreto-2022-03-10-10-alcance-cinco,ley-de-educacion ley-de-los-derechos-de-ninas-ninos-y-adolescentes,6,main
+2022-03-29,law,decreto-2022-03-28-13-ordinario,ley-de-adquisiciones-arrendamientos-y-servicios-del-sector-p ley-de-albergues-privados-para-personas-adultas-mayores ley-de-asentamientos-humanos-desarrollo-urbano-y-ordenamient ley-de-asistencia-social ley-de-desarrollo-agricola-sustentable ley-de-los-derechos-de-las-personas-adultas-mayores-antes-le ley-de-salud ley-de-transito-y-seguridad-vial ley-del-registro-publico-de-la-propiedad ley-estatal-de-fomento-y-fortalecimiento-a-las-acciones-de-l,39,main
+2022-04-13,law,decreto-2022-04-12-15-alcance-1,ley-organica-del-ministerio-publico,2,main
+2022-04-13,law,decreto-2022-04-12-15-alcance-uno,ley-de-los-derechos-de-las-personas-adultas-mayores-antes-le ley-de-los-trabajadores-al-servicio-de-los-gobiernos-estatal ley-de-proteccion-civil,39,main
+2022-05-24,law,decreto-2022-05-23-21-alcance-uno,codigo-penal ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia ley-de-cultura-fisica-deporte-y-recreacion ley-de-los-derechos-de-ninas-ninos-y-adolescentes ley-de-salud ley-de-turismo-sustentable ley-estatal-de-fomento-y-fortalecimiento-a-las-acciones-de-l,25,main
+2022-05-24,law,decreto-2022-05-23-21-alcance-uno-2,ley-de-los-derechos-de-ninas-ninos-y-adolescentes,3,main
+2022-06-01,law,decreto-2022-05-31-22-alcance-uno,ley-de-migrantes-hidalguenses-y-en-contexto-de-movilidad ley-de-presupuesto-y-contabilidad-gubernamental,6,main
+2022-06-07,law,decreto-2022-06-06-23-alcance-dos,codigo-fiscal-municipal ley-de-hacienda-para-los-municipios,4,main
+2022-06-10,law,decreto-2022-06-09-23-alcance-tres,ley-de-educacion ley-de-fomento-y-desarrollo-economico ley-de-seguridad-publica,11,main
+2022-06-23,law,decreto-2022-06-22-25-alcance-uno,constitucion-politica,18,main
+2022-06-28,law,decreto-2022-06-27-26-alcance-uno,codigo-penal ley-de-los-derechos-de-ninas-ninos-y-adolescentes ley-de-planeacion-y-prospectiva ley-de-proteccion-de-datos-personales-en-posesion-de-sujetos ley-de-proteccion-y-trato-digno-para-los-animales-en-el-esta ley-de-salud,25,main
+2022-06-28,law,decreto-2022-06-27-26-alcance-uno-2,codigo-penal ley-de-los-derechos-de-ninas-ninos-y-adolescentes,5,main
+2022-06-28,law,decreto-2022-06-27-26-alcance-uno-3,ley-de-los-derechos-de-ninas-ninos-y-adolescentes,3,main
+2022-07-16,law,decreto-2022-07-15-28-alcance-cinco,codigo-penal ley-de-educacion ley-de-migrantes-hidalguenses-y-en-contexto-de-movilidad ley-de-poblacion ley-de-salud,25,main
+2022-07-28,start,ley-2022-07-27-30-alcance-dos,ley-de-responsabilidad-patrimonial,42,main
+2022-07-28,law,decreto-2022-07-27-30-alcance-dos,codigo-civil ley-de-poblacion ley-integral-para-las-personas-con-discapacidad,47,main
+2022-08-10,start,ley-2022-08-09-32-alcance-tres,ley-de-responsabilidades-administrativas,208,main
+2022-10-22,start,ley-2022-10-21-42-alcance-cuatro,ley-de-fomento-y-proteccion-del-maiz-nativo,15,main
+2022-10-22,law,decreto-2022-10-21-42-alcance-cuatro,ley-de-adquisiciones-arrendamientos-y-servicios-del-sector-p ley-de-albergues-privados-para-personas-adultas-mayores ley-de-asentamientos-humanos-desarrollo-urbano-y-ordenamient ley-de-cultura-fisica-deporte-y-recreacion ley-de-cultura-y-derechos-culturales ley-de-derechos-humanos ley-de-desarrollo-agricola-sustentable ley-de-desarrollo-forestal-sustentable ley-de-fiscalizacion-superior-y-rendicion-de-cuentas ley-de-fomento-para-la-lectura-y-el-libro ley-de-los-derechos-de-las-personas-adultas-mayores-antes-le ley-de-los-derechos-de-ninas-ninos-y-adolescentes ley-de-movilidad-y-transporte ley-de-obras-publicas-y-servicios-relacionados-con-las-misma ley-de-presupuesto-y-contabilidad-gubernamental ley-de-proteccion-contra-los-efectos-nocivos-del-tabaco ley-de-turismo-sustentable ley-estatal-del-procedimiento-administrativo,104,main
+2022-10-22,law,decreto-2022-10-21-42-alcance-cuatro-2,ley-de-asentamientos-humanos-desarrollo-urbano-y-ordenamient ley-de-cultura-fisica-deporte-y-recreacion ley-de-desarrollo-agricola-sustentable ley-de-los-derechos-de-ninas-ninos-y-adolescentes,13,main
+2022-10-28,law,decreto-2022-10-27-43-alcance-cuatro,codigo-electoral ley-de-cultura-fisica-deporte-y-recreacion ley-de-educacion ley-de-los-derechos-de-las-personas-adultas-mayores-antes-le ley-de-salud ley-estatal-de-agua-y-alcantarillado,24,main
+2022-10-28,law,decreto-2022-10-27-43-alcance-cuatro-2,codigo-electoral ley-de-educacion ley-estatal-de-agua-y-alcantarillado,8,main
+2022-10-28,law,decreto-2022-10-27-43-alcance-cuatro-3,codigo-electoral,2,main
+2022-11-25,law,decreto-2022-11-24-47-alcance-cuatro,codigo-electoral ley-de-los-trabajadores-al-servicio-de-los-gobiernos-estatal ley-de-proteccion-civil,7,main
+2022-12-02,law,decreto-2022-12-01-48-alcance-cuatro,constitucion-politica,12,main
+2022-12-27,law,decreto-2022-12-26-52-alcance,ley-de-los-trabajadores-al-servicio-de-los-gobiernos-estatal ley-de-regulacion-de-desarrollos-industriales ley-de-salud,30,main
+2022-12-27,law,decreto-2022-12-26-52-alcance-uno,ley-de-cultura-fisica-deporte-y-recreacion,11,main
+2023-01-01,law,decreto-2022-07-27-30-alcance-dos,ley-de-seguridad-publica,3,main
+2023-01-01,law,decreto-2022-12-31-52-alcance-nueve,ley-de-coordinacion-fiscal,2,main
+2023-02-14,law,decreto-2023-02-13-7-ordinario,ley-de-deuda-publica,6,main
+2023-03-08,law,decreto-2023-03-07-10-alcance,constitucion-politica,4,main
+2023-03-08,law,decreto-2023-03-07-10-alcance-2,constitucion-politica,2,main
+2023-03-28,law,decreto-2023-03-27-13-ordinario,ley-de-proteccion-civil,2,main
+2023-03-30,law,decreto-2023-03-29-13-alcance,codigo-penal ley-de-entrega-recepcion-de-los-recursos-publicos ley-de-fomento-para-la-lectura-y-el-libro ley-de-los-derechos-de-ninas-ninos-y-adolescentes ley-de-seguridad-privada ley-de-seguridad-publica ley-de-transito-y-seguridad-vial ley-de-turismo-sustentable,52,main
+2023-03-31,law,decreto-2023-03-30-13-alcance-dos,codigo-electoral ley-de-participacion-ciudadana,17,main
+2023-04-01,start,ley-2023-03-31-13-alcance-tres,ley-organica-de-la-administracion-publica,56,main
+2023-04-01,law,decreto-2023-03-31-13-alcance-3,ley-de-fiscalizacion-superior-y-rendicion-de-cuentas,7,main
+2023-04-01,law,decreto-2023-03-31-13-alcance-tres,ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia ley-de-desarrollo-forestal-sustentable ley-de-los-derechos-de-las-personas-adultas-mayores-antes-le ley-de-movilidad-y-transporte ley-de-salud ley-del-ejercicio-profesional,20,main
+2023-04-01,law,decreto-2023-03-31-13-alcance-tres-2,ley-de-salud,5,main
+2023-04-12,law,decreto-2023-04-11-15-alcance,ley-de-asentamientos-humanos-desarrollo-urbano-y-ordenamient,8,main
+2023-04-14,law,decreto-2023-04-13-15-alcance-uno,ley-de-los-derechos-de-ninas-ninos-y-adolescentes,10,main
+2023-04-14,law,decreto-2023-04-13-15-alcance-uno-2,ley-de-los-derechos-de-ninas-ninos-y-adolescentes,3,main
+2023-04-14,law,decreto-2023-04-13-15-alcance-uno-3,ley-de-los-derechos-de-ninas-ninos-y-adolescentes,2,main
+2023-05-03,law,decreto-2023-05-02-18-alcance-cinco,ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia ley-de-cultura-fisica-deporte-y-recreacion,25,main
+2023-05-30,law,decreto-2023-05-29-22-alcance-uno,ley-de-coordinacion-para-el-desarrollo-metropolitano ley-de-cultura-fisica-deporte-y-recreacion ley-de-los-trabajadores-al-servicio-de-los-gobiernos-estatal ley-de-obras-publicas-y-servicios-relacionados-con-las-misma ley-de-salud ley-integral-para-las-personas-con-discapacidad,23,main
+2023-05-30,law,decreto-2023-05-29-22-alcance-uno-2,ley-integral-para-las-personas-con-discapacidad,2,main
+2023-05-31,law,decreto-2023-05-30-22-alcance-dos,codigo-fiscal-municipal ley-de-hacienda-para-los-municipios,7,main
+2023-06-01,law,decreto-2023-05-31-22-alcance-tres,ley-de-educacion ley-de-los-derechos-de-las-personas-adultas-mayores-antes-le ley-de-vivienda ley-organica-del-colegio-de-estudios-cientificos-y-tecnologi,39,main
+2023-06-13,law,decreto-2023-06-12-24-alcance-uno,ley-de-mitigacion-y-adaptacion-ante-los-efectos-del-cambio-c,5,main
+2023-06-16,law,decreto-2023-06-15-24-alcance-tres,ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia ley-de-asistencia-social ley-de-becas ley-de-derechos-humanos ley-de-derechos-y-cultura-indigena ley-de-desarrollo-agricola-sustentable ley-de-educacion ley-de-fomento-y-promocion-al-emprendimiento ley-de-los-derechos-de-ninas-ninos-y-adolescentes ley-de-los-trabajadores-al-servicio-de-los-gobiernos-estatal ley-de-vivienda ley-del-instituto-hidalguense-de-las-mujeres,370,main
+2023-06-16,law,decreto-2023-06-15-24-alcance-tres-2,ley-de-los-derechos-de-ninas-ninos-y-adolescentes,2,main
+2023-06-16,law,decreto-2023-06-15-24-alcance-tres-3,ley-de-los-derechos-de-ninas-ninos-y-adolescentes,3,main
+2023-06-20,law,decreto-2023-06-19-25-ordinario,codigo-electoral ley-de-proteccion-civil,9,main
+2023-07-11,law,decreto-2023-07-10-28-ordinario,codigo-penal ley-de-transito-y-seguridad-vial,16,main
+2023-07-14,law,decreto-2023-07-13-28-alcance-dos,ley-en-materia-de-desaparicion-de-personas,3,main
+2023-07-26,law,decreto-2023-07-25-30-alcance-cuatro,ley-de-seguridad-publica,7,main
+2023-08-04,start,ley-2023-08-03-31-alcance-catorce,ley-de-educacion-superior,100,main
+2023-08-04,law,decreto-2023-08-03-31-alcance-catorce,codigo-penal,7,main
+2023-08-08,law,decreto-2023-08-07-32-alcance-tres,constitucion-politica,4,main
+2023-08-19,law,decreto-2023-08-18-33-alcance-cuatro,ley-de-albergues-privados-para-personas-adultas-mayores ley-de-becas ley-de-desarrollo-agricola-sustentable ley-de-desarrollo-pecuario ley-de-educacion ley-de-los-derechos-de-las-personas-adultas-mayores-antes-le ley-de-proteccion-civil ley-de-proteccion-salvaguarda-y-explotacion-de-la-abeja ley-de-salud,42,main
+2023-08-19,law,decreto-2023-08-18-33-alcance-cuatro-2,ley-de-albergues-privados-para-personas-adultas-mayores ley-de-educacion ley-de-proteccion-civil,12,main
+2023-08-19,law,decreto-2023-08-18-33-alcance-cuatro-3,ley-de-educacion,3,main
+2023-08-23,start,ley-2023-08-22-34-alcance-tres,ley-de-revocacion-de-mandato,62,main
+2023-08-23,law,decreto-2023-08-22-34-alcance-tres,constitucion-politica codigo-electoral,14,main
+2023-08-23,law,decreto-2023-08-22-34-alcance-tres-2,codigo-electoral,8,main
+2023-08-23,law,decreto-2023-08-22-34-alcance-tres-3,codigo-electoral,9,main
+2023-08-23,law,decreto-2023-08-22-34-alcance-tres-4,codigo-electoral,42,main
+2023-08-23,law,decreto-2023-08-22-34-alcance-tres-5,codigo-electoral,20,main
+2023-08-23,law,decreto-2023-08-22-34-alcance-tres-6,codigo-electoral,68,main
+2023-08-23,law,decreto-2023-08-22-34-alcance-tres-7,codigo-electoral,5,main
+2023-08-24,law,decreto-2023-08-23-34-alcance-cuatro,ley-de-movilidad-y-transporte,9,main
+2023-09-22,law,fe-de-erratas-2023-09-22-38-alcance-tres,codigo-electoral ley-de-becas ley-de-desarrollo-agricola-sustentable,6,main
+2023-09-22,law,fe-de-erratas-2023-09-22-38-alcance-tres-2,codigo-electoral,3,main
+2023-09-22,law,fe-de-erratas-2023-09-22-38-alcance-tres-3,codigo-electoral,17,main
+2023-10-06,start,ley-2023-10-05-40-alcance-dos,ley-de-imagen-urbana,91,main
+2023-10-06,law,decreto-2023-10-05-40-alcance-dos,ley-de-presupuesto-y-contabilidad-gubernamental,2,main
+2023-12-05,law,decreto-2023-12-04-49-alcance-dos,constitucion-politica,2,main
+2024-01-01,law,decreto-2023-12-29-52-alcance-ocho,codigo-fiscal ley-de-control-vehicular ley-de-coordinacion-fiscal ley-de-hacienda ley-estatal-de-derechos,111,main
+2024-01-17,law,decreto-2024-01-16-3-alcance-uno,ley-de-asistencia-social,304,main
+2024-01-18,law,decreto-2024-01-17-3-alcance-dos,ley-de-asentamientos-humanos-desarrollo-urbano-y-ordenamient ley-de-los-derechos-de-ninas-ninos-y-adolescentes ley-de-prevencion-y-gestion-integral-de-residuos ley-integral-para-las-personas-con-discapacidad,13,main
+2024-01-20,law,decreto-2024-01-19-3-alcance-dos,ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia ley-de-asentamientos-humanos-desarrollo-urbano-y-ordenamient ley-de-asistencia-social ley-de-coordinacion-para-el-desarrollo-metropolitano ley-de-derechos-humanos ley-de-desarrollo-agricola-sustentable ley-de-desarrollo-forestal-sustentable ley-de-fomento-para-la-lectura-y-el-libro ley-de-fomento-y-desarrollo-economico ley-de-los-derechos-de-las-personas-adultas-mayores-antes-le ley-de-los-derechos-de-ninas-ninos-y-adolescentes ley-de-los-trabajadores-al-servicio-de-los-gobiernos-estatal ley-de-propiedad-en-condominio-de-inmuebles ley-de-proteccion-contra-los-efectos-nocivos-del-tabaco ley-de-proteccion-y-trato-digno-para-los-animales-en-el-esta ley-de-salud ley-de-transito-y-seguridad-vial ley-de-turismo-sustentable ley-de-vivienda ley-integral-para-las-personas-con-discapacidad,91,main
+2024-01-20,law,decreto-2024-01-19-3-alcance-dos-2,ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia ley-de-desarrollo-forestal-sustentable ley-de-salud ley-integral-para-las-personas-con-discapacidad,525,main
+2024-03-16,law,decreto-2024-03-15-11-alcance-cuatro,codigo-penal ley-de-mecanismos-alternativos-de-solucion-de-controversias,9,main
+2024-03-22,law,decreto-2024-03-21-12-alcance-cuatro,ley-de-victimas,7,main
+2024-04-05,law,decreto-2024-04-04-14-alcance-cuatro,codigo-civil ley-de-asistencia-social ley-de-desarrollo-social ley-de-educacion ley-de-educacion-superior ley-de-fomento-para-la-lectura-y-el-libro ley-de-los-derechos-de-las-personas-adultas-mayores-antes-le ley-de-los-derechos-de-ninas-ninos-y-adolescentes ley-de-prestacion-de-servicios-para-la-atencion-cuidado-prot ley-de-propiedad-en-condominio-de-inmuebles ley-de-proteccion-y-trato-digno-para-los-animales-en-el-esta ley-de-salud ley-de-turismo-sustentable,39,main
+2024-04-05,law,decreto-2024-04-04-14-alcance-cuatro-2,ley-de-salud,2,main
+2024-04-05,law,decreto-2024-04-04-14-alcance-cuatro-3,ley-de-salud,3,main
+2024-04-17,law,decreto-2024-04-16-16-alcance-uno,ley-de-desarrollo-agricola-sustentable ley-de-educacion ley-de-propiedad-en-condominio-de-inmuebles,6,main
+2024-04-17,law,decreto-2024-04-16-16-alcance-uno-2,ley-de-educacion,5,main
+2024-04-19,law,decreto-2024-04-18-16-alcance-dos,ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia ley-de-desarrollo-agricola-sustentable ley-de-educacion ley-de-los-derechos-de-ninas-ninos-y-adolescentes ley-de-propiedad-en-condominio-de-inmuebles,37,main
+2024-04-19,law,decreto-2024-04-18-16-alcance-dos-2,ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia ley-de-educacion,6,main
+2024-04-23,law,decreto-2024-04-22-17-alcance-dos,ley-de-cultura-fisica-deporte-y-recreacion ley-de-los-derechos-de-ninas-ninos-y-adolescentes ley-de-migrantes-hidalguenses-y-en-contexto-de-movilidad ley-de-planeacion-y-prospectiva ley-de-proteccion-y-trato-digno-para-los-animales-en-el-esta ley-de-salud,21,main
+2024-04-23,law,decreto-2024-04-22-17-alcance-dos-2,ley-de-los-derechos-de-ninas-ninos-y-adolescentes ley-de-proteccion-y-trato-digno-para-los-animales-en-el-esta,5,main
+2024-04-23,law,decreto-2024-04-22-17-alcance-dos-3,ley-de-los-derechos-de-ninas-ninos-y-adolescentes,2,main
+2024-05-04,law,decreto-2024-05-03-18-alcance-cuatro,ley-de-educacion ley-de-educacion-superior ley-de-movilidad-y-transporte ley-de-planeacion-y-prospectiva ley-de-prestacion-de-servicios-para-la-atencion-cuidado-prot ley-de-transparencia-y-acceso-a-la-informacion-publica ley-integral-para-las-personas-con-discapacidad,532,main
+2024-05-04,law,decreto-2024-05-03-18-alcance-cuatro-2,ley-de-educacion,3,main
+2024-05-10,start,ley-2024-05-09-19-alcance-uno,ley-organica-del-poder-judicial,219,main
+2024-05-10,law,decreto-2024-05-09-19-alcance-uno,ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia ley-de-asistencia-social ley-de-cultura-y-derechos-culturales ley-de-fomento-cooperativo ley-de-los-derechos-de-las-personas-adultas-mayores-antes-le ley-de-los-derechos-de-ninas-ninos-y-adolescentes ley-de-proteccion-y-trato-digno-para-los-animales-en-el-esta ley-integral-para-las-personas-con-discapacidad,19,main
+2024-05-10,law,decreto-2024-05-09-19-alcance-uno-2,ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia ley-de-los-derechos-de-ninas-ninos-y-adolescentes,5,main
+2024-05-10,law,decreto-2024-05-09-19-alcance-uno-3,ley-de-los-derechos-de-ninas-ninos-y-adolescentes,3,main
+2024-05-10,law,decreto-2024-05-09-19-alcance-uno-4,ley-de-los-derechos-de-ninas-ninos-y-adolescentes,3,main
+2024-05-18,law,decreto-2024-05-17-20-alcance-dos,ley-de-adquisiciones-arrendamientos-y-servicios-del-sector-p ley-de-cultura-fisica-deporte-y-recreacion ley-de-cultura-y-derechos-culturales ley-de-derechos-humanos ley-de-educacion ley-de-entidades-paraestatales ley-de-los-derechos-de-las-personas-adultas-mayores-antes-le ley-de-los-derechos-de-ninas-ninos-y-adolescentes ley-de-los-trabajadores-al-servicio-de-los-gobiernos-estatal ley-de-migrantes-hidalguenses-y-en-contexto-de-movilidad ley-de-pesca-y-acuacultura-sustentable ley-de-planeacion-y-prospectiva ley-de-turismo-sustentable ley-estatal-de-agua-y-alcantarillado ley-integral-para-las-personas-con-discapacidad ley-organica-del-ministerio-publico,51,main
+2024-05-18,law,decreto-2024-05-17-20-alcance-dos-2,ley-de-educacion ley-de-turismo-sustentable,8,main
+2024-05-31,law,decreto-2024-05-30-22-alcance-tres,ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia ley-de-asentamientos-humanos-desarrollo-urbano-y-ordenamient ley-de-becas ley-de-educacion ley-de-entidades-paraestatales ley-de-fomento-para-la-lectura-y-el-libro ley-de-fomento-y-promocion-al-emprendimiento ley-de-los-derechos-de-las-personas-adultas-mayores-antes-le ley-de-los-derechos-de-ninas-ninos-y-adolescentes ley-de-migrantes-hidalguenses-y-en-contexto-de-movilidad ley-de-movilidad-y-transporte ley-de-obras-publicas-y-servicios-relacionados-con-las-misma ley-de-poblacion ley-de-salud ley-de-turismo-sustentable ley-del-ejercicio-profesional ley-estatal-de-agua-y-alcantarillado ley-estatal-de-fomento-y-fortalecimiento-a-las-acciones-de-l ley-integral-para-las-personas-con-discapacidad,56,main
+2024-05-31,law,decreto-2024-05-30-22-alcance-tres-2,ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia ley-de-educacion ley-de-los-derechos-de-ninas-ninos-y-adolescentes ley-de-movilidad-y-transporte ley-estatal-de-agua-y-alcantarillado,14,main
+2024-05-31,law,decreto-2024-05-30-22-alcance-tres-3,ley-de-educacion ley-de-movilidad-y-transporte,5,main
+2024-06-04,law,fe-de-erratas-2024-06-04-23-alcance-uno,ley-de-fomento-y-desarrollo-economico ley-de-los-trabajadores-al-servicio-de-los-gobiernos-estatal,3,main
+2024-06-06,law,decreto-2024-06-05-23-alcance-dos,ley-de-asentamientos-humanos-desarrollo-urbano-y-ordenamient,2,main
+2024-06-08,law,decreto-2024-06-07-23-alcance-cuatro,ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia ley-de-asentamientos-humanos-desarrollo-urbano-y-ordenamient ley-de-los-derechos-de-las-personas-adultas-mayores-antes-le ley-de-mitigacion-y-adaptacion-ante-los-efectos-del-cambio-c ley-de-movilidad-y-transporte ley-de-obras-publicas-y-servicios-relacionados-con-las-misma ley-de-proteccion-y-trato-digno-para-los-animales-en-el-esta ley-de-salud ley-estatal-de-agua-y-alcantarillado,30,main
+2024-06-08,law,decreto-2024-06-07-23-alcance-cuatro-2,ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia ley-estatal-de-agua-y-alcantarillado,24,main
+2024-06-15,law,decreto-2024-06-14-24-alcance-cuatro,ley-de-asentamientos-humanos-desarrollo-urbano-y-ordenamient ley-de-educacion ley-de-fomento-para-la-lectura-y-el-libro ley-de-los-derechos-de-ninas-ninos-y-adolescentes ley-de-proteccion-y-trato-digno-para-los-animales-en-el-esta ley-del-ejercicio-profesional,17,main
+2024-06-15,law,decreto-2024-06-14-24-alcance-cuatro-2,ley-de-los-derechos-de-ninas-ninos-y-adolescentes,2,main
+2024-06-19,law,decreto-2024-06-18-25-alcance-dos,ley-de-cultura-y-derechos-culturales ley-de-educacion ley-de-los-derechos-de-ninas-ninos-y-adolescentes ley-de-turismo-sustentable ley-estatal-de-agua-y-alcantarillado ley-integral-para-las-personas-con-discapacidad,26,main
+2024-06-19,law,decreto-2024-06-18-25-alcance-dos-2,ley-de-los-derechos-de-ninas-ninos-y-adolescentes,2,main
+2024-06-19,law,decreto-2024-06-18-25-alcance-dos-3,ley-de-los-derechos-de-ninas-ninos-y-adolescentes,2,main
+2024-07-03,law,decreto-2024-07-02-27-alcance-uno,codigo-electoral ley-de-los-derechos-de-ninas-ninos-y-adolescentes ley-de-seguridad-publica ley-de-transito-y-seguridad-vial,12,main
+2024-07-15,law,fe-de-erratas-2024-07-15-29-alcance-uno,ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia ley-de-entidades-paraestatales ley-de-los-trabajadores-al-servicio-de-los-gobiernos-estatal ley-de-proteccion-y-trato-digno-para-los-animales-en-el-esta ley-de-salud,11,main
+2024-07-16,start,ley-2024-07-15-29-alcance-uno,ley-de-derechos-de-las-personas-jovenes,94,main
+2024-07-16,law,decreto-2024-07-15-29-alcance-uno,codigo-civil ley-de-derechos-linguisticos ley-de-desarrollo-agricola-sustentable ley-de-educacion,10,main
+2024-07-16,law,fe-de-erratas-2024-07-15-29-alcance-uno,ley-de-educacion,2,main
+2024-07-16,law,fe-de-erratas-2024-07-15-29-alcance-uno-2,ley-de-educacion,1,main
+2024-07-19,law,decreto-2024-07-18-29-alcance-tres,constitucion-politica,2,main
+2024-07-19,law,decreto-2024-07-18-29-alcance-tres-2,constitucion-politica,3,main
+2024-08-17,start,ley-2024-08-16-33-alcance-cinco,ley-de-economia-social-y-solidaria,43,main
+2024-08-17,law,decreto-2024-08-16-33-alcance-cinco,constitucion-politica ley-de-cultura-y-derechos-culturales ley-de-educacion ley-de-los-derechos-de-las-personas-adultas-mayores-antes-le ley-de-los-derechos-de-ninas-ninos-y-adolescentes ley-de-mejora-regulatoria ley-de-mitigacion-y-adaptacion-ante-los-efectos-del-cambio-c,25,main
+2024-08-17,law,decreto-2024-08-16-33-alcance-cinco-2,constitucion-politica ley-de-educacion,5,main
+2024-08-17,law,decreto-2024-08-16-33-alcance-cinco-3,constitucion-politica,2,main
+2024-08-17,law,decreto-2024-08-16-33-alcance-cinco-4,constitucion-politica,2,main
+2024-08-21,law,decreto-2024-08-20-34-alcance-uno,codigo-penal ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia ley-de-archivos ley-de-cultura-fisica-deporte-y-recreacion ley-de-cultura-y-derechos-culturales ley-de-desarrollo-forestal-sustentable ley-de-educacion ley-de-los-derechos-de-las-personas-adultas-mayores-antes-le ley-de-los-derechos-de-ninas-ninos-y-adolescentes ley-de-movilidad-y-transporte ley-de-prevencion-y-gestion-integral-de-residuos ley-de-salud ley-de-turismo-sustentable ley-del-notariado ley-estatal-de-agua-y-alcantarillado,88,main
+2024-08-21,law,decreto-2024-08-20-34-alcance-uno-2,ley-de-cultura-y-derechos-culturales,2,main
+2024-08-21,law,decreto-2024-08-20-34-alcance-uno-3,ley-de-cultura-y-derechos-culturales,3,main
+2024-08-23,start,ley-2024-08-20-34-alcance-uno,ley-de-salud-mental-y-prevencion-del-suicidio,45,main
+2024-09-18,start,ley-2024-09-17-38-alcance-uno,ley-de-humanidades-ciencias-tecnologias-e-innovacion,69,main
+2024-09-18,law,decreto-2024-09-17-38-alcance-uno,constitucion-politica codigo-civil codigo-electoral codigo-penal ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia ley-de-asentamientos-humanos-desarrollo-urbano-y-ordenamient ley-de-asistencia-social ley-de-cultura-y-derechos-culturales ley-de-desarrollo-agricola-sustentable ley-de-educacion ley-de-educacion-superior ley-de-entidades-paraestatales ley-de-entrega-recepcion-de-los-recursos-publicos ley-de-fiscalizacion-superior-y-rendicion-de-cuentas ley-de-fomento-para-la-lectura-y-el-libro ley-de-los-derechos-de-las-personas-adultas-mayores-antes-le ley-de-los-derechos-de-ninas-ninos-y-adolescentes ley-de-mecanismos-alternativos-de-solucion-de-controversias ley-de-mejora-regulatoria ley-de-movilidad-y-transporte ley-de-planeacion-y-prospectiva ley-de-poblacion ley-de-presupuesto-y-contabilidad-gubernamental ley-de-prevencion-del-delito ley-de-procesos-productivos-eficientes ley-de-proteccion-salvaguarda-y-explotacion-de-la-abeja ley-de-salud ley-de-transparencia-y-acceso-a-la-informacion-publica ley-de-turismo-sustentable ley-de-victimas ley-de-vivienda ley-del-sistema-estatal-anticorrupcion-de-hidalgo ley-estatal-de-agua-y-alcantarillado,110,main
+2024-09-18,law,decreto-2024-09-17-38-alcance-uno-2,constitucion-politica codigo-penal ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia ley-de-cultura-y-derechos-culturales ley-de-educacion ley-de-los-derechos-de-ninas-ninos-y-adolescentes ley-de-movilidad-y-transporte ley-de-salud ley-de-transparencia-y-acceso-a-la-informacion-publica,24,main
+2024-09-18,law,decreto-2024-09-17-38-alcance-uno-3,constitucion-politica ley-de-educacion ley-de-salud,14,main
+2024-09-18,law,decreto-2024-09-17-38-alcance-uno-4,constitucion-politica,2,main
+2024-09-18,law,decreto-2024-09-17-38-alcance-uno-5,constitucion-politica,3,main
+2024-10-16,law,decreto-2024-10-15-42-alcance-uno,ley-de-movilidad-y-transporte ley-de-obras-publicas-y-servicios-relacionados-con-las-misma ley-de-planeacion-y-prospectiva ley-de-transparencia-y-acceso-a-la-informacion-publica,10,main
+2024-12-05,law,decreto-2024-12-04-49-alcance-dos,ley-de-planeacion-y-prospectiva,12,main
+2025-01-01,law,decreto-2024-12-31-53-alcance-uno,codigo-fiscal ley-de-control-vehicular ley-de-coordinacion-fiscal ley-de-hacienda ley-de-presupuesto-y-contabilidad-gubernamental ley-estatal-de-derechos,45,main
+2025-01-10,law,decreto-2025-01-09-1-alcance-uno,codigo-penal ley-de-asistencia-social ley-de-los-derechos-de-ninas-ninos-y-adolescentes,10,main
+2025-01-29,law,decreto-2025-01-28-4-alcance-uno,ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia ley-de-archivos ley-de-cultura-y-derechos-culturales ley-de-desarrollo-agricola-sustentable ley-de-fiscalizacion-superior-y-rendicion-de-cuentas ley-de-imagen-urbana ley-de-los-derechos-de-las-personas-adultas-mayores-antes-le ley-de-los-trabajadores-al-servicio-de-los-gobiernos-estatal ley-de-turismo-sustentable ley-del-instituto-hidalguense-de-las-mujeres,51,main
+2025-01-29,law,decreto-2025-01-28-4-alcance-uno-2,ley-de-cultura-y-derechos-culturales ley-de-turismo-sustentable,6,main
+2025-01-31,law,decreto-2025-01-30-4-alcance-tres,constitucion-politica,5,main
+2025-02-14,law,decreto-2025-02-13-6-alcance-dos,constitucion-politica,2,main
+2025-02-14,law,decreto-2025-02-13-6-alcance-dos-2,constitucion-politica,2,main
+2025-02-28,law,decreto-2025-02-27-8-alcance-dos,ley-de-desarrollo-agricola-sustentable ley-de-los-derechos-de-ninas-ninos-y-adolescentes ley-de-salud,8,main
+2025-03-11,law,decreto-2025-03-10-10-ordinario,ley-de-asentamientos-humanos-desarrollo-urbano-y-ordenamient ley-de-educacion,6,main
+2025-03-11,law,decreto-2025-03-10-10-ordinario-2,ley-de-educacion,4,main
+2025-03-13,law,decreto-2025-03-12-10-alcance-uno,constitucion-politica ley-del-registro-publico-de-la-propiedad,25,main
+2025-03-27,law,decreto-2025-03-26-12-alcance-dos,codigo-penal,2,main
+2025-03-29,law,decreto-2025-03-28-12-alcance-cuatro,ley-de-proteccion-y-trato-digno-para-los-animales-en-el-esta,6,main
+2025-04-08,law,decreto-2025-04-07-14-ordinario,ley-de-asistencia-social ley-de-educacion,7,main
+2025-04-12,law,decreto-2025-04-11-14-alcance-dos,constitucion-politica ley-de-asentamientos-humanos-desarrollo-urbano-y-ordenamient ley-de-derechos-de-las-personas-jovenes ley-de-imagen-urbana ley-de-los-derechos-de-ninas-ninos-y-adolescentes ley-de-transito-y-seguridad-vial ley-estatal-de-agua-y-alcantarillado,30,main
+2025-05-15,law,decreto-2025-05-14-19-alcance-uno,ley-de-presupuesto-y-contabilidad-gubernamental,2,main
+2025-05-27,law,decreto-2025-05-26-21-ordinario,codigo-electoral ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia ley-de-asistencia-social ley-de-derechos-de-las-personas-jovenes ley-de-derechos-humanos ley-de-educacion ley-de-humanidades-ciencias-tecnologias-e-innovacion ley-de-los-derechos-de-las-personas-adultas-mayores-antes-le ley-de-los-derechos-de-ninas-ninos-y-adolescentes ley-de-migrantes-hidalguenses-y-en-contexto-de-movilidad ley-de-turismo-sustentable ley-estatal-de-fomento-y-fortalecimiento-a-las-acciones-de-l ley-integral-para-las-personas-con-discapacidad,32,main
+2025-05-27,law,decreto-2025-05-26-21-ordinario-2,ley-de-asistencia-social,3,main
+2025-06-11,law,decreto-2025-06-10-23-alcance,ley-de-desarrollo-agricola-sustentable ley-de-educacion ley-de-movilidad-y-transporte ley-de-salud ley-de-turismo-sustentable ley-estatal-de-fomento-y-fortalecimiento-a-las-acciones-de-l,20,main
+2025-07-02,law,decreto-2025-07-01-26-alcance-dos,constitucion-politica ley-de-asentamientos-humanos-desarrollo-urbano-y-ordenamient ley-de-derechos-de-las-personas-jovenes,10,main
+2025-07-02,law,decreto-2025-07-02-26-alcance-cinco,ley-de-coordinacion-fiscal,3,main
+2025-07-04,law,decreto-2025-07-03-26-alcance-seis,constitucion-politica codigo-penal ley-de-seguridad-publica,6,main
+2025-07-11,law,decreto-2025-07-10-27-alcance-tres,ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia ley-de-asentamientos-humanos-desarrollo-urbano-y-ordenamient ley-de-educacion ley-de-fomento-y-promocion-al-emprendimiento ley-de-los-derechos-de-las-personas-adultas-mayores-antes-le ley-de-salud,19,main
+2025-07-11,law,decreto-2025-07-10-27-alcance-tres-2,ley-de-educacion ley-de-salud,6,main
+2025-07-25,start,ley-2025-07-24-29-alcance-cuatro,ley-de-inscripciones-de-honor-para-el-reconocimiento-de-muje,13,main
+2025-07-25,law,decreto-2025-07-24-29-alcance-cuatro,constitucion-politica codigo-electoral ley-de-los-derechos-de-ninas-ninos-y-adolescentes ley-de-los-trabajadores-al-servicio-de-los-gobiernos-estatal ley-de-salud,14,main
+2025-08-07,law,decreto-2025-08-06-31-alcance-uno,ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia ley-de-cultura-y-derechos-culturales ley-de-educacion ley-de-fomento-cooperativo ley-de-humanidades-ciencias-tecnologias-e-innovacion ley-de-movilidad-y-transporte ley-de-proteccion-y-trato-digno-para-los-animales-en-el-esta ley-de-salud,24,main
+2025-08-07,law,decreto-2025-08-06-31-alcance-uno-2,ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia ley-de-salud,5,main
+2025-08-07,law,decreto-2025-08-06-31-alcance-uno-3,ley-de-salud,3,main
+2025-08-08,law,decreto-2025-08-07-31-alcance-dos,codigo-electoral ley-de-cultura-y-derechos-culturales ley-de-desarrollo-forestal-sustentable ley-de-los-derechos-de-las-personas-adultas-mayores-antes-le ley-de-los-derechos-de-ninas-ninos-y-adolescentes ley-del-instituto-para-el-desarrollo-y-fortalecimiento-munic ley-estatal-de-agua-y-alcantarillado ley-integral-para-las-personas-con-discapacidad,19,main
+2025-08-23,law,decreto-2025-08-22-33-alcance-tres,codigo-civil codigo-fiscal-municipal codigo-penal ley-de-adquisiciones-arrendamientos-y-servicios-del-sector-p ley-de-asentamientos-humanos-desarrollo-urbano-y-ordenamient ley-de-cultura-fisica-deporte-y-recreacion ley-de-cultura-y-derechos-culturales ley-de-desarrollo-agricola-sustentable ley-de-desarrollo-social ley-de-educacion ley-de-hacienda-para-los-municipios ley-de-los-derechos-de-las-personas-adultas-mayores-antes-le ley-de-salud ley-de-transito-y-seguridad-vial ley-del-registro-publico-de-la-propiedad,35,main
+2025-08-23,law,decreto-2025-08-22-33-alcance-tres-2,ley-de-los-derechos-de-las-personas-adultas-mayores-antes-le ley-de-salud,4,main
+2025-11-20,law,decreto-2025-11-19-46-alcance-uno,ley-de-asentamientos-humanos-desarrollo-urbano-y-ordenamient ley-de-asistencia-social ley-de-los-derechos-de-ninas-ninos-y-adolescentes ley-de-obras-publicas-y-servicios-relacionados-con-las-misma ley-de-transito-y-seguridad-vial,12,main
+2025-12-18,law,decreto-2025-12-17-50-alcance-tres,ley-de-adquisiciones-arrendamientos-y-servicios-del-sector-p ley-de-entidades-paraestatales ley-organica-de-la-administracion-publica,45,main
+2025-12-27,law,decreto-2025-12-26-51-alcance-cinco,ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia ley-de-cultura-fisica-deporte-y-recreacion ley-de-educacion ley-de-los-derechos-de-ninas-ninos-y-adolescentes ley-de-mitigacion-y-adaptacion-ante-los-efectos-del-cambio-c ley-de-salud ley-de-turismo-sustentable ley-estatal-de-agua-y-alcantarillado ley-organica-de-la-administracion-publica,30,main
+2025-12-27,law,decreto-2025-12-26-51-alcance-cinco-2,ley-de-cultura-fisica-deporte-y-recreacion ley-de-los-derechos-de-ninas-ninos-y-adolescentes,5,main
+2025-12-27,law,decreto-2025-12-26-51-alcance-cinco-3,ley-de-los-derechos-de-ninas-ninos-y-adolescentes,3,main
+2025-12-30,law,decreto-2025-12-29-52-ordinario,ley-de-cultura-fisica-deporte-y-recreacion ley-de-educacion ley-de-poblacion,6,main
+2026-01-01,start,ley-2025-12-31-52-alcance-uno,ley-de-ingresos,20,main
+2026-01-01,start,ley-2025-12-31-52-alcance-cinco,ley-de-ingresos-para-el-municipio-de-acatlan-hidalgo-corresp,3,main
+2026-01-01,start,ley-2025-12-31-52-alcance-cinco,ley-de-ingresos-para-el-municipio-de-acaxochitlan-hidalgo-co,3,main
+2026-01-01,start,ley-2025-12-31-52-alcance-cinco,ley-de-ingresos-para-el-municipio-de-actopan-hidalgo-corresp,4,main
+2026-01-01,start,ley-2025-12-31-52-alcance-cinco,ley-de-ingresos-para-el-municipio-de-agua-blanca-de-iturbide,3,main
+2026-01-01,start,ley-2025-12-31-52-alcance-seis,ley-de-ingresos-para-el-municipio-de-ajacuba-hidalgo-corresp,3,main
+2026-01-01,start,ley-2025-12-31-52-alcance-seis,ley-de-ingresos-para-el-municipio-de-alfajayucan-hidalgo-cor,3,main
+2026-01-01,start,,ley-de-ingresos-para-el-municipio-de-almoloya-hidalgo-corres,29,main
+2026-01-01,start,ley-2025-12-31-52-alcance-seis,ley-de-ingresos-para-el-municipio-de-apan-hidalgo-correspond,7,main
+2026-01-01,start,ley-2025-12-31-52-alcance-diez,ley-de-ingresos-para-el-municipio-de-francisco-i-madero-hida,3,main
+2026-01-01,start,ley-2025-12-31-52-alcance-catorce,ley-de-ingresos-para-el-municipio-de-san-agustin-tlaxiaca-hi,2,main
+2026-01-01,start,ley-2025-12-31-52-alcance-catorce,ley-de-ingresos-para-el-municipio-de-san-bartolo-tutotepec-h,2,main
+2026-01-01,start,ley-2025-12-31-52-alcance-catorce,ley-de-ingresos-para-el-municipio-de-san-felipe-orizatlan-hi,2,main
+2026-01-01,start,ley-2025-12-31-52-alcance-quince,ley-de-ingresos-para-el-municipio-de-santiago-de-anaya-hidal,3,main
+2026-01-01,start,ley-2025-12-31-52-alcance-quince,ley-de-ingresos-para-el-municipio-de-singuilucan-hidalgo-cor,2,main
+2026-01-01,start,ley-2025-12-31-52-alcance-diecinueve,ley-de-ingresos-para-el-municipio-de-tulancingo-de-bravo-hid,2,main
+2026-01-01,start,ley-2025-12-31-52-alcance-veinte,ley-de-ingresos-para-el-municipio-de-villa-de-tezontepec-hid,2,main
+2026-01-01,start,ley-2025-12-31-52-alcance-veinte,ley-de-ingresos-para-el-municipio-de-yahualica-hidalgo-corre,2,main
+2026-01-01,start,ley-2025-12-31-52-alcance-veintiuno,ley-de-ingresos-para-el-municipio-de-zapotlan-de-juarez-hida,4,main
+2026-01-01,start,ley-2025-12-31-52-alcance-veintiuno,ley-de-ingresos-para-el-municipio-de-zempoala-hidalgo-corres,3,main
+2026-01-01,law,decreto-2025-12-31-52-alcance-uno,codigo-fiscal ley-de-coordinacion-fiscal ley-de-hacienda ley-de-hacienda-para-los-municipios ley-de-presupuesto-y-contabilidad-gubernamental ley-estatal-de-derechos,59,main
+2026-01-08,law,decreto-2026-01-07-1-alcance,ley-de-educacion-superior ley-de-migrantes-hidalguenses-y-en-contexto-de-movilidad,4,main
+2026-01-10,law,decreto-2026-01-07-1-alcance,ley-de-coordinacion-fiscal,2,main
+2026-01-16,law,decreto-2026-01-13-2-alcance,ley-de-desarrollo-forestal-sustentable,2,main
+2026-02-28,law,decreto-2026-02-25-8-alcance,ley-estatal-de-derechos,3,main
+2026-03-04,law,decreto-2026-03-03-9-alcance,constitucion-politica,10,main
+2026-03-04,law,decreto-2026-03-03-9-alcance-2,constitucion-politica,5,main
+2026-03-12,law,decreto-2026-03-11-10-alcance,ley-organica-del-ministerio-publico,2,main
+2026-03-26,law,decreto-2026-03-25-12-alcance-dos,ley-de-los-trabajadores-al-servicio-de-los-gobiernos-estatal ley-de-movilidad-y-transporte ley-de-turismo-sustentable,9,main
+2026-04-08,law,decreto-2026-04-07-14-alcance,ley-de-derechos-y-cultura-indigena ley-de-proteccion-a-personas-defensoras-de-derechos-humanos,5,main
+2026-04-14,law,decreto-2026-04-13-15-ordinario,ley-de-asistencia-social ley-de-los-derechos-de-las-personas-adultas-mayores-antes-le ley-de-los-derechos-de-ninas-ninos-y-adolescentes,31,main
+2026-04-15,law,decreto-2026-04-14-15-alcance-uno,ley-de-los-derechos-de-las-personas-adultas-mayores-antes-le ley-de-los-derechos-de-ninas-ninos-y-adolescentes ley-de-movilidad-y-transporte ley-de-proteccion-civil ley-de-transito-y-seguridad-vial,19,main
+2026-04-15,law,decreto-2026-04-14-15-alcance-uno-2,ley-de-movilidad-y-transporte,3,main
+2026-04-22,law,decreto-2026-04-21-15-alcance,ley-de-migrantes-hidalguenses-y-en-contexto-de-movilidad,4,main
+2026-04-23,law,decreto-2026-04-22-16-alcance-uno,constitucion-politica ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia ley-de-desarrollo-social,12,main
+2026-04-23,law,decreto-2026-04-22-16-alcance-uno-2,constitucion-politica,6,main
+2026-04-29,law,decreto-2026-04-28-17-alcance,constitucion-politica ley-de-educacion ley-de-movilidad-y-transporte ley-de-salud,8,main
+2026-04-29,law,decreto-2026-04-28-17-alcance-2,constitucion-politica,2,main
+2026-04-29,law,decreto-2026-04-28-17-alcance-3,constitucion-politica,2,main
+2026-04-29,law,decreto-2026-04-28-17-alcance-4,constitucion-politica,3,main
+2026-04-29,law,decreto-2026-04-28-17-alcance-5,constitucion-politica,2,main
+2026-04-29,law,decreto-2026-04-28-17-alcance-6,constitucion-politica,2,main
+2026-05-08,law,decreto-2026-05-07-18-alcance-dos,constitucion-politica ley-de-ingresos-para-el-municipio-de-acatlan-hidalgo-corresp ley-de-planeacion-y-prospectiva ley-de-proteccion-civil,8,main
+2026-05-08,law,decreto-2026-05-07-18-alcance-dos-2,constitucion-politica,2,main
+2026-05-08,law,decreto-2026-05-07-18-alcance-dos-3,constitucion-politica,5,main
+2026-05-22,law,decreto-2026-05-21-20-alcance-tres,ley-de-asistencia-social ley-de-fomento-para-la-lectura-y-el-libro,6,main
+2026-06-12,law,decreto-2026-06-11-23-alcance-dos,ley-de-cultura-y-derechos-culturales ley-de-entrega-recepcion-de-los-recursos-publicos ley-de-los-derechos-de-ninas-ninos-y-adolescentes ley-de-turismo-sustentable,13,main
+2026-06-18,law,decreto-2026-06-17-24-alcance-uno,ley-de-los-derechos-de-las-personas-adultas-mayores-antes-le ley-de-los-trabajadores-al-servicio-de-los-gobiernos-estatal,4,main
+2026-06-27,law,decreto-2026-06-26-25-alcance-tres,ley-de-asistencia-social ley-de-los-derechos-de-las-personas-adultas-mayores-antes-le,7,main
+2026-07-07,law,decreto-2026-07-06-27-ordinario,ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia ley-de-educacion-superior ley-de-salud,7,main
+2026-07-08,law,decreto-2026-07-07-27-alcance,constitucion-politica,5,main
+2026-07-09,law,decreto-2026-07-08-27-alcance-uno,constitucion-politica ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia ley-de-cultura-fisica-deporte-y-recreacion ley-de-derechos-de-las-personas-jovenes ley-de-derechos-humanos ley-de-desarrollo-agricola-sustentable ley-de-fiscalizacion-superior-y-rendicion-de-cuentas ley-de-fomento-y-desarrollo-economico ley-de-los-derechos-de-las-personas-adultas-mayores-antes-le ley-de-los-derechos-de-ninas-ninos-y-adolescentes ley-de-los-trabajadores-al-servicio-de-los-gobiernos-estatal ley-de-responsabilidades-administrativas ley-de-salud-mental-y-prevencion-del-suicidio ley-de-seguridad-publica ley-de-turismo-sustentable ley-del-centro-de-conciliacion-laboral ley-del-instituto-para-el-desarrollo-y-fortalecimiento-munic ley-estatal-de-agua-y-alcantarillado ley-organica-del-ministerio-publico ley-organica-del-poder-judicial,85,main
+2026-07-09,law,decreto-2026-07-08-27-alcance-uno-2,ley-de-los-derechos-de-las-personas-adultas-mayores-antes-le ley-de-los-derechos-de-ninas-ninos-y-adolescentes ley-de-seguridad-publica ley-estatal-de-agua-y-alcantarillado,10,main
+2026-07-09,law,decreto-2026-07-08-27-alcance-uno-3,ley-de-seguridad-publica,4,main
+2026-07-11,law,decreto-2026-07-08-27-alcance-uno,ley-de-educacion,2,main
+2026-07-11,law,decreto-2026-07-08-27-alcance-uno-2,ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia,5,main
+2026-07-11,law,decreto-2026-07-08-27-alcance-uno-2,ley-de-educacion,2,main
+2026-07-28,law,decreto-2026-07-27-30-ordinario,codigo-fiscal-municipal ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia ley-de-cultura-fisica-deporte-y-recreacion ley-de-migrantes-hidalguenses-y-en-contexto-de-movilidad ley-de-proteccion-civil ley-estatal-de-agua-y-alcantarillado,22,main
+2026-08-07,law,decreto-2026-08-06-31-alcance-dos,codigo-penal ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia ley-de-educacion ley-de-humanidades-ciencias-tecnologias-e-innovacion ley-de-poblacion ley-de-salud-mental-y-prevencion-del-suicidio ley-estatal-de-agua-y-alcantarillado,31,main
+2026-08-18,law,decreto-2026-08-17-33-alcance,codigo-electoral ley-de-cultura-fisica-deporte-y-recreacion ley-de-educacion ley-de-salud ley-de-victimas ley-organica-del-instituto-de-defensoria-publica,17,main
+2026-08-29,law,decreto-2026-08-28-34-alcance-cinco,ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia ley-de-cultura-fisica-deporte-y-recreacion ley-de-cultura-y-derechos-culturales ley-de-derechos-y-cultura-indigena ley-de-educacion ley-de-educacion-superior ley-de-los-derechos-de-las-personas-adultas-mayores-antes-le ley-de-los-derechos-de-ninas-ninos-y-adolescentes ley-de-mitigacion-y-adaptacion-ante-los-efectos-del-cambio-c ley-de-prestacion-de-servicios-para-la-atencion-cuidado-prot ley-de-proteccion-civil ley-de-proteccion-y-trato-digno-para-los-animales-en-el-esta ley-de-turismo-sustentable,33,main
+2026-08-29,law,decreto-2026-08-28-34-alcance-cinco-2,ley-de-educacion ley-de-los-derechos-de-las-personas-adultas-mayores-antes-le ley-de-mitigacion-y-adaptacion-ante-los-efectos-del-cambio-c,12,main
+2026-08-29,law,decreto-2026-08-28-34-alcance-cinco-3,ley-de-educacion ley-de-los-derechos-de-las-personas-adultas-mayores-antes-le ley-de-mitigacion-y-adaptacion-ante-los-efectos-del-cambio-c,6,main
+2026-09-14,law,decreto-2026-09-14-37-ordinario,codigo-electoral,2,main
+2026-09-14,law,decreto-2026-09-14-37-ordinario-2,codigo-electoral,12,main
+2026-09-19,law,decreto-2026-09-18-37-alcance-dos,ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia,16,main
+2026-09-25,law,fe-de-erratas-2026-09-25-38-alcance-tres,codigo-penal,2,main
+2026-10-07,law,decreto-2026-10-06-40-alcance,ley-de-proteccion-civil ley-organica-de-la-administracion-publica,18,main
+2026-10-07,law,ley-2026-10-06-40-alcance,ley-de-proteccion-de-datos-personales-en-posesion-de-sujetos ley-de-transparencia-y-acceso-a-la-informacion-publica,4,main
+2026-10-07,law,decreto-2026-10-06-40-alcance-2,ley-organica-de-la-administracion-publica,3,main
+2026-10-17,law,decreto-2026-10-16-41-alcance-tres,ley-de-los-derechos-de-ninas-ninos-y-adolescentes,2,main
+2026-10-23,law,decreto-2026-10-22-42-alcance-dos,ley-de-cultura-fisica-deporte-y-recreacion ley-de-desarrollo-social ley-de-los-derechos-de-ninas-ninos-y-adolescentes ley-de-turismo-sustentable ley-integral-para-las-personas-con-discapacidad,12,main
+2026-10-23,law,decreto-2026-10-22-42-alcane-dos,ley-de-movilidad-y-transporte,2,main
+2027-01-03,law,ley-2026-07-07-27-alcance,ley-del-notariado,2,futuro

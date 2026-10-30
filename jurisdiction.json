@@ -1,0 +1,11 @@
+{
+  "path": "mx-hid",
+  "code": "MX-HID",
+  "name": "Hidalgo",
+  "level": "state",
+  "parent": "mx",
+  "repo": "https://github.com/lexifina/mexico-hidalgo-law",
+  "build": "built: constitution, codes and laws (143 ordenamientos, 1581 versions) from SCJN Legislación",
+  "language": "es",
+  "sources": 1
+}
